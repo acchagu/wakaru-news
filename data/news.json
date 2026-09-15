@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-09-15T06:42:04+00:00",
+  "updated_at": "2026-09-15T06:51:02+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月14日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260914.pdf",
+      "date": "2026-09-14 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
+      "date": "2026-09-14 08:00"
+    },
     {
       "category": "国内",
       "source": "デジタル庁",
       "title": "カード代替電磁的記録（属性証明機能）における大臣認定を取得した確認用プログラムを更新しました",
       "link": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
       "date": "2026-09-14 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "（論文）金融研究所DPS：ユーザブルセキュリティ研究の現状と展望",
+      "link": "http://www.boj.or.jp/research/imes/dps/dps260914b.htm",
+      "date": "2026-09-14 02:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "（論文）金融研究所DPS：2026年国際コンファランスの模様",
+      "link": "http://www.boj.or.jp/research/imes/dps/dps260914a.htm",
+      "date": "2026-09-14 02:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
+      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
+      "date": "2026-09-14 02:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "営業毎旬報告（9月10日現在）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260910.htm",
+      "date": "2026-09-14 01:00"
     },
     {
       "category": "国内",
@@ -23,6 +65,55 @@
       "date": "2026-09-11 23:38"
     },
     {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
+      "link": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
+      "date": "2026-09-11 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
+      "date": "2026-09-11 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）について公表しました。",
+      "link": "https://www.fsa.go.jp/soudan/2026soudan04-06/2026_04-06.html",
+      "date": "2026-09-11 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/ios/20260911/20260911.html",
+      "date": "2026-09-11 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
+      "link": "https://www.fsa.go.jp/search/20260911.html",
+      "date": "2026-09-11 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月11日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260911.pdf",
+      "date": "2026-09-11 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年7月号）",
+      "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
+      "date": "2026-09-11 07:30"
+    },
+    {
       "category": "国内",
       "source": "デジタル庁",
       "title": "デジタル推進委員向けのデジタル情報をまとめて案内するページ「教える人のためのデジタル情報ひろば」を更新しました",
@@ -30,11 +121,207 @@
       "date": "2026-09-11 06:00"
     },
     {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集: FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存: 課題およびリスク』に関するディスカッション・ペーパー」の公表について",
+      "link": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm",
+      "date": "2026-09-11 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【記者会見】増審議委員（福井、9月10日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf",
+      "date": "2026-09-11 04:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "企業物価指数（8月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
+      "date": "2026-09-10 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「マネタリーサーベイ」の訂正",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260911b.htm",
+      "date": "2026-09-10 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月10日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260910.pdf",
+      "date": "2026-09-10 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "フェイルの発生状況（8月）",
+      "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2608.pdf",
+      "date": "2026-09-10 07:30"
+    },
+    {
       "category": "国内",
       "source": "デジタル庁",
       "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
       "link": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
       "date": "2026-09-10 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "「日銀夏休み親子見学会2026」を開催しました（8月20日＜木＞～25日＜火＞）",
+      "link": "http://www.boj.or.jp/about/pr_events/hontenkoho/hon260910.htm",
+      "date": "2026-09-10 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【挨拶】増審議委員「わが国の経済・物価情勢と金融政策」（福井）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko260910a.htm",
+      "date": "2026-09-10 01:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "デリバティブ取引に関する定例市場報告",
+      "link": "http://www.boj.or.jp/statistics/bis/yoshi/index.htm",
+      "date": "2026-09-09 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「デリバティブ取引に関する定例市場報告」に係る計数訂正のお知らせ",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260910a.htm",
+      "date": "2026-09-09 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
+      "date": "2026-09-09 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
+      "date": "2026-09-09 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "イベント,～将来を見据えたおかねのキホン～NISAとiDeCoで始める資産形成セミナーの開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261028/20260909.html",
+      "date": "2026-09-09 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月9日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260909.pdf",
+      "date": "2026-09-09 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（愛知県）",
+      "link": "http://www.boj.or.jp/about/bcp/fso/fso260909a.pdf",
+      "date": "2026-09-09 03:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行やその役職員の関与を装った不審な連絡・勧誘・ウェブサイト・SNSアカウントなどにご注意ください",
+      "link": "http://www.boj.or.jp/about/organization/notice/index.htm",
+      "date": "2026-09-09 01:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "マネーストック（8月）",
+      "link": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
+      "date": "2026-09-08 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月8日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260908.pdf",
+      "date": "2026-09-08 08:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "貸出・預金動向（8月）",
+      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
+      "date": "2026-09-07 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「貸出・預金動向」の訂正について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260908a.pdf",
+      "date": "2026-09-07 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-09-07 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月7日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260907.pdf",
+      "date": "2026-09-07 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "コール市場残高（8月）",
+      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "date": "2026-09-07 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "消費活動指数",
+      "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
+      "date": "2026-09-07 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "マネタリーベースと日本銀行の取引（8月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
+      "date": "2026-09-06 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "日本銀行の対政府取引（8月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
+      "date": "2026-09-06 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "オペレーション（8月）",
+      "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
+      "date": "2026-09-06 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「令和7年度政策評価実績評価書」等について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20260904/01.html",
+      "date": "2026-09-04 17:00"
     },
     {
       "category": "国内",
@@ -56,6 +343,13 @@
       "title": "2025年基準 消費動向指数（CTI）2026年（令和8年）7月分",
       "link": "https://www.stat.go.jp/data/cti/index2.html",
       "date": "2026-09-04"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904.html",
+      "date": "2026-09-03 17:00"
     },
     {
       "category": "国内",
@@ -140,300 +434,6 @@
       "title": "人口推計（2026年（令和8年）8月報）",
       "link": "https://www.stat.go.jp/data/jinsui/new.html",
       "date": "2026-08-20"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
-      "date": "2026-09-14 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（論文）金融研究所DPS：ユーザブルセキュリティ研究の現状と展望",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps260914b.htm",
-      "date": "2026-09-14 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（論文）金融研究所DPS：2026年国際コンファランスの模様",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps260914a.htm",
-      "date": "2026-09-14 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
-      "date": "2026-09-14 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "営業毎旬報告（9月10日現在）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260910.htm",
-      "date": "2026-09-14 01:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "日本銀行政策委員会月報（令和8年7月号）",
-      "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
-      "date": "2026-09-11 07:30"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集: FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存: 課題およびリスク』に関するディスカッション・ペーパー」の公表について",
-      "link": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm",
-      "date": "2026-09-11 06:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【記者会見】増審議委員（福井、9月10日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf",
-      "date": "2026-09-11 04:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "企業物価指数（8月）",
-      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
-      "date": "2026-09-10 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "フェイルの発生状況（8月）",
-      "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2608.pdf",
-      "date": "2026-09-10 07:30"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "「日銀夏休み親子見学会2026」を開催しました（8月20日＜木＞～25日＜火＞）",
-      "link": "http://www.boj.or.jp/about/pr_events/hontenkoho/hon260910.htm",
-      "date": "2026-09-10 06:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【挨拶】増審議委員「わが国の経済・物価情勢と金融政策」（福井）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko260910a.htm",
-      "date": "2026-09-10 01:30"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "デリバティブ取引に関する定例市場報告",
-      "link": "http://www.boj.or.jp/statistics/bis/yoshi/index.htm",
-      "date": "2026-09-09 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（愛知県）",
-      "link": "http://www.boj.or.jp/about/bcp/fso/fso260909a.pdf",
-      "date": "2026-09-09 03:30"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "日本銀行やその役職員の関与を装った不審な連絡・勧誘・ウェブサイト・SNSアカウントなどにご注意ください",
-      "link": "http://www.boj.or.jp/about/organization/notice/index.htm",
-      "date": "2026-09-09 01:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "マネーストック（8月）",
-      "link": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
-      "date": "2026-09-08 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "貸出・預金動向（8月）",
-      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
-      "date": "2026-09-07 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "コール市場残高（8月）",
-      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-      "date": "2026-09-07 06:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "消費活動指数",
-      "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
-      "date": "2026-09-07 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月14日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260914.pdf",
-      "date": "2026-09-14 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月11日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260911.pdf",
-      "date": "2026-09-11 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「マネタリーサーベイ」の訂正",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260911b.htm",
-      "date": "2026-09-10 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月10日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260910.pdf",
-      "date": "2026-09-10 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「デリバティブ取引に関する定例市場報告」に係る計数訂正のお知らせ",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260910a.htm",
-      "date": "2026-09-09 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月9日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260909.pdf",
-      "date": "2026-09-09 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月8日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260908.pdf",
-      "date": "2026-09-08 08:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「貸出・預金動向」の訂正について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260908a.pdf",
-      "date": "2026-09-07 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月7日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260907.pdf",
-      "date": "2026-09-07 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "マネタリーベースと日本銀行の取引（8月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
-      "date": "2026-09-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行の対政府取引（8月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
-      "date": "2026-09-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "オペレーション（8月）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
-      "date": "2026-09-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
-      "link": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
-      "date": "2026-09-11 18:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
-      "date": "2026-09-11 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）について公表しました。",
-      "link": "https://www.fsa.go.jp/soudan/2026soudan04-06/2026_04-06.html",
-      "date": "2026-09-11 15:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/ios/20260911/20260911.html",
-      "date": "2026-09-11 15:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
-      "link": "https://www.fsa.go.jp/search/20260911.html",
-      "date": "2026-09-11 10:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
-      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
-      "date": "2026-09-09 18:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
-      "date": "2026-09-09 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "イベント,～将来を見据えたおかねのキホン～NISAとiDeCoで始める資産形成セミナーの開催について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20261028/20260909.html",
-      "date": "2026-09-09 10:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-      "date": "2026-09-07 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「令和7年度政策評価実績評価書」等について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20260904/01.html",
-      "date": "2026-09-04 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904.html",
-      "date": "2026-09-03 17:00"
     }
   ],
   "errors": []
