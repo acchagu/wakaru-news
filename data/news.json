@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:19:13+00:00",
+  "updated_at": "2026-09-15T07:25:43+00:00",
   "items": [
     {
       "category": "ゲーム・IT",
@@ -7,6 +7,13 @@
       "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。",
       "link": "https://www.nintendo.com/jp/topics/article/fae652aa-9d8a-43d6-86cc-68f217277520",
       "date": "2026-09-15 02:18"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Appleのソフトウェアプラットフォームのメジャーアップデートが利用可能に",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "date": "2026-09-15"
     },
     {
       "category": "お金",
@@ -70,6 +77,13 @@
       "title": "営業毎旬報告（9月10日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260910.htm",
       "date": "2026-09-14 01:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、子どもの安全の新しい機能が利用可能に",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+      "date": "2026-09-14"
     },
     {
       "category": "国内",
@@ -168,6 +182,13 @@
       "title": "ニンテンドーeショップ新作ソフト情報 9/11（金）号。",
       "link": "https://www.nintendo.com/jp/topics/article/e4aaff58-ca40-4813-b354-5ec04d9904da",
       "date": "2026-09-11 01:03"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "iPhone 18 Pro、Apple Watchの最新ラインナップ、AirPods 5の体験がまもなく始まります",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "date": "2026-09-11"
     },
     {
       "category": "お金",
@@ -317,6 +338,13 @@
       "date": "2026-09-10 01:02"
     },
     {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、iPhone 18 ProとiPhone 18 Pro Maxを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "date": "2026-09-10"
+    },
+    {
       "category": "お金",
       "source": "日本銀行",
       "title": "デリバティブ取引に関する定例市場報告",
@@ -394,6 +422,34 @@
       "date": "2026-09-09 01:00"
     },
     {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、iPhone Duoを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "date": "2026-09-09"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、Apple Watch Ultra 4を発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "date": "2026-09-09"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "新しいヘルスセンシングシステムを搭載したApple Watch Series 12が登場",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "date": "2026-09-09"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、クラス最高のオープンイヤー型アクティブノイズキャンセリングを搭載したAirPods 5を発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "date": "2026-09-09"
+    },
+    {
       "category": "お金",
       "source": "日本銀行",
       "title": "マネーストック（8月）",
@@ -413,6 +469,13 @@
       "title": "外国為替市況（9月8日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260908.pdf",
       "date": "2026-09-08 08:50"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "インターネットで大人気の猫が「プシーンのおうち」でApple Arcadeに登場",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
+      "date": "2026-09-08"
     },
     {
       "category": "お金",
@@ -604,10 +667,38 @@
       "date": "2026-08-27"
     },
     {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "「Sneaky Sasquatch」のエキサイティングなアップデートがApple Arcadeに登場",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+      "date": "2026-08-27"
+    },
+    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "データサイエンス・オンライン講座「社会人のためのデータサイエンス演習」の受講者募集開始（PDF：656KB）",
       "link": "https://www.stat.go.jp/info/guide/public/houdou/pdf/ho260825.pdf",
+      "date": "2026-08-25"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "date": "2026-08-25"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、新しいM6とM5 Proを搭載し、さらにパワフルになったMac miniを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "date": "2026-08-25"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、パフォーマンスとAI演算の大幅な向上をもたらすM6とM5 Ultraを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "date": "2026-08-25"
     },
     {
@@ -644,6 +735,55 @@
       "title": "人口推計（2026年（令和8年）8月報）",
       "link": "https://www.stat.go.jp/data/jinsui/new.html",
       "date": "2026-08-20"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、EU域内でのアプリに対する変更を発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "date": "2026-08-18"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple Arcadeが「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」でレベルアップ",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
+      "date": "2026-08-11"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "date": "2026-08-10"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "リーグカップが、8月4日（日本時間8月5日）にApple TVでキックオフ",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "date": "2026-08-03"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、第3四半期の業績を発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/07/apple-reports-third-quarter-results/",
+      "date": "2026-07-31"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に",
+      "link": "https://www.apple.com/jp/newsroom/2026/07/applecareplus-expands-in-japan-with-new-theft-and-loss-coverage-and-plan-options/",
+      "date": "2026-07-21"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "メジャーリーグサッカーが明日Apple TVに帰ってきます",
+      "link": "https://www.apple.com/jp/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
+      "date": "2026-07-15"
     }
   ],
   "errors": []
