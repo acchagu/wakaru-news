@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T05:49:30+00:00",
+  "updated_at": "2026-09-15T06:05:05+00:00",
   "items": [
     {
       "category": "国内",
@@ -171,13 +171,6 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
-      "link": "http://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
-      "date": "2026-09-07 02:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月14日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260914.pdf",
@@ -259,6 +252,83 @@
       "title": "オペレーション（8月）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
       "date": "2026-09-06 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
+      "link": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
+      "date": "2026-09-11 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
+      "date": "2026-09-11 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）について公表しました。",
+      "link": "https://www.fsa.go.jp/soudan/2026soudan04-06/2026_04-06.html",
+      "date": "2026-09-11 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/ios/20260911/20260911.html",
+      "date": "2026-09-11 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
+      "link": "https://www.fsa.go.jp/search/20260911.html",
+      "date": "2026-09-11 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
+      "date": "2026-09-09 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
+      "date": "2026-09-09 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "イベント,～将来を見据えたおかねのキホン～NISAとiDeCoで始める資産形成セミナーの開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261028/20260909.html",
+      "date": "2026-09-09 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-09-07 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「令和7年度政策評価実績評価書」等について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20260904/01.html",
+      "date": "2026-09-04 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904.html",
+      "date": "2026-09-03 17:00"
     }
   ],
   "errors": []
