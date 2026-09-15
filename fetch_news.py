@@ -116,6 +116,8 @@ for x in items:
         seen.add(key)
         unique.append(x)
 
+unique.sort(key=lambda x: x.get("date", ""), reverse=True)
+
 payload = {
     "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
     "items": unique,
