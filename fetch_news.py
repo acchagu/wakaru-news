@@ -7,8 +7,10 @@ import json, re, html
 
 FEEDS = [
     ("国内", "デジタル庁", "https://www.digital.go.jp/rss/news.xml"),
+    ("国内", "総務省統計局", "https://www.stat.go.jp/whatsnew/news.rdf"),
     ("お金", "日本銀行", "https://www.boj.or.jp/rss/whatsnew.xml"),
     ("お金", "日本銀行 統計", "https://www.boj.or.jp/rss/statistics.xml"),
+    ("お金", "金融庁", "https://www.fsa.go.jp/fsaNewsListAll_rss2.xml"),
 ]
 
 def text_of(node, names):
