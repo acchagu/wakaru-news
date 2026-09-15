@@ -14,6 +14,7 @@ FEEDS = [
     ("お金", "金融庁", "https://www.fsa.go.jp/fsaNewsListAll_rss2.xml"),
     ("海外", "国連ジュネーブ", "https://www.ungeneva.org/en/news-media/press-items-list/rss.xml"),
     ("ゲーム・IT", "任天堂", "https://www.nintendo.co.jp/news/whatsnew.xml"),
+    ("ゲーム・IT", "Apple Newsroom", "https://www.apple.com/jp/newsroom/rss-feed.rss"),
 ]
 
 EXCLUDE_WORDS = [
