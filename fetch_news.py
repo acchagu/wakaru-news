@@ -3,6 +3,7 @@ from urllib.parse import urljoin
 from xml.etree import ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime
+from pathlib import Path
 import json, re, html
 
 FEEDS = [
