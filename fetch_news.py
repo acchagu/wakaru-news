@@ -13,6 +13,18 @@ FEEDS = [
     ("お金", "金融庁", "https://www.fsa.go.jp/fsaNewsListAll_rss2.xml"),
 ]
 
+EXCLUDE_WORDS = [
+    "一般競争入札", "企画競争", "調達", "入札公告", "落札",
+    "採用情報", "職員採用", "非常勤職員",
+    "ダッシュボードを更新", "ページを更新", "掲載しました",
+    "募集を開始", "意見募集", "パブリックコメント",
+    "仕様書", "公募", "契約"
+]
+
+RSS1 = "http://purl.org/rss/1.0/"
+ATOM = "http://www.w3.org/2005/Atom"
+DC = "http://purl.org/dc/elements/1.1/"
+
 def text_of(node, names):
     for name in names:
         el = node.find(name)
@@ -35,30 +47,41 @@ def fmt_date(raw):
     return f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}" if m else raw[:25]
 
 def fetch(category, source, url):
-    req = Request(url, headers={"User-Agent":"wakaru-news/1.0"})
+    req = Request(url, headers={"User-Agent": "wakaru-news/1.1"})
     with urlopen(req, timeout=30) as r:
         root = ET.fromstring(r.read())
 
-    out = []
-    # RSS 2.0
+    # RSS 2.0 -> RSS 1.0/RDF -> Atom
     nodes = root.findall(".//item")
-    # Atom
     if not nodes:
-        nodes = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+        nodes = root.findall(f".//{{{RSS1}}}item")
+    if not nodes:
+        nodes = root.findall(f".//{{{ATOM}}}entry")
 
+    out = []
     for n in nodes[:20]:
-        title = clean(text_of(n, ["title", "{http://www.w3.org/2005/Atom}title"]))
-        link = text_of(n, ["link"])
+        title = clean(text_of(n, [
+            "title",
+            f"{{{RSS1}}}title",
+            f"{{{ATOM}}}title",
+        ]))
+
+        link = text_of(n, [
+            "link",
+            f"{{{RSS1}}}link",
+        ])
         if not link:
-            le = n.find("{http://www.w3.org/2005/Atom}link")
+            le = n.find(f"{{{ATOM}}}link")
             if le is not None:
-                link = le.attrib.get("href","")
+                link = le.attrib.get("href", "")
+
         date = text_of(n, [
             "pubDate",
-            "{http://purl.org/dc/elements/1.1/}date",
-            "{http://www.w3.org/2005/Atom}updated",
-            "{http://www.w3.org/2005/Atom}published"
+            f"{{{DC}}}date",
+            f"{{{ATOM}}}updated",
+            f"{{{ATOM}}}published",
         ])
+
         if title and link:
             out.append({
                 "category": category,
@@ -69,31 +92,21 @@ def fetch(category, source, url):
             })
     return out
 
-# 「ニュース一覧」に不要な事務連絡を除外
-EXCLUDE_WORDS = [
-    "一般競争入札", "企画競争", "調達", "入札公告", "落札",
-    "採用情報", "職員採用", "非常勤職員",
-    "ダッシュボードを更新", "ページを更新", "掲載しました",
-    "募集を開始", "意見募集", "パブリックコメント",
-    "仕様書", "公募", "契約"
-]
-
 def is_newsworthy(item):
     title = item.get("title", "")
     return not any(word in title for word in EXCLUDE_WORDS)
 
 items = []
 errors = []
+
 for feed in FEEDS:
     try:
         items.extend(fetch(*feed))
     except Exception as e:
         errors.append(f"{feed[1]}: {e}")
 
-# 事務連絡を除外
 items = [x for x in items if is_newsworthy(x)]
 
-# 重複除去
 seen = set()
 unique = []
 for x in items:
@@ -107,6 +120,9 @@ payload = {
     "items": unique,
     "errors": errors
 }
+
+Path("data").mkdir(exist_ok=True)
 with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(payload, f, ensure_ascii=False, indent=2)
+
 print(f"{len(unique)} items", errors)
