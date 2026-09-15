@@ -1,33 +1,12 @@
 {
-  "updated_at": "2026-09-15T05:28:14+00:00",
+  "updated_at": "2026-09-15T05:49:30+00:00",
   "items": [
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
-      "link": "https://www.digital.go.jp/speech/minister-260915-01",
-      "date": "2026-09-15 04:04"
-    },
     {
       "category": "国内",
       "source": "デジタル庁",
       "title": "カード代替電磁的記録（属性証明機能）における大臣認定を取得した確認用プログラムを更新しました",
       "link": "https://www.digital.go.jp/policies/mynumber/mynumbercard-mdoc",
       "date": "2026-09-14 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "一般競争入札：自治体情報システムの運用最適化の実現に向けた複数自治体で連携した知見共有及び運用最適化実施の方法に係る調査検討業務を掲載しました",
-      "link": "https://www.digital.go.jp/procurement",
-      "date": "2026-09-14 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "松本大臣記者会見（令和8年9月11日）要旨を掲載しました",
-      "link": "https://www.digital.go.jp/speech/minister-260911-01",
-      "date": "2026-09-14 05:33"
     },
     {
       "category": "国内",
@@ -39,37 +18,9 @@
     {
       "category": "国内",
       "source": "デジタル庁",
-      "title": "（公募終了）【二次公募】令和6年度PMH（医療費助成）先行実施事業の自治体公募を開始しました",
-      "link": "https://www.digital.go.jp/news/667aa61d-a798-4098-9653-8d3cad62679a",
-      "date": "2026-09-11 23:44"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
       "title": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
       "link": "https://www.digital.go.jp/news/nDu6utZi",
       "date": "2026-09-11 23:38"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "企画競争：令和8年度マイナンバーカードを活用した地域住民等による地域活性化実証実験を掲載しました",
-      "link": "https://www.digital.go.jp/procurement",
-      "date": "2026-09-11 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "企画競争：令和8年度補助金申請システムの機能拡充に係る改修等業務を掲載しました",
-      "link": "https://www.digital.go.jp/procurement",
-      "date": "2026-09-11 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "一般競争入札：国家資格等情報連携・活用システムの利用拡大に伴う機能強化及び性能改善に係る設計・開発業務を掲載しました",
-      "link": "https://www.digital.go.jp/procurement",
-      "date": "2026-09-11 06:00"
     },
     {
       "category": "国内",
@@ -81,65 +32,9 @@
     {
       "category": "国内",
       "source": "デジタル庁",
-      "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
-      "link": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
-      "date": "2026-09-11 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "医療DXに関するダッシュボードを更新しました",
-      "link": "https://www.digital.go.jp/resources/govdashboard/healthcare-dx",
-      "date": "2026-09-11 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "新卒採用 業務説明会・イベント情報を掲載しました",
-      "link": "https://www.digital.go.jp/recruitment/recruiting-session",
-      "date": "2026-09-11 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "松本大臣記者会見（令和8年9月11日）動画を掲載しました",
-      "link": "https://www.digital.go.jp/speech/minister-260911-01",
-      "date": "2026-09-11 02:45"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
       "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
       "link": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
       "date": "2026-09-10 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "一般競争入札：令和8年度刑事手続のIT化に係る通信サービス（専用線サービス）の提供及び保守等（再度公告）を掲載しました",
-      "link": "https://www.digital.go.jp/procurement",
-      "date": "2026-09-10 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "一般競争入札：ガバメントクラウドに係る情報セキュリティ監査業務（令和8年度）を掲載しました",
-      "link": "https://www.digital.go.jp/procurement",
-      "date": "2026-09-10 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "松本大臣記者会見（令和8年9月8日）要旨を掲載しました",
-      "link": "https://www.digital.go.jp/speech/minister-260908-01",
-      "date": "2026-09-09 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "任期付職員 人事・給与関係業務情報システム担当（システム運用）の募集を掲載しました",
-      "link": "https://www.digital.go.jp/recruitment/fixed-term",
-      "date": "2026-09-09 06:00"
     },
     {
       "category": "お金",
