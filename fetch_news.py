@@ -13,6 +13,7 @@ FEEDS = [
     ("お金", "日本銀行 統計", "https://www.boj.or.jp/rss/statistics.xml"),
     ("お金", "金融庁", "https://www.fsa.go.jp/fsaNewsListAll_rss2.xml"),
     ("海外", "国連ジュネーブ", "https://www.ungeneva.org/en/news-media/press-items-list/rss.xml"),
+    ("ゲーム・IT", "Google Japan Blog", "https://blog.google/intl/ja-jp/feed/"),
 ]
 
 EXCLUDE_WORDS = [
