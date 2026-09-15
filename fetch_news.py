@@ -67,6 +67,19 @@ def fetch(category, source, url):
             })
     return out
 
+# 「ニュース一覧」に不要な事務連絡を除外
+EXCLUDE_WORDS = [
+    "一般競争入札", "企画競争", "調達", "入札公告", "落札",
+    "採用情報", "職員採用", "非常勤職員",
+    "ダッシュボードを更新", "ページを更新", "掲載しました",
+    "募集を開始", "意見募集", "パブリックコメント",
+    "仕様書", "公募", "契約"
+]
+
+def is_newsworthy(item):
+    title = item.get("title", "")
+    return not any(word in title for word in EXCLUDE_WORDS)
+
 items = []
 errors = []
 for feed in FEEDS:
@@ -74,6 +87,9 @@ for feed in FEEDS:
         items.extend(fetch(*feed))
     except Exception as e:
         errors.append(f"{feed[1]}: {e}")
+
+# 事務連絡を除外
+items = [x for x in items if is_newsworthy(x)]
 
 # 重複除去
 seen = set()
