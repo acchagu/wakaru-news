@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-09-15T07:25:43+00:00",
+  "updated_at": "2026-09-15T11:50:17+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "その他,「成長投資を促進するための金融戦略 － 資産運用立国のアップグレード －」について公表しました。",
+      "link": "https://www.fsa.go.jp/policy/financialservicesstrategy2026/index.html",
+      "date": "2026-09-15 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "2026事務年度金融行政方針について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/202609/260915.html",
+      "date": "2026-09-15 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20260916.html",
+      "date": "2026-09-15 17:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "窓口BPRアドバイザー等へデジタル大臣から感謝状を贈呈しました",
+      "link": "https://www.digital.go.jp/news/fac78de2-8cee-457e-a1ba-97db8b0a738a",
+      "date": "2026-09-15 09:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月15日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260915.pdf",
+      "date": "2026-09-15 08:40"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。",
       "link": "https://www.nintendo.com/jp/topics/article/fae652aa-9d8a-43d6-86cc-68f217277520",
       "date": "2026-09-15 02:18"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "次世代のApple Intelligenceを提供開始",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/",
+      "date": "2026-09-15"
     },
     {
       "category": "ゲーム・IT",
@@ -366,13 +408,6 @@
       "date": "2026-09-09 18:00"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
-      "date": "2026-09-09 17:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "New Permanent Representative of Pakistan Presents Credentials to the Director-General of the United Nations Office at Geneva",
@@ -392,13 +427,6 @@
       "title": "New Permanent Representative of Türkiye Presents Credentials to the Director-General of the United Nations Office at Geneva",
       "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/la-nouvelle-representante-permanente-de-la",
       "date": "2026-09-09 14:53"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "イベント,～将来を見据えたおかねのキホン～NISAとiDeCoで始める資産形成セミナーの開催について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20261028/20260909.html",
-      "date": "2026-09-09 10:00"
     },
     {
       "category": "お金",
@@ -493,13 +521,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-      "date": "2026-09-07 17:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月7日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260907.pdf",
@@ -534,20 +555,6 @@
       "date": "2026-09-06 23:50"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "オペレーション（8月）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
-      "date": "2026-09-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「令和7年度政策評価実績評価書」等について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20260904/01.html",
-      "date": "2026-09-04 17:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Experts of the Committee on the Rights of the Child Welcome Positive Developments on Child Rights in Tanzania, Ask about Measures to Prohibit Corporal Punishment and Prevent Female Genital Mutilation",
@@ -574,13 +581,6 @@
       "title": "2025年基準 消費動向指数（CTI）2026年（令和8年）7月分",
       "link": "https://www.stat.go.jp/data/cti/index2.html",
       "date": "2026-09-04"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904.html",
-      "date": "2026-09-03 17:00"
     },
     {
       "category": "海外",
@@ -777,13 +777,6 @@
       "title": "AppleCare+が日本で拡大、新しい盗難・紛失に対する保証とプランのオプションが追加に",
       "link": "https://www.apple.com/jp/newsroom/2026/07/applecareplus-expands-in-japan-with-new-theft-and-loss-coverage-and-plan-options/",
       "date": "2026-07-21"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "メジャーリーグサッカーが明日Apple TVに帰ってきます",
-      "link": "https://www.apple.com/jp/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/",
-      "date": "2026-07-15"
     }
   ],
   "errors": []
