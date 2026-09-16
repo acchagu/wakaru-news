@@ -17,7 +17,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Fetch official RSS
-        run: python fetch_news.py
+　　　　　run: python fetch_news.py
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} 
       - name: Commit updated news
         run: |
           git config user.name "github-actions[bot]"
