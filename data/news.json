@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-15T22:58:32+00:00",
+  "updated_at": "2026-09-16T05:51:50+00:00",
   "items": [
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
+      "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+      "date": "2026-09-16 01:03"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "link": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
+      "date": "2026-09-16 01:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "長・短期プライムレート（主要行）の推移",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
+      "date": "2026-09-16 00:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -39,6 +60,13 @@
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
+      "title": "「開発者に訊きました：ファイアーエムブレム 万紫千紅」を公開しました。 4つの物語が1つに集結するストーリー、体験したことが蓄積され残っていく遊びづくり、ダグザの地を表す音楽やデザインのこだわりなど、開発者みずからの言葉でお届けします。 ※本作の対象年齢は「15歳以上」です。",
+      "link": "https://www.nintendo.com/jp/interview/aacsa/index.html",
+      "date": "2026-09-15 08:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
       "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。",
       "link": "https://www.nintendo.com/jp/topics/article/fae652aa-9d8a-43d6-86cc-68f217277520",
       "date": "2026-09-15 02:18"
@@ -69,13 +97,6 @@
       "source": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
-      "date": "2026-09-14 08:00"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 ソフト『ファイアーエムブレム 万紫千紅』の紹介映像を公開しました。 公式サイトでは、世界の命運を握るキャラクターの情報を新たに掲載しています。 ※本ソフトの対象年齢は「15歳以上」です。",
-      "link": "https://www.nintendo.com/jp/games/switch2/aacsa/index.html",
       "date": "2026-09-14 08:00"
     },
     {
@@ -415,13 +436,6 @@
       "date": "2026-09-09 15:26"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』の公式サイトを公開しました。 離島のリゾート「ウーフーアイランド」を舞台に、実際のスポーツのように直感的な操作で楽しめる、全12種目の体感スポーツを紹介しています。",
-      "link": "https://www.nintendo.com/jp/games/switch2/aacha/index.html",
-      "date": "2026-09-09 14:58"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "New Permanent Representative of Türkiye Presents Credentials to the Director-General of the United Nations Office at Geneva",
@@ -545,13 +559,6 @@
       "source": "日本銀行 統計",
       "title": "マネタリーベースと日本銀行の取引（8月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
-      "date": "2026-09-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行の対政府取引（8月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
       "date": "2026-09-06 23:50"
     },
     {
