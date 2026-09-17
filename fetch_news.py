@@ -4,8 +4,8 @@ from xml.etree import ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime
 from pathlib import Path
-import json, re, html
-
+import json, re, html, os
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 FEEDS = [
     ("国内", "デジタル庁", "https://www.digital.go.jp/rss/news.xml"),
     ("国内", "総務省統計局", "https://www.stat.go.jp/whatsnew/news.rdf"),
@@ -100,6 +100,28 @@ def is_newsworthy(item):
     title = item.get("title", "")
     return not any(word in title for word in EXCLUDE_WORDS)
 
+def add_ai_explanation(item):
+    if not OPENAI_API_KEY:
+        return item
+    prompt = f"""ニュース見出し：{item['title']}"""
+    data = {
+        "model": "gpt-5-mini",
+        "input": prompt
+    }    
+    body = json.dumps(data).encode("utf-8")    
+    req = Request(
+        "https://api.openai.com/v1/responses",
+        data=body,
+        headers={
+            "Authorization": f"Bearer {OPENAI_API_KEY}",
+            "Content-Type": "application/json"
+        }
+    )    
+    with urlopen(req, timeout=30) as r:
+        result = json.loads(r.read().decode("utf-8"))    
+    explanation = result["output"][0]["content"][0]["text"]
+    item["ai_explanation"] = explanation    
+    return item
 items = []
 errors = []
 
@@ -120,7 +142,8 @@ for x in items:
         unique.append(x)
 
 unique.sort(key=lambda x: x.get("date", ""), reverse=True)
-
+for i in range(min(3, len(unique))):
+    unique[i] = add_ai_explanation(unique[i])
 payload = {
     "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
     "items": unique,
