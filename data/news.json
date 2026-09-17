@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-16T22:56:22+00:00",
+  "updated_at": "2026-09-17T01:25:03+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "イベント,「昭和100年」関連シンポジウムの開催について公表しました。",
+      "link": "https://www.fsa.go.jp/kouhou/showa100nen/showa100symposium.html",
+      "date": "2026-09-17 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "資金循環統計（速報）（2026年第2四半期）",
+      "link": "http://www.boj.or.jp/statistics/sj/sj.htm",
+      "date": "2026-09-16 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "資金循環統計の遡及改定について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260917a.htm",
+      "date": "2026-09-16 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -217,13 +238,6 @@
       "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
       "link": "https://www.fsa.go.jp/inter/ios/20260911/20260911.html",
       "date": "2026-09-11 15:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
-      "link": "https://www.fsa.go.jp/search/20260911.html",
-      "date": "2026-09-11 10:00"
     },
     {
       "category": "お金",
@@ -539,27 +553,6 @@
       "title": "貸出・預金動向（8月）",
       "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
       "date": "2026-09-07 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「貸出・預金動向」の訂正について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260908a.pdf",
-      "date": "2026-09-07 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月7日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260907.pdf",
-      "date": "2026-09-07 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "コール市場残高（8月）",
-      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-      "date": "2026-09-07 06:00"
     },
     {
       "category": "海外",
