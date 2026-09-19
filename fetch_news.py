@@ -190,8 +190,23 @@ for x in items:
         unique.append(x)
 
 unique.sort(key=lambda x: x.get("date", ""), reverse=True)
-for i in range(min(3, len(unique))):
-    unique[i] = add_ai_explanation(unique[i])
+old_explanations = {}
+
+try:
+    with open("data/news.json", "r", encoding="utf-8") as f:
+        old_data = json.load(f)
+    for old_item in old_data.get("items", []):
+        if old_item.get("ai_explanation"):
+            old_explanations[(old_item["title"], old_item["link"])] = old_item["ai_explanation"]
+except Exception:
+    pass
+    for i in range(min(3, len(unique))):
+    key = (unique[i]["title"], unique[i]["link"])
+
+    if key in old_explanations:
+        unique[i]["ai_explanation"] = old_explanations[key]
+    else:
+        unique[i] = add_ai_explanation(unique[i])
 payload = {
     "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
     "items": unique,
