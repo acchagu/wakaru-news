@@ -4,7 +4,7 @@ from xml.etree import ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime
 from pathlib import Path
-import json, re, html, os
+import json, re, html, os, time
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 FEEDS = [
     ("国内", "デジタル庁", "https://www.digital.go.jp/rss/news.xml"),
@@ -153,15 +153,19 @@ def add_ai_explanation(item):
         }
     )
 
+for attempt in range(3):
     try:
         with urlopen(req, timeout=30) as r:
             result = json.loads(r.read().decode("utf-8"))
 
         explanation = result["candidates"][0]["content"]["parts"][0]["text"]
         item["ai_explanation"] = explanation
+        break
 
     except Exception as e:
-        print(f"Gemini API error: {e}")
+        print(f"Gemini API error (attempt {attempt + 1}/3): {e}")
+        if attempt < 2:
+            time.sleep(10)
 
     return item
 items = []
