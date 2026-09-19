@@ -117,17 +117,26 @@ def add_ai_explanation(item):
     }
 
     body = json.dumps(data).encode("utf-8")
+
     req = Request(
-        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key={GEMINI_API_KEY}",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent",
         data=body,
-        headers={"Content-Type": "application/json"}
+        headers={
+            "Content-Type": "application/json",
+            "x-goog-api-key": GEMINI_API_KEY
+        }
     )
 
-    with urlopen(req, timeout=30) as r:
-        result = json.loads(r.read().decode("utf-8"))
+    try:
+        with urlopen(req, timeout=30) as r:
+            result = json.loads(r.read().decode("utf-8"))
 
-    explanation = result["candidates"][0]["content"]["parts"][0]["text"]
-    item["ai_explanation"] = explanation
+        explanation = result["candidates"][0]["content"]["parts"][0]["text"]
+        item["ai_explanation"] = explanation
+
+    except Exception as e:
+        print(f"Gemini API error: {e}")
+
     return item
 items = []
 errors = []
