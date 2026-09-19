@@ -166,8 +166,9 @@ for attempt in range(3):
         print(f"Gemini API error (attempt {attempt + 1}/3): {e}")
         if attempt < 2:
             time.sleep(10)
+    return item
 
-            return item
+            
 items = []
 errors = []
 
