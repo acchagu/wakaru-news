@@ -5,7 +5,7 @@ from email.utils import parsedate_to_datetime
 from datetime import datetime
 from pathlib import Path
 import json, re, html, os
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 FEEDS = [
     ("国内", "デジタル庁", "https://www.digital.go.jp/rss/news.xml"),
     ("国内", "総務省統計局", "https://www.stat.go.jp/whatsnew/news.rdf"),
@@ -101,26 +101,33 @@ def is_newsworthy(item):
     return not any(word in title for word in EXCLUDE_WORDS)
 
 def add_ai_explanation(item):
-    if not OPENAI_API_KEY:
+    if not GEMINI_API_KEY:
         return item
+
     prompt = f"""ニュース見出し：{item['title']}"""
+
     data = {
-        "model": "gpt-5-mini",
-        "input": prompt
-    }    
-    body = json.dumps(data).encode("utf-8")    
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ]
+    }
+
+    body = json.dumps(data).encode("utf-8")
     req = Request(
-        "https://api.openai.com/v1/responses",
+        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}",
         data=body,
-        headers={
-            "Authorization": f"Bearer {OPENAI_API_KEY}",
-            "Content-Type": "application/json"
-        }
-    )    
+        headers={"Content-Type": "application/json"}
+    )
+
     with urlopen(req, timeout=30) as r:
-        result = json.loads(r.read().decode("utf-8"))    
-    explanation = result["output"][0]["content"][0]["text"]
-    item["ai_explanation"] = explanation    
+        result = json.loads(r.read().decode("utf-8"))
+
+    explanation = result["candidates"][0]["content"]["parts"][0]["text"]
+    item["ai_explanation"] = explanation
     return item
 items = []
 errors = []
