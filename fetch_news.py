@@ -167,7 +167,7 @@ for attempt in range(3):
         if attempt < 2:
             time.sleep(10)
 
-    return item
+        return item
 items = []
 errors = []
 
