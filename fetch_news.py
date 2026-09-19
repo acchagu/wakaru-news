@@ -153,19 +153,19 @@ def add_ai_explanation(item):
         }
     )
 
-for attempt in range(3):
-    try:
-        with urlopen(req, timeout=30) as r:
-            result = json.loads(r.read().decode("utf-8"))
-
-        explanation = result["candidates"][0]["content"]["parts"][0]["text"]
-        item["ai_explanation"] = explanation
-        break
-
-    except Exception as e:
-        print(f"Gemini API error (attempt {attempt + 1}/3): {e}")
-        if attempt < 2:
-            time.sleep(10)
+    for attempt in range(3):
+                    try:
+                        with urlopen(req, timeout=30) as r:
+                            result = json.loads(r.read().decode("utf-8"))
+                
+                        explanation = result["candidates"][0]["content"]["parts"][0]["text"]
+                        item["ai_explanation"] = explanation
+                        break
+                
+                    except Exception as e:
+                        print(f"Gemini API error (attempt {attempt + 1}/3): {e}")
+                        if attempt < 2:
+                            time.sleep(10)
     return item
 
             
