@@ -154,7 +154,7 @@ def add_ai_explanation(item):
         }
     )
 
-    for attempt in range(3):
+    for attempt in range(1):
                     try:
                         with urlopen(req, timeout=30) as r:
                             result = json.loads(r.read().decode("utf-8"))
