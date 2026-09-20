@@ -193,6 +193,16 @@ unique.sort(key=lambda x: x.get("date", ""), reverse=True)
 old_explanations = {}
 
 try:
+    with open("data/explanations.json", "r", encoding="utf-8") as f:
+        saved = json.load(f)
+        for key, value in saved.items():
+            old_explanations[key] = value
+except Exception:
+    pass
+
+
+
+try:
     with open("data/news.json", "r", encoding="utf-8") as f:
         old_data = json.load(f)
     for old_item in old_data.get("items", []):
@@ -214,6 +224,13 @@ payload = {
 }
 
 Path("data").mkdir(exist_ok=True)
+saved_explanations = {}
+for x in unique:
+    if x.get("ai_explanation"):
+        saved_explanations[x["title"] + "||" + x["link"]] = x["ai_explanation"]
+
+with open("data/explanations.json", "w", encoding="utf-8") as f:
+    json.dump(saved_explanations, f, ensure_ascii=False, indent=2)
 with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(payload, f, ensure_ascii=False, indent=2)
 
