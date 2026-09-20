@@ -201,12 +201,12 @@ try:
 except Exception:
     pass
     for i in range(min(3, len(unique))):
-    key = (unique[i]["title"], unique[i]["link"])
-
-    if key in old_explanations:
-        unique[i]["ai_explanation"] = old_explanations[key]
-    else:
-        unique[i] = add_ai_explanation(unique[i])
+        key = (unique[i]["title"], unique[i]["link"])
+    
+        if key in old_explanations:
+            unique[i]["ai_explanation"] = old_explanations[key]
+        else:
+            unique[i] = add_ai_explanation(unique[i])
 payload = {
     "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
     "items": unique,
