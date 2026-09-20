@@ -200,7 +200,7 @@ try:
             old_explanations[(old_item["title"], old_item["link"])] = old_item["ai_explanation"]
 except Exception:
     pass
-for i in range(min(3, len(unique))):
+for i in range(min(1, len(unique))):
     key = (unique[i]["title"], unique[i]["link"])
 
     if key in old_explanations:
