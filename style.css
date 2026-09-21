@@ -14,3 +14,21 @@ main{max-width:760px;margin:auto;padding:14px}
 .card a{display:inline-block;text-decoration:none;background:#111827;color:white;border-radius:9px;padding:9px 12px;font-size:13px;font-weight:700}
 .empty{background:white;border-radius:14px;padding:28px 16px;text-align:center;color:#6b7280}
 footer{text-align:center;color:#9ca3af;font-size:11px;line-height:1.7;padding:20px 12px 30px}
+.ai-explanation{
+  margin:12px 0;
+  background:#f3f4f6;
+  border-radius:10px;
+  padding:10px 12px;
+}
+
+.ai-explanation summary{
+  cursor:pointer;
+  font-weight:700;
+  color:#111827;
+}
+
+.ai-text{
+  margin-top:12px;
+  font-size:14px;
+  line-height:1.8;
+}
