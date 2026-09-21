@@ -213,19 +213,18 @@ try:
             old_explanations[(old_item["title"], old_item["link"])] = old_item["ai_explanation"]
 except Exception:
     pass
-ai_added = False
-
+ai_attempted = False
 for i in range(len(unique)):
     key = (unique[i]["title"], unique[i]["link"])
 
     if key in old_explanations:
         unique[i]["ai_explanation"] = old_explanations[key]
 
-    elif not ai_added:
+    elif not ai_attempted:
+        ai_attempted = True
         unique[i] = add_ai_explanation(unique[i])
 
-        if unique[i].get("ai_explanation"):
-            ai_added = True
+        
 payload = {
     "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
     "items": unique,
