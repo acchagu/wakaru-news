@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T02:31:32+00:00",
+  "updated_at": "2026-09-21T02:40:22+00:00",
   "items": [
     {
       "category": "国内",
@@ -19,20 +19,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "link": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-      "date": "2026-09-18 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融事業者リスト（令和８年９月18日公表）、投資信託・外貨建保険の共通ＫＰＩに関する分析結果（令和８年３月末基準）の掲載及び次回の報告受付について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/kokyakuhoni/20260918.html",
-      "date": "2026-09-18 16:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月18日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260918.pdf",
@@ -43,62 +29,14 @@
       "source": "日本銀行",
       "title": "総裁記者会見（9月18日）動画の配信開始",
       "link": "http://www.boj.or.jp/about/release/sousaidouga.htm",
-      "date": "2026-09-18 07:50"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "【終了】「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
-      "link": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
-      "date": "2026-09-18 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
-      "link": "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498",
-      "date": "2026-09-18 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
-      "link": "https://www.digital.go.jp/policies/health/public-medical-hub",
-      "date": "2026-09-18 06:00"
+      "date": "2026-09-18 07:50",
+      "ai_explanation": "【何があった？】\n組織のリーダーである「総裁（そうさい：団体のトップのこと）」が9月18日に行った記者会見の映像が、インターネットなどで配信され、誰でも動画で見られるようになりました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n国のお城のトップである王様が、国民に向けて大事な方針を話したときの様子が、町にある魔法の水晶玉（動画）に映し出され、冒険者たちがいつでも自分の目で確認できるようになった状態です。\n\n【つまり？】\n組織のトップが何を語ったのか、その詳しいやりとりを後から誰でも直接映像で確かめられるようになった、ということです。\n\n【ワイに関係ある？】\nほぼない\n会見で話された中身によっては影響することもありますが、「動画が見られるようになった」というお知らせ自体は、普段の生活にすぐ影響するものではないためです。"
     },
     {
       "category": "国内",
       "source": "デジタル庁",
       "title": "Public Medical Hub システム利用規約（医療機関等向け）の改正について",
       "link": "https://www.digital.go.jp/news/6ab83796-e631-4c64-ba13-9b3938056693",
-      "date": "2026-09-18 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "JP PINTの「グローバルの取組」を更新しました",
-      "link": "https://www.digital.go.jp/policies/electronic_invoice/global-activities",
-      "date": "2026-09-18 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "公的個人認証サービスを利用している民間事業者数を更新しました",
-      "link": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction",
-      "date": "2026-09-18 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました",
-      "link": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
-      "date": "2026-09-18 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "民間事業者向けマイナンバーカード活用情報における基本情報の資料を更新しました",
-      "link": "https://www.digital.go.jp/policies/mynumber/private-business",
       "date": "2026-09-18 06:00"
     },
     {
@@ -422,13 +360,6 @@
       "title": "日本銀行政策委員会月報（令和8年7月号）",
       "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
       "date": "2026-09-11 07:30"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「コーポレートITエンジニア （7職種合同）説明会」東京の参加申込締切は9月17日（木）12:00までです。参加を希望される方は締切までにご応募ください。 なお、京都開催は申込締切を10月1日（木）まで延長します。ご興味をお持ちの方はぜひご確認ください。",
-      "link": "https://www.nintendo.co.jp/jobs/career/session.html",
-      "date": "2026-09-11 06:45"
     },
     {
       "category": "お金",
