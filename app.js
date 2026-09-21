@@ -33,7 +33,12 @@ function render(){
     <article class="card">
       <div class="meta">${esc(x.source)} ・ ${esc(x.date || "")}</div>
       <h2>${esc(x.title)}</h2>
-      ${x.ai_explanation ? `<details class="ai-explanation"><summary>バカでもわかる解説を見る</summary><div>${esc(x.ai_explanation).replace(/\n/g, "<br>")}</div></details>` : ""}
+      ${x.ai_explanation ? `
+  <details class="ai-explanation">
+    <summary>バカでもわかる解説を見る</summary>
+    <div class="ai-text">${esc(x.ai_explanation).replace(/\n/g, "<br>")}</div>
+  </details>
+` : ""}
       <a href="${x.link}" target="_blank" rel="noopener noreferrer">元情報を見る</a>
     </article>
   `).join("");
