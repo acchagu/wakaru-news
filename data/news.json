@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-22T07:43:08+00:00",
+  "updated_at": "2026-09-22T13:25:24+00:00",
   "items": [
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "新しいMac miniとMac Studio、本日より販売開始",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+      "date": "2026-09-22"
+    },
     {
       "category": "国内",
       "source": "総務省統計局",
@@ -699,13 +706,6 @@
       "title": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
       "link": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
       "date": "2026-08-10"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "リーグカップが、8月4日（日本時間8月5日）にApple TVでキックオフ",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "date": "2026-08-03"
     }
   ],
   "errors": []
