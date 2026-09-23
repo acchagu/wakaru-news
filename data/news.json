@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-23T20:22:59+00:00",
+  "updated_at": "2026-09-23T23:42:55+00:00",
   "items": [
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
+      "link": "https://www.stat.go.jp/data/mbss/kekka.html",
+      "date": "2026-09-24"
+    },
     {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
@@ -651,13 +658,6 @@
       "title": "Committee on the Rights of Persons with Disabilities Commemorates the Twentieth Anniversary of the Adoption of the Convention and Closes its Thirty-Fifth Session",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/08/le-comite-crpd-clot-sa-35e-session-en-celebrant-le-vingtieme",
       "date": "2026-08-27 18:37"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "住民基本台帳人口移動報告 2026年（令和8年）7月分",
-      "link": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
-      "date": "2026-08-27"
     },
     {
       "category": "ゲーム・IT",
