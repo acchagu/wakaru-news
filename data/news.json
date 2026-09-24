@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:42:55+00:00",
+  "updated_at": "2026-09-24T04:52:05+00:00",
   "items": [
     {
       "category": "国内",
@@ -7,6 +7,20 @@
       "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
       "link": "https://www.stat.go.jp/data/mbss/kekka.html",
       "date": "2026-09-24"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "最新のiPhone、Apple Watch、AirPodsのラインナップが世界中の店舗で販売開始",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "date": "2026-09-24"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "FSBレポ統計の日本分集計結果",
+      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-09-23 23:50"
     },
     {
       "category": "ゲーム・IT",
@@ -395,7 +409,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "企業物価指数（8月）",
       "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
       "date": "2026-09-10 23:50"
@@ -532,13 +546,6 @@
       "title": "Apple、クラス最高のオープンイヤー型アクティブノイズキャンセリングを搭載したAirPods 5を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "date": "2026-09-09"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "マネーストック（8月）",
-      "link": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
-      "date": "2026-09-08 23:50"
     },
     {
       "category": "海外",
@@ -700,13 +707,6 @@
       "title": "Apple Arcadeが「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」でレベルアップ",
       "link": "https://www.apple.com/jp/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
       "date": "2026-08-11"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "AppleとMLB、「フライデーナイト ベースボール」の9月のスケジュールを発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
-      "date": "2026-08-10"
     }
   ],
   "errors": []
