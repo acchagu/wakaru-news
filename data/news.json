@@ -1,11 +1,60 @@
 {
-  "updated_at": "2026-09-24T04:52:05+00:00",
+  "updated_at": "2026-09-24T10:02:05+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260924/20260924.html",
+      "date": "2026-09-24 15:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月24日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260924.pdf",
+      "date": "2026-09-24 08:45"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
+      "link": "http://www.boj.or.jp/about/bcp/fso/fso260924a.pdf",
+      "date": "2026-09-24 07:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【記者会見】植田総裁（9月18日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk260924a.pdf",
+      "date": "2026-09-24 06:20"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "2026年度 一般職（高卒者）官庁訪問の予約フォームを公開しました",
+      "link": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
+      "date": "2026-09-24 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "人口推計（2026年（令和8年）9月報）",
+      "link": "https://www.stat.go.jp/data/jinsui/new.html",
+      "date": "2026-09-24"
+    },
     {
       "category": "国内",
       "source": "総務省統計局",
       "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
       "link": "https://www.stat.go.jp/data/mbss/kekka.html",
+      "date": "2026-09-24"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、ロンドンに最先端のライブ音楽会場Apple Music Hallをオープン",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
       "date": "2026-09-24"
     },
     {
@@ -61,14 +110,6 @@
       "link": "http://www.boj.or.jp/about/release/sousaidouga.htm",
       "date": "2026-09-18 07:50",
       "ai_explanation": "【何があった？】\n組織のリーダーである「総裁（そうさい：団体のトップのこと）」が9月18日に行った記者会見の映像が、インターネットなどで配信され、誰でも動画で見られるようになりました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n国のお城のトップである王様が、国民に向けて大事な方針を話したときの様子が、町にある魔法の水晶玉（動画）に映し出され、冒険者たちがいつでも自分の目で確認できるようになった状態です。\n\n【つまり？】\n組織のトップが何を語ったのか、その詳しいやりとりを後から誰でも直接映像で確かめられるようになった、ということです。\n\n【ワイに関係ある？】\nほぼない\n会見で話された中身によっては影響することもありますが、「動画が見られるようになった」というお知らせ自体は、普段の生活にすぐ影響するものではないためです。"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融市場調節方針の変更について",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf",
-      "date": "2026-09-18 03:40",
-      "ai_explanation": "【何があった？】\n日本のお金の中心である日本銀行が、世の中に回るお金の量や、利息（お金を借りるときの手数料のようなもの）をコントロールする方針を変えました。\n景気の勢いを調整したり、モノの値段を安定させたりするための重要なルール変更です。\n\n【たとえると？】\n『ドラゴンクエスト』でたとえます。\n国を治める王様が、町でお金が出回りすぎてアイテムの値段が高騰しないよう、あるいは逆にお金が使われなさすぎて町が寂れないように、「ゴールド銀行」の利息やルールの調整を行うような状況です。\n\n【つまり？】\n世の中にお金をもっと出回らせて経済を活発にするのか、それともお金の出回りを抑えて落ち着かせるのかという、お金の「蛇口のひねり具合」を変更したことを意味しています。\n\n【ワイに関係ある？】\nかなりある\n銀行にお金を預けたときにもらえる利息や、家などを買うときのローン返済額が変わり、普段の買い物や生活費に直結するためです。"
     },
     {
       "category": "お金",
@@ -167,20 +208,6 @@
       "source": "金融庁",
       "title": "ＥＮＥＣＨＡＮＧＥ（株）における四半期報告書等の虚偽記載に対する課徴金納付命令の決定について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-3.html",
-      "date": "2026-09-17 16:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "（株）Ｉ－ｎｅにおける有価証券報告書の不記載に対する課徴金納付命令の決定について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-4.html",
-      "date": "2026-09-17 16:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "ベースフード（株）株式外２銘柄に係る相場操縦に対する課徴金納付命令の決定について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-1.html",
       "date": "2026-09-17 16:00"
     },
     {
@@ -387,13 +414,6 @@
       "date": "2026-09-11 06:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【記者会見】増審議委員（福井、9月10日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf",
-      "date": "2026-09-11 04:50"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "ニンテンドーeショップ新作ソフト情報 9/11（金）号。",
@@ -511,13 +531,6 @@
       "title": "New Permanent Representative of Türkiye Presents Credentials to the Director-General of the United Nations Office at Geneva",
       "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/la-nouvelle-representante-permanente-de-la",
       "date": "2026-09-09 14:53"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月9日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260909.pdf",
-      "date": "2026-09-09 08:40"
     },
     {
       "category": "ゲーム・IT",
@@ -653,13 +666,6 @@
       "date": "2026-08-28"
     },
     {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "小売物価統計調査 主要品目の東京都区部小売価格及び全国統一価格品目の価格（2026年8月分）",
-      "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
-      "date": "2026-08-28"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on the Rights of Persons with Disabilities Commemorates the Twentieth Anniversary of the Adoption of the Convention and Closes its Thirty-Fifth Session",
@@ -700,13 +706,6 @@
       "title": "Apple、EU域内でのアプリに対する変更を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
       "date": "2026-08-18"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple Arcadeが「Block Blast!+」と「Art of Fauna: Cozy Puzzles+」でレベルアップ",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "date": "2026-08-11"
     }
   ],
   "errors": []
