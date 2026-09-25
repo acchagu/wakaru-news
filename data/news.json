@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-25T01:31:33+00:00",
+  "updated_at": "2026-09-25T07:49:43+00:00",
   "items": [
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
+      "link": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
+      "date": "2026-09-25 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "（日銀レビュー）証券会社による国債マーケットメイクビジネスの動向",
+      "link": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j13.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "（日銀レビュー）プライベートクレジットファンドの拡大と多様化について",
+      "link": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j12.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【地域の底力】三重県伊勢市（広報誌「にちぎん」No.87 2026年秋号）",
+      "link": "http://www.boj.or.jp/about/koho_nichigin/backnumber/87-4.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【対談】東京藝術大学学長・現代美術家 日比野克彦氏 vs 増一行審議委員（広報誌「にちぎん」No.87 2026年秋号）",
+      "link": "http://www.boj.or.jp/about/koho_nichigin/backnumber/87-5.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【インタビュー】書家、芸術家、大阪芸術大学教授 紫舟氏（広報誌「にちぎん」No.87 2026年秋号）",
+      "link": "http://www.boj.or.jp/about/koho_nichigin/backnumber/87-3.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "消費者物価のコア指標",
+      "link": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "広報誌「にちぎん」（2026年秋号掲載）",
+      "link": "http://www.boj.or.jp/about/koho_nichigin/index.htm",
+      "date": "2026-09-25 05:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "全国のアニメイトにて「ゼルダの伝説」オリジナル商品を発売。",
+      "link": "https://www.nintendo.com/jp/topics/article/568d0d19-99f8-4fd9-97f6-56b841a50fd7",
+      "date": "2026-09-25 03:07"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -21,6 +84,13 @@
       "title": "営業毎旬報告（9月20日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260920.htm",
       "date": "2026-09-25 01:00"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "「統計調査ニュース」（統計局発行の広報紙）令和8年9月号",
+      "link": "https://www.stat.go.jp/info/t-news/index.html",
+      "date": "2026-09-25"
     },
     {
       "category": "お金",
@@ -49,13 +119,6 @@
       "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20260924/20260924.html",
       "date": "2026-09-24 15:30"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
-      "link": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
-      "date": "2026-09-24 10:29"
     },
     {
       "category": "お金",
@@ -247,13 +310,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴金納付命令の決定について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-2.html",
-      "date": "2026-09-17 16:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月17日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260917.pdf",
@@ -310,16 +366,16 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "資金循環統計（速報）（2026年第2四半期）",
-      "link": "http://www.boj.or.jp/statistics/sj/sj.htm",
+      "source": "日本銀行 統計",
+      "title": "資金循環統計の遡及改定について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260917a.htm",
       "date": "2026-09-16 23:50"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
-      "title": "資金循環統計の遡及改定について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260917a.htm",
+      "title": "資金循環統計（速報）（2026年第2四半期）",
+      "link": "http://www.boj.or.jp/statistics/sj/sj.htm",
       "date": "2026-09-16 23:50"
     },
     {
@@ -331,7 +387,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "業態別の日銀当座預金残高（8月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-09-16 08:00"
@@ -387,31 +443,10 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260910.xlsx",
       "date": "2026-09-14 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（論文）金融研究所DPS：ユーザブルセキュリティ研究の現状と展望",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps260914b.htm",
-      "date": "2026-09-14 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（論文）金融研究所DPS：2026年国際コンファランスの模様",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps260914a.htm",
-      "date": "2026-09-14 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
-      "date": "2026-09-14 02:00"
     },
     {
       "category": "ゲーム・IT",
@@ -422,7 +457,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "営業毎旬報告（9月10日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260910.htm",
       "date": "2026-09-14 01:00"
@@ -496,13 +531,6 @@
       "title": "コピー能力で広がる世界を自由に冒険。シリーズ完全新作『星のカービィ ワールドビヨンド』がNintendo Switch 2 で2027年春に発売決定。",
       "link": "https://www.nintendo.com/jp/topics/article/c94f0ce3-6f08-4154-bf5b-7998fbf8b5ac",
       "date": "2026-09-10 01:08"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "喰うか喰われるか。メトロイドの力を宿したサムスのサバイバル。シリーズ完全新作『メトロイド ラヴェナス』がNintendo Switch 2 で2027年1月28日に発売決定。",
-      "link": "https://www.nintendo.com/jp/topics/article/593d3622-9efb-48df-8fd8-64f7acbab45b",
-      "date": "2026-09-10 01:07"
     },
     {
       "category": "ゲーム・IT",
@@ -649,13 +677,6 @@
       "source": "総務省統計局",
       "title": "労働力調査（基本集計）2026年（令和8年）7月分",
       "link": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
-      "date": "2026-08-28"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "消費者物価指数（東京都区部－2026年（令和8年）8月分中旬速報値）（2025年基準）",
-      "link": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html",
       "date": "2026-08-28"
     },
     {
