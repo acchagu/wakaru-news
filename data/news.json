@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-09-25T07:49:43+00:00",
+  "updated_at": "2026-09-25T13:48:19+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "第31回金融機能強化審査会の議事録について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260925/20260925.html",
+      "date": "2026-09-25 17:00",
+      "ai_explanation": "【何があった？】\n銀行などがピンチになって街の人が困らないよう、国がお金を出して支える仕組みがあります。\nその支援がうまくいっているかをチェックする専門家の会議があり、そこで「誰がどんな発言をしたか」をまとめた記録（議事録）が一般に公開されました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n街の「ゴールド銀行（冒険者のお金を預かる店）」が潰れたらみんなが困るので、お城の王様が助け舟を出す仕組みがあります。今回は、お城の賢者（専門家）たちが集まり、「あの銀行への支援はちゃんとうまくいっているか？」と点検した会議の詳しいメモが、城下町の掲示板に張り出されたような状況です。\n\n【つまり？】\n現実のニュースでは、国が銀行を助けるルールについて専門家たちがどんな話し合いをしたのか、その内容がだれでも読める状態になったということです。\n\n【ワイに関係ある？】\n「ほぼない」\n過去に行われた専門家の話し合いの記録がオープンになったというお知らせであり、今すぐ私たちの貯金や普段の暮らしに直接影響が出るわけではないためです。"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "経営強化計画等の履行状況（令和８年３月期）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260925/20260925-3.html",
+      "date": "2026-09-25 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "経営強化計画等について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260925.html",
+      "date": "2026-09-25 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "実施計画の履行状況（令和８年３月期）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260925/20260925-2.html",
+      "date": "2026-09-25 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「AI時代を見据えたオンチェーン金融フォーラム」について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/singi/20260925.html",
+      "date": "2026-09-25 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（9月25日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260925.pdf",
+      "date": "2026-09-25 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "共通担保資金供給オペレーションの運用について",
+      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260925a.pdf",
+      "date": "2026-09-25 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260918.xlsx",
+      "date": "2026-09-25 08:00"
+    },
     {
       "category": "国内",
       "source": "デジタル庁",
@@ -267,13 +324,6 @@
       "date": "2026-09-18 00:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "報告省令レート（10月分）",
-      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2610.htm",
-      "date": "2026-09-18 00:00"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "小売物価統計調査（構造編） 2025年（令和7年）結果",
@@ -303,24 +353,10 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "その他,令和８年６月、令和８年７月に開催された業界団体との意見交換会において、金融庁が提起した主な論点を公表しました。",
-      "link": "https://www.fsa.go.jp/common/ronten/index.html",
-      "date": "2026-09-17 17:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月17日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260917.pdf",
       "date": "2026-09-17 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "実質輸出入の動向",
-      "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
-      "date": "2026-09-17 07:00"
     },
     {
       "category": "ゲーム・IT",
@@ -496,20 +532,6 @@
       "title": "企業物価指数（8月）",
       "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
       "date": "2026-09-10 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「マネタリーサーベイ」の訂正",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260911b.htm",
-      "date": "2026-09-10 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月10日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260910.pdf",
-      "date": "2026-09-10 08:40"
     },
     {
       "category": "ゲーム・IT",
