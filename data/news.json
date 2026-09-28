@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-27T22:11:55+00:00",
+  "updated_at": "2026-09-28T00:47:38+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "企業向けサービス価格指数（8月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2608.pdf",
+      "date": "2026-09-27 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融政策決定会合議事要旨（7月30、31日開催分）",
+      "link": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260731.pdf",
+      "date": "2026-09-27 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -300,13 +314,6 @@
       "date": "2026-09-18 03:15"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（参考）金融市場調節方針の変更（2026年9月金融政策決定会合）",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918b.pdf",
-      "date": "2026-09-18 03:10"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「Hello! インディー」自分だけの英雄で強敵に挑む『Shape of Dreams』",
@@ -320,13 +327,6 @@
       "link": "https://www.nintendo.com/jp/topics/article/4936a483-a958-491f-bf82-f5e049c355f5",
       "date": "2026-09-18 01:02",
       "ai_explanation": "【何があった？】\n任天堂のゲームをダウンロード（インターネット経由で購入・保存すること）できる公式のお店で、新しく発売されるゲームの情報が案内されました。\n定期的に出されている、新作ゲームの一覧やおすすめを紹介するお知らせです。\n\n【たとえると？】\n「ポケモン」でたとえると、ゲーム内の道具屋さんである「フレンドリィショップ」の前に、「新しく入荷した道具の一覧」が書かれた最新のチラシが貼り出されたような状態です。\n\n【つまり？】\n任天堂のゲーム機を使っている人たちに向けて、「お店に新しいゲームが仲間入りしましたよ」と知らせているということです。\n\n【ワイに関係ある？】\n「少しある」\n任天堂のゲーム機を持っていて普段遊んでいる人には新しい楽しみが増える情報ですが、ゲームをやらない人の普段の生活には影響がありません。"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "基準外国為替相場及び裁定外国為替相場（10月分）",
-      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2610.htm",
-      "date": "2026-09-18 00:00"
     },
     {
       "category": "国内",
@@ -530,13 +530,6 @@
       "title": "iPhone 18 Pro、Apple Watchの最新ラインナップ、AirPods 5の体験がまもなく始まります",
       "link": "https://www.apple.com/jp/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
       "date": "2026-09-11"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "企業物価指数（8月）",
-      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
-      "date": "2026-09-10 23:50"
     },
     {
       "category": "ゲーム・IT",
