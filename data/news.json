@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-09-28T00:47:38+00:00",
+  "updated_at": "2026-09-28T06:55:11+00:00",
   "items": [
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "企業向けサービス価格指数（8月）",
       "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2608.pdf",
-      "date": "2026-09-27 23:50"
+      "date": "2026-09-27 23:50",
+      "ai_explanation": "【何があった？】\n会社どうしの間で取引される「サービス（荷物の運搬、広告、警備など）」の値段が前と比べてどう変わったかをまとめた、8月分の調査結果が発表されました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険者（一般人）が利用する宿屋や道具屋があります。その宿屋の主人が、裏で別の業者に頼んでいる「シーツの洗濯代」や「ベッドの運搬費」が以前と比べてどれくらい変化したのかを、お城の役人が調査してまとめたような状況です。\n\n【つまり？】\n私たちが普段行くお店や会社が、裏側で他の会社に支払っている「人件費やサービス利用料」の動きを見ることで、世の中のコストがどう変化しているかが分かります。\n\n【ワイに関係ある？】\n少しある\n裏で会社同士がやり取りするサービスの費用が高くなると、巡り巡って私たちが普段買う商品やサービスの値段にも上乗せされ、値上げにつながる可能性があるためです。"
     },
     {
       "category": "お金",
@@ -190,6 +191,13 @@
       "date": "2026-09-24 19:00"
     },
     {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee on Enforced Disappearances Celebrates its Twentieth Anniversary, Launches the “We Are Still Here Initiative” and Closes its Thirty-First Session",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/committee-enforced-disappearances-celebrates-its-twentieth",
+      "date": "2026-09-24 18:54"
+    },
+    {
       "category": "お金",
       "source": "金融庁",
       "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
@@ -274,6 +282,20 @@
       "link": "https://www.stat.go.jp/data/topics/topi1490.html",
       "date": "2026-09-20",
       "ai_explanation": "【何があった？】\n「敬老の日」に合わせて、日本に住む65歳以上のお年寄りの人数や、社会全体でどのくらいの割合を占めているかなどをまとめた国の調査データ（統計：集めた数字を分かりやすく整理したもの）が発表されました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険の世界で、長年戦い続けてきたベテランの老戦士や魔法使いの数がどんどん増え、新しく旅立つ若い勇者たちの数が少なくなっている現状を、王様やお城の役人が国勢調査のように名簿で確認したような状況です。\n\n【つまり？】\n日本全体の中で、お年寄りの割合がどれくらい高くなっているかや、現役で働き続けているお年寄りがどれくらいいるかといった「社会の高齢化のいまの姿」が数字で示されたということです。\n\n【ワイに関係ある？】\nかなりある\n高齢者が増えて支える現役世代が減ると、将来の年金や健康保険の負担が増えたり、人手不足でサービスが受けにくくなったりと、日々の暮らしやお金に直結する問題だからです。"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on the Rights of the Child Commend Tajikistan for Banning Corporal Punishment, Raise Issues Concerning HIV/AIDS Infections and Child Labour",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-commend-tajikistan-banning",
+      "date": "2026-09-18 20:17"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Welcome Belize’s Approach to Filing Missing Persons Reports, Raise Questions on the Domestication of the Convention and Training for Law Enforcement Officials on Enforced Disappearance",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-enforced-disappearances-welcome-belizes",
+      "date": "2026-09-18 20:09"
     },
     {
       "category": "お金",
@@ -420,6 +442,20 @@
       "date": "2026-09-16 23:50"
     },
     {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on the Rights of the Child Commend Kazakhstan’s Approach to Artificial Intelligence, Ask about the Planned Social Media Ban for Children and Policies Addressing Pollution",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-commend-kazakhstans-approach",
+      "date": "2026-09-16 16:09"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Praise Gabon for Efforts to Align the Criminal Code with the Convention, Raise Questions on Alleged Arbitrary Arrest of Former President’s Family and Allegations of Indigenous Peoples Regularly Being Vic",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-gabon-au-comite-des-disparitions-forcees-les-experts",
+      "date": "2026-09-16 14:25"
+    },
+    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月16日）",
@@ -439,6 +475,20 @@
       "title": "長・短期プライムレート（主要行）の推移",
       "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
       "date": "2026-09-16 00:00"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Note Positive New Birth Registration Act in Lesotho, Ask about the Domestication of the Convention and Safeguards against Enforced Disappearance in Extradition Procedures",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-lesotho-au-comite-des-disparitions-forcees-les-experts",
+      "date": "2026-09-15 20:02"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on the Rights of the Child Praise Slovenia for its Barnahus Facilities, Raise Issues Concerning Child Marriages and Child Poverty",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-praise-slovenia-its-barnahus",
+      "date": "2026-09-15 14:32"
     },
     {
       "category": "お金",
@@ -474,6 +524,20 @@
       "title": "Appleのソフトウェアプラットフォームのメジャーアップデートが利用可能に",
       "link": "https://www.apple.com/jp/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "date": "2026-09-15"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Congratulate Armenia on New Law on Persons Missing as a Result of Military Operations, Raise Questions on the Penalties for Enforced Disappearances and the Participation of Relatives in Searches",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-de-renseignements-complementaires-fournis-par-larmenie-au",
+      "date": "2026-09-14 19:38"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee on Enforced Disappearances Opens Thirty-First Session",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/le-comite-des-disparitions-forcees-ouvre-sa-trente-et-unieme",
+      "date": "2026-09-14 11:43"
     },
     {
       "category": "お金",
@@ -567,13 +631,6 @@
       "date": "2026-09-09 15:26"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "New Permanent Representative of Türkiye Presents Credentials to the Director-General of the United Nations Office at Geneva",
-      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/la-nouvelle-representante-permanente-de-la",
-      "date": "2026-09-09 14:53"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
       "title": "Apple、iPhone Duoを発表",
@@ -602,25 +659,11 @@
       "date": "2026-09-09"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Rights of the Child Welcome Uganda’s Response to Violence against Children, Raise Questions on Impact of Anti-Homosexuality Act on Children and Steps to End Child Marriage",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-welcome-ugandas-response-violence",
-      "date": "2026-09-08 14:05"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
       "title": "インターネットで大人気の猫が「プシーンのおうち」でApple Arcadeに登場",
       "link": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
       "date": "2026-09-08"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Rights of the Child Welcome Positive Developments on Child Rights in Tanzania, Ask about Measures to Prohibit Corporal Punishment and Prevent Female Genital Mutilation",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-de-la-tanzanie-au-crc-des-experts-saluent-les-progres-du",
-      "date": "2026-09-04 14:03"
     },
     {
       "category": "国内",
@@ -644,41 +687,6 @@
       "date": "2026-09-04"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Rights of the Child Commend Timor-Leste on Child Protection Measures, Raise Questions on Children in Street Situations and Birth Registration",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-timor-leste-au-comite-des-droits-de-lenfant-les",
-      "date": "2026-09-03 15:10"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Rights of the Child Praise Lesotho for its Children’s Parliament, Ask about Harmful Traditional Practices and Corporal Punishment",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-lesotho-au-crc-des-experts-saluent-la-loi-sur-la",
-      "date": "2026-09-02 14:27"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Human Rights Council to Hold its Sixty-Third Regular Session from 7 September to 7 October 2026",
-      "link": "https://www.ungeneva.org/en/news-media/press-release/2026/09/human-rights-council-hold-its-sixty-third-regular-session-7",
-      "date": "2026-09-02 12:11"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on the Rights of the Child Opens One Hundred and First Session",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/committee-rights-child-opens-one-hundred-and-first-session",
-      "date": "2026-09-01 12:24"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "New Permanent Representative of Costa Rica Presents Credentials to the Director-General of the United Nations Office at Geneva",
-      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/08/new-permanent-representative-costa-rica-presents",
-      "date": "2026-08-31 12:17"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "「データ利活用シンポジウム AI時代のデータ利活用～現場で活かす仕組みと人の役割～」の開催（PDF：275KB）",
@@ -698,13 +706,6 @@
       "title": "労働力調査（基本集計）2026年（令和8年）7月分",
       "link": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
       "date": "2026-08-28"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on the Rights of Persons with Disabilities Commemorates the Twentieth Anniversary of the Adoption of the Convention and Closes its Thirty-Fifth Session",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/08/le-comite-crpd-clot-sa-35e-session-en-celebrant-le-vingtieme",
-      "date": "2026-08-27 18:37"
     },
     {
       "category": "ゲーム・IT",
