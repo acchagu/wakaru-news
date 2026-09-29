@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T15:52:48+00:00",
+  "updated_at": "2026-09-29T20:47:43+00:00",
   "items": [
     {
       "category": "お金",
@@ -76,6 +76,27 @@
       "source": "総務省統計局",
       "title": "住民基本台帳人口移動報告 2026年（令和8年）8月分",
       "link": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
+      "date": "2026-09-29"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Final Cut CameraがiPhone 18 Proの可変絞りに対応",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/",
+      "date": "2026-09-29"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple Creator Studioに新たなアップデート",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
+      "date": "2026-09-29"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、家族が健全なデジタル習慣を身につけるのに役立つ新しいガイドを公開",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
       "date": "2026-09-29"
     },
     {
@@ -747,27 +768,6 @@
       "title": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
       "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "date": "2026-08-25"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、新しいM6とM5 Proを搭載し、さらにパワフルになったMac miniを発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "date": "2026-08-25"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、パフォーマンスとAI演算の大幅な向上をもたらすM6とM5 Ultraを発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "date": "2026-08-25"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、EU域内でのアプリに対する変更を発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "date": "2026-08-18"
     }
   ],
   "errors": []
