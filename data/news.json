@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-30T19:21:10+00:00",
+  "updated_at": "2026-09-30T23:50:17+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融政策決定会合における主な意見（9月17、18日開催分）",
+      "link": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+      "date": "2026-09-30 23:50",
+      "ai_explanation": "【何があった？】\n日本のお金のルールを決めている日本銀行が、9月17日と18日に「日本のお金の流れを今後どう調整するか」を話し合いました。\nその会議の中で、参加したメンバーたちからどのような考えや意見が出たのか、そのまとめが公表されました。\n\n【たとえると？】\n「ポケットモンスター」でたとえます。\nこれから挑む強いジムリーダー（今後の日本の景気）に勝つために、トレーナーたちが集まり、「手持ちのポケモンのレベル上げのペースをどうするか」「どんな作戦をとるべきか」をそれぞれ意見を出し合って作戦会議をしているような状態です。\n\n【つまり？】\nモノの値段（物価）や世の中の景気を見ながら、これから銀行の利息（金利：お金を貸し借りするときの利率）をどう動かしていくべきか、専門家たちが話し合った内容が明らかになったということです。\n\n【ワイに関係ある？】\n少しある\n銀行に預けたお金にもらえる利息や、住宅ローンなどのお金を借りるときの利息が将来どうなるかに影響する話し合いだからです。"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "短観（9月）＜概要、要旨＞",
+      "link": "http://www.boj.or.jp/statistics/tk/tankan09a.htm",
+      "date": "2026-09-30 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -377,16 +392,16 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
-      "link": "http://www.boj.or.jp/statistics/bis/ibs/index.htm",
+      "source": "日本銀行 統計",
+      "title": "「BIS国際資金取引統計および国際与信統計の日本分集計結果」の訂正について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260925a.htm",
       "date": "2026-09-24 23:50"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
-      "title": "「BIS国際資金取引統計および国際与信統計の日本分集計結果」の訂正について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260925a.htm",
+      "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
+      "link": "http://www.boj.or.jp/statistics/bis/ibs/index.htm",
       "date": "2026-09-24 23:50"
     },
     {
@@ -402,13 +417,6 @@
       "title": "外国為替市況（9月24日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260924.pdf",
       "date": "2026-09-24 08:45"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
-      "link": "http://www.boj.or.jp/about/bcp/fso/fso260924a.pdf",
-      "date": "2026-09-24 07:00"
     },
     {
       "category": "国内",
@@ -637,13 +645,6 @@
       "title": "Experts of the Committee on the Rights of the Child Praise Slovenia for its Barnahus Facilities, Raise Issues Concerning Child Marriages and Child Poverty",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-praise-slovenia-its-barnahus",
       "date": "2026-09-15 14:32"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月15日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260915.pdf",
-      "date": "2026-09-15 08:40"
     },
     {
       "category": "ゲーム・IT",
