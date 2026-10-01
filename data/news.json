@@ -1,12 +1,75 @@
 {
-  "updated_at": "2026-10-01T05:55:18+00:00",
+  "updated_at": "2026-10-01T13:16:51+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による「バーゼルⅢモニタリングレポート」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261001/20261001.html",
+      "date": "2026-10-01 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "企業会計審議会監査部会（第57回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kansa/20261002/261002.html",
+      "date": "2026-10-01 17:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
       "title": "「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する内閣府令の一部を改正する内閣府令（案）」等について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20261001/20261001.html",
       "date": "2026-10-01 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月1日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261001.pdf",
+      "date": "2026-10-01 08:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
+      "date": "2026-10-01 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
+      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
+      "date": "2026-10-01 07:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）",
+      "link": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/",
+      "date": "2026-10-01 06:12"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました",
+      "link": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
+      "date": "2026-10-01 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
+      "link": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
+      "date": "2026-10-01 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（神奈川県）",
+      "link": "http://www.boj.or.jp/about/bcp/fso/fso261001a.pdf",
+      "date": "2026-10-01 06:00"
     },
     {
       "category": "お金",
@@ -179,27 +242,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "第34回金融機能強化審査会 議事要旨について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/soff/gijiyoshi/20260902.html",
-      "date": "2026-09-29 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融庁広報誌アクセスＦＳＡ第277号（2026年９月号）を発行しました。",
-      "link": "https://www.fsa.go.jp/access/index.html",
-      "date": "2026-09-29 16:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20260929-2/20260929.html",
-      "date": "2026-09-29 13:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月29日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260929.pdf",
@@ -211,20 +253,6 @@
       "title": "『Minecraft』の世界で始まる新たな冒険。『Minecraft Dungeons II』がNintendo Switch 2 / Nintendo Switchで本日配信。",
       "link": "https://www.nintendo.com/jp/topics/article/dff1fc71-a113-425b-8161-77573fdf210d",
       "date": "2026-09-29 08:09"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "令和8年度「病院情報システム等の刷新に向けた協議会」の構成員の追加募集（分科会C）を開始しました",
-      "link": "https://www.digital.go.jp/news/19b45883-978f-4424-929a-ee8fa5bc20e6",
-      "date": "2026-09-29 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "古川大臣記者会見（令和8年9月29日）動画を追加しました",
-      "link": "https://www.digital.go.jp/speech/minister-260929-01",
-      "date": "2026-09-29 03:44"
     },
     {
       "category": "ゲーム・IT",
@@ -359,27 +387,6 @@
       "source": "日本銀行",
       "title": "【対談】東京藝術大学学長・現代美術家 日比野克彦氏 vs 増一行審議委員（広報誌「にちぎん」No.87 2026年秋号）",
       "link": "http://www.boj.or.jp/about/koho_nichigin/backnumber/87-5.htm",
-      "date": "2026-09-25 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【インタビュー】書家、芸術家、大阪芸術大学教授 紫舟氏（広報誌「にちぎん」No.87 2026年秋号）",
-      "link": "http://www.boj.or.jp/about/koho_nichigin/backnumber/87-3.htm",
-      "date": "2026-09-25 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "消費者物価のコア指標",
-      "link": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
-      "date": "2026-09-25 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "広報誌「にちぎん」（2026年秋号掲載）",
-      "link": "http://www.boj.or.jp/about/koho_nichigin/index.htm",
       "date": "2026-09-25 05:00"
     },
     {
@@ -637,13 +644,6 @@
       "title": "Experts of the Committee on Enforced Disappearances Praise Gabon for Efforts to Align the Criminal Code with the Convention, Raise Questions on Alleged Arbitrary Arrest of Former President’s Family and Allegations of Indigenous Peoples Regularly Being Vic",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-gabon-au-comite-des-disparitions-forcees-les-experts",
       "date": "2026-09-16 14:25"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月16日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260916.pdf",
-      "date": "2026-09-16 08:40"
     },
     {
       "category": "海外",
