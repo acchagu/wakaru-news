@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T08:38:41+00:00",
+  "updated_at": "2026-10-02T15:50:05+00:00",
   "items": [
     {
       "category": "お金",
@@ -8,6 +8,13 @@
       "link": "https://www.fsa.go.jp/policy/nisa/20261002.html",
       "date": "2026-10-02 17:00",
       "ai_explanation": "【何があった？】\n税金がかからずにお金を増やすための仕組み（NISA＝少額投資非課税制度）を、みんながどれくらい使っているかを調べた結果が発表されました。\n令和8年6月末時点の利用状況についてのデータが公表されています。\n\n【たとえると？】\n『ポケットモンスター』でたとえます。\nモンスターを預けておける便利なシステム（ポケモンボックス）を、世界中のトレーナーがどれくらい使っているのかを、ポケモン研究所が調査して集計結果を発表したような状況です。\n\n【つまり？】\n国などの機関が、「税金がかからない特別な口座（NISA）を、どれくらいの人が作って、どれくらいお金を入れているのか」という現状をまとめてみんなにお知らせした、ということです。\n\n【ワイに関係ある？】\n少しある\n発表されただけで生活が急に変わるわけではありませんが、投資を考えている人や利用中の人にとって、周りがどれくらい使っているかを知る目安になるからです。"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月2日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261002.pdf",
+      "date": "2026-10-02 08:40"
     },
     {
       "category": "お金",
@@ -460,13 +467,6 @@
       "title": "Committee on Enforced Disappearances Celebrates its Twentieth Anniversary, Launches the “We Are Still Here Initiative” and Closes its Thirty-First Session",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/committee-enforced-disappearances-celebrates-its-twentieth",
       "date": "2026-09-24 18:54"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月24日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260924.pdf",
-      "date": "2026-09-24 08:45"
     },
     {
       "category": "国内",
