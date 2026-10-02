@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-02T02:17:17+00:00",
+  "updated_at": "2026-10-02T08:38:41+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "NISA口座の利用状況に関する調査結果（令和８年６月末時点）について公表しました。",
+      "link": "https://www.fsa.go.jp/policy/nisa/20261002.html",
+      "date": "2026-10-02 17:00",
+      "ai_explanation": "【何があった？】\n税金がかからずにお金を増やすための仕組み（NISA＝少額投資非課税制度）を、みんながどれくらい使っているかを調べた結果が発表されました。\n令和8年6月末時点の利用状況についてのデータが公表されています。\n\n【たとえると？】\n『ポケットモンスター』でたとえます。\nモンスターを預けておける便利なシステム（ポケモンボックス）を、世界中のトレーナーがどれくらい使っているのかを、ポケモン研究所が調査して集計結果を発表したような状況です。\n\n【つまり？】\n国などの機関が、「税金がかからない特別な口座（NISA）を、どれくらいの人が作って、どれくらいお金を入れているのか」という現状をまとめてみんなにお知らせした、ということです。\n\n【ワイに関係ある？】\n少しある\n発表されただけで生活が急に変わるわけではありませんが、投資を考えている人や利用中の人にとって、周りがどれくらい使っているかを知る目安になるからです。"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+      "date": "2026-10-02 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行が受入れている担保の残高（9月末）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
+      "date": "2026-10-02 08:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
+      "link": "https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d",
+      "date": "2026-10-02 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
+      "link": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
+      "date": "2026-10-02 02:43"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -186,34 +222,6 @@
       "date": "2026-09-30 18:30"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「銀行法施行規則等の一部を改正する内閣府令」等について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260930/20260930.html",
-      "date": "2026-09-30 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261001.html",
-      "date": "2026-09-30 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "高速取引行為の動向（令和８年１月～６月）について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20260930-2/20260930-2.html",
-      "date": "2026-09-30 16:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/ai_onchain/shiryou/20260930.html",
-      "date": "2026-09-30 14:00"
-    },
-    {
       "category": "国内",
       "source": "デジタル庁",
       "title": "令和8年熊本地震に関する対応状況について（9月30日）",
@@ -256,32 +264,11 @@
       "date": "2026-09-30 06:30"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを公開しました",
-      "link": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
-      "date": "2026-09-30 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "電子カルテの導入状況に関するダッシュボードを公開しました",
-      "link": "https://www.digital.go.jp/resources/govdashboard/electronic-medical-record",
-      "date": "2026-09-30 06:00"
-    },
-    {
       "category": "お金",
       "source": "日本銀行",
       "title": "「AIに関するEMEAPノート：経済、金融安定、中央銀行業務への含意」の公表について",
       "link": "http://www.boj.or.jp/intl_finance/meeting/emeap/eme260930a.htm",
       "date": "2026-09-30 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
-      "link": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
-      "date": "2026-09-30 02:35"
     },
     {
       "category": "お金",
@@ -296,13 +283,6 @@
       "title": "『Star Fox』の無料アップデートは本日配信。『Nintendo Music』での楽曲配信や折り紙で作るアーウィンの情報も。",
       "link": "https://www.nintendo.com/jp/topics/article/397de170-5c61-4586-a937-e4e7127b3a4f",
       "date": "2026-09-30 01:23"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "新潟縣信用組合・興栄信用組合の組織再編成等実施計画の認定について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/ginkou/20260929.html",
-      "date": "2026-09-29 17:00"
     },
     {
       "category": "お金",
@@ -426,20 +406,6 @@
       "date": "2026-09-25 08:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（日銀レビュー）証券会社による国債マーケットメイクビジネスの動向",
-      "link": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j13.htm",
-      "date": "2026-09-25 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（日銀レビュー）プライベートクレジットファンドの拡大と多様化について",
-      "link": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j12.htm",
-      "date": "2026-09-25 05:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "全国のアニメイトにて「ゼルダの伝説」オリジナル商品を発売。",
@@ -531,13 +497,6 @@
       "date": "2026-09-24"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "FSBレポ統計の日本分集計結果",
-      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
-      "date": "2026-09-23 23:50"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
       "title": "新しいMac miniとMac Studio、本日より販売開始",
@@ -566,14 +525,6 @@
       "title": "Experts of the Committee on Enforced Disappearances Welcome Belize’s Approach to Filing Missing Persons Reports, Raise Questions on the Domestication of the Convention and Training for Law Enforcement Officials on Enforced Disappearance",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-enforced-disappearances-welcome-belizes",
       "date": "2026-09-18 20:09"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月18日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260918.pdf",
-      "date": "2026-09-18 08:40",
-      "ai_explanation": "【何があった？】\n9月18日に、日本のお金（円）と外国のお金（アメリカのドルなど）を交換するときの値段がどう動いたか、という記録・まとめのニュースです。世界中でお金が売り買いされた結果、その日の交換レート（両替の比率）がどうなったかが伝えられています。\n\n【たとえると？】\n「ポケモン」の世界でたとえます。\nカントー地方で使われているお金と、遠く離れた別の地方のお金を両替できる窓口があり、9月18日に「モンスターボール何個分の価値で両替できたか」という日々の変動をまとめたレポートのような状況です。\n\n【つまり？】\n9月18日の時点で、「日本のお金」の価値が「外国のお金」に対して上がったのか下がったのか、日々の交換のバランスを知らせてくれています。\n\n【ワイに関係ある？】\n少しある\n外国のお金との交換比率が変わると、海外から輸入している食べ物やガソリンなどの値段が将来上がったり下がったりして、普段の生活に影響してくるためです。"
     },
     {
       "category": "ゲーム・IT",
