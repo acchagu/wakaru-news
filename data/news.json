@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:22:41+00:00",
+  "updated_at": "2026-10-04T17:34:58+00:00",
   "items": [
     {
       "category": "お金",
@@ -30,7 +30,8 @@
       "source": "日本銀行",
       "title": "日本銀行が受入れている担保の残高（9月末）",
       "link": "http://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
-      "date": "2026-10-02 08:00"
+      "date": "2026-10-02 08:00",
+      "ai_explanation": "【何があった？】\n日本銀行（国の中心となる銀行）が、一般の銀行などから「もしもの時の保証」として預かっている物（国債など）の合計額が、9月末時点でどれくらいあったかが公表されました。\n銀行が日銀からお金を借りる際、返せなくなった時の保険として預けておくものの集計データです。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険者たち（一般の銀行）が、お城の王様（日本銀行）から活動資金を借りるために、「万が一返せなかったら代わりにこれを差し上げます」と、手持ちの大事な強い武器や鎧（担保）を王様へ預けています。\n今回のニュースは、9月末の時点で「お城の倉庫に、冒険者たちから預かった武具が全部でどれくらい保管されているか」を用心深く確認して発表した、という状況です。\n\n【つまり？】\n世の中の銀行が日本銀行からお金"
     },
     {
       "category": "国内",
@@ -350,6 +351,27 @@
       "date": "2026-09-29"
     },
     {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee on the Rights of the Child Closes One Hundred and First Session after Adopting Concluding Observations on Reports of Kazakhstan, Lesotho, Slovenia, Tajikistan, Timor-Leste, Uganda and Tanzania",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/le-comite-des-droits-de-lenfant-acheve-les-travaux-de-sa-101e",
+      "date": "2026-09-28 18:19"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of the United States of America Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/le-nouveau-representant-permanent-des-etats-unis",
+      "date": "2026-09-28 12:22"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Malaysia Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/new-permanent-representative-malaysia-presents",
+      "date": "2026-09-28 11:22"
+    },
+    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月28日）",
@@ -442,6 +464,13 @@
       "date": "2026-09-24 23:50"
     },
     {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee on Enforced Disappearances Celebrates its Twentieth Anniversary, Launches the “We Are Still Here Initiative” and Closes its Thirty-First Session",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/committee-enforced-disappearances-celebrates-its-twentieth",
+      "date": "2026-09-24 18:54"
+    },
+    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "人口推計（2026年（令和8年）9月報）",
@@ -484,6 +513,20 @@
       "link": "https://www.stat.go.jp/data/topics/topi1490.html",
       "date": "2026-09-20",
       "ai_explanation": "【何があった？】\n「敬老の日」に合わせて、日本に住む65歳以上のお年寄りの人数や、社会全体でどのくらいの割合を占めているかなどをまとめた国の調査データ（統計：集めた数字を分かりやすく整理したもの）が発表されました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険の世界で、長年戦い続けてきたベテランの老戦士や魔法使いの数がどんどん増え、新しく旅立つ若い勇者たちの数が少なくなっている現状を、王様やお城の役人が国勢調査のように名簿で確認したような状況です。\n\n【つまり？】\n日本全体の中で、お年寄りの割合がどれくらい高くなっているかや、現役で働き続けているお年寄りがどれくらいいるかといった「社会の高齢化のいまの姿」が数字で示されたということです。\n\n【ワイに関係ある？】\nかなりある\n高齢者が増えて支える現役世代が減ると、将来の年金や健康保険の負担が増えたり、人手不足でサービスが受けにくくなったりと、日々の暮らしやお金に直結する問題だからです。"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on the Rights of the Child Commend Tajikistan for Banning Corporal Punishment, Raise Issues Concerning HIV/AIDS Infections and Child Labour",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-commend-tajikistan-banning",
+      "date": "2026-09-18 20:17"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Welcome Belize’s Approach to Filing Missing Persons Reports, Raise Questions on the Domestication of the Convention and Training for Law Enforcement Officials on Enforced Disappearance",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-enforced-disappearances-welcome-belizes",
+      "date": "2026-09-18 20:09"
     },
     {
       "category": "ゲーム・IT",
@@ -569,6 +612,34 @@
       "title": "「ウィドウズ・ベイ」が初年度のコメディシリーズとして、エミー賞史上最多の受賞という快挙を達成",
       "link": "https://www.apple.com/jp/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
       "date": "2026-09-17"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on the Rights of the Child Commend Kazakhstan’s Approach to Artificial Intelligence, Ask about the Planned Social Media Ban for Children and Policies Addressing Pollution",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-commend-kazakhstans-approach",
+      "date": "2026-09-16 16:09"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Praise Gabon for Efforts to Align the Criminal Code with the Convention, Raise Questions on Alleged Arbitrary Arrest of Former President’s Family and Allegations of Indigenous Peoples Regularly Being Vic",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-gabon-au-comite-des-disparitions-forcees-les-experts",
+      "date": "2026-09-16 14:25"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Enforced Disappearances Note Positive New Birth Registration Act in Lesotho, Ask about the Domestication of the Convention and Safeguards against Enforced Disappearance in Extradition Procedures",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-lesotho-au-comite-des-disparitions-forcees-les-experts",
+      "date": "2026-09-15 20:02"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on the Rights of the Child Praise Slovenia for its Barnahus Facilities, Raise Issues Concerning Child Marriages and Child Poverty",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-praise-slovenia-its-barnahus",
+      "date": "2026-09-15 14:32"
     },
     {
       "category": "ゲーム・IT",
@@ -662,7 +733,5 @@
       "date": "2026-08-25"
     }
   ],
-  "errors": [
-    "国連ジュネーブ: Remote end closed connection without response"
-  ]
+  "errors": []
 }
