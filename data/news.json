@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-05T07:03:22+00:00",
+  "updated_at": "2026-10-05T16:01:16+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年熊本地震に伴う在留期間の延長について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261005-2/20261005-2.html",
+      "date": "2026-10-05 17:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -14,6 +21,13 @@
       "title": "第57回金融審議会総会・第45回金融分科会合同会合の議事録について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/gijiroku/20260831.html",
       "date": "2026-10-05 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月5日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261005.pdf",
+      "date": "2026-10-05 08:40"
     },
     {
       "category": "国内",
@@ -177,13 +191,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "企業会計審議会監査部会（第57回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kansa/20261002/261002.html",
-      "date": "2026-10-01 17:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月1日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261001.pdf",
@@ -280,13 +287,6 @@
       "title": "令和8年熊本地震に関する対応状況について（9月30日）",
       "link": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
       "date": "2026-09-30 11:05"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（終了）",
-      "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
-      "date": "2026-09-30 09:18"
     },
     {
       "category": "お金",
@@ -463,13 +463,6 @@
       "title": "ニンテンドーeショップ新作ソフト情報 9/25（金）号。",
       "link": "https://www.nintendo.com/jp/topics/article/e94b27af-d05f-41d9-94ab-dce0d7d26c00",
       "date": "2026-09-25 01:06"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "営業毎旬報告（9月20日現在）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260920.htm",
-      "date": "2026-09-25 01:00"
     },
     {
       "category": "国内",
