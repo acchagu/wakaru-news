@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-04T21:26:04+00:00",
+  "updated_at": "2026-10-05T00:55:57+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【挨拶】内田副総裁「AI、ビッグデータと金融政策」（ECONDAT 2026 Fall Meetingにおける開会挨拶の邦訳）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261005a.htm",
+      "date": "2026-10-05 00:20",
+      "ai_explanation": "【何があった？】\n日本のお金の舵取りをする日本銀行の内田副総裁が、会議で挨拶をしました。\n国の景気や物価をコントロールする仕事（金融政策：きんゆうせいさく）に、最新のAI（人工知能）やビッグデータ（膨大な情報）をどう活かすかについて語った内容です。\n\n【たとえると？】\n『ドラゴンボール』でたとえます。\n戦士たちが戦うとき、自分の勘だけに頼るのではなく、「スカウター」というハイテク機器を使って相手の戦闘力などの膨大なデータを瞬時に集め、次の作戦を正確に決める状況に似ています。\n\n【つまり？】\n国のお金をコントロールする専門家たちが、世の中の景気や物の値段の動きをより正しく把握するために、AIなどの最新テクノロジーを分析に役立てようとしているということです。\n\n【ワイに関係ある？】\n「少しある」\nAIの活用で景気や金利の判断がより的確になれば、将来的に私たちが銀行から借りるお金の利息や、日々の物価の安定に間接的に関わってくるためです。"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日銀当座預金増減要因（10月見込み）",
+      "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
+      "date": "2026-10-04 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "（統計の注釈）量的金融指標（市場規模・残高等）／金融機関の資産・負債等",
+      "link": "http://www.boj.or.jp/statistics/outline/note/notest32.htm",
+      "date": "2026-10-04 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -402,14 +424,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "共通担保資金供給オペレーションの運用について",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260925a.pdf",
-      "date": "2026-09-25 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260918.xlsx",
       "date": "2026-09-25 08:00"
@@ -448,20 +463,6 @@
       "title": "「統計調査ニュース」（統計局発行の広報紙）令和8年9月号",
       "link": "https://www.stat.go.jp/info/t-news/index.html",
       "date": "2026-09-25"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「BIS国際資金取引統計および国際与信統計の日本分集計結果」の訂正について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not260925a.htm",
-      "date": "2026-09-24 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
-      "link": "http://www.boj.or.jp/statistics/bis/ibs/index.htm",
-      "date": "2026-09-24 23:50"
     },
     {
       "category": "海外",
