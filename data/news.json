@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-06T02:59:19+00:00",
+  "updated_at": "2026-10-06T10:18:54+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による議事要旨について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261006/20261006.html",
+      "date": "2026-10-06 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月6日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261006.pdf",
+      "date": "2026-10-06 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "バーゼル銀行監督委員会による議事要旨の公表について",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261006a.htm",
+      "date": "2026-10-06 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【挨拶】植田総裁（全国証券大会）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261006a.htm",
+      "date": "2026-10-06 06:35"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "政府相互運用性フレームワーク（GIF）のバージョン2.4を公開しました",
+      "link": "https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework",
+      "date": "2026-10-06 06:10"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -23,6 +58,13 @@
       "date": "2026-10-06 01:00"
     },
     {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Civil Society Organizations Brief the Committee on the Elimination of Discrimination against Women on the Situation of Women in Kazakhstan, the Cook Islands, Kenya and the Republic of Moldova",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/civil-society-organizations-brief-committee-elimination",
+      "date": "2026-10-05 19:00"
+    },
+    {
       "category": "お金",
       "source": "金融庁",
       "title": "令和８年熊本地震に伴う在留期間の延長について公表しました。",
@@ -42,6 +84,13 @@
       "title": "第57回金融審議会総会・第45回金融分科会合同会合の議事録について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/gijiroku/20260831.html",
       "date": "2026-10-05 15:00"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee on the Elimination of Discrimination against Women Opens Ninety-Third Session in Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/le-comite-pour-lelimination-de-la-discrimination-legard-des",
+      "date": "2026-10-05 12:09"
     },
     {
       "category": "お金",
@@ -232,27 +281,6 @@
       "date": "2026-10-01 07:00"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "Gビズポータルの電子ロッカーで商業登記リモート署名を利用した電子署名を付与できるようになりました（デジタル庁ウェブサービス・アプリケーション）",
-      "link": "https://services.digital.go.jp/gbiz-portal/news/20261001-01/",
-      "date": "2026-10-01 06:12"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました",
-      "link": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
-      "date": "2026-10-01 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
-      "link": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
-      "date": "2026-10-01 06:00"
-    },
-    {
       "category": "お金",
       "source": "日本銀行",
       "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（神奈川県）",
@@ -303,13 +331,6 @@
       "date": "2026-09-30 23:50"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "令和8年熊本地震に関する対応状況について（9月30日）",
-      "link": "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77",
-      "date": "2026-09-30 11:05"
-    },
-    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（9月30日）",
@@ -346,7 +367,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "決済動向（8月）",
       "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2608.pdf",
       "date": "2026-09-30 02:00"
@@ -444,7 +465,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "企業向けサービス価格指数（8月）",
       "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2608.pdf",
       "date": "2026-09-27 23:50",
@@ -456,13 +477,6 @@
       "title": "外国為替市況（9月25日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260925.pdf",
       "date": "2026-09-25 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260918.xlsx",
-      "date": "2026-09-25 08:00"
     },
     {
       "category": "ゲーム・IT",
@@ -619,20 +633,6 @@
       "title": "Experts of the Committee on Enforced Disappearances Praise Gabon for Efforts to Align the Criminal Code with the Convention, Raise Questions on Alleged Arbitrary Arrest of Former President’s Family and Allegations of Indigenous Peoples Regularly Being Vic",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-gabon-au-comite-des-disparitions-forcees-les-experts",
       "date": "2026-09-16 14:25"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on Enforced Disappearances Note Positive New Birth Registration Act in Lesotho, Ask about the Domestication of the Convention and Safeguards against Enforced Disappearance in Extradition Procedures",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/examen-du-lesotho-au-comite-des-disparitions-forcees-les-experts",
-      "date": "2026-09-15 20:02"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Rights of the Child Praise Slovenia for its Barnahus Facilities, Raise Issues Concerning Child Marriages and Child Poverty",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-rights-child-praise-slovenia-its-barnahus",
-      "date": "2026-09-15 14:32"
     },
     {
       "category": "ゲーム・IT",
