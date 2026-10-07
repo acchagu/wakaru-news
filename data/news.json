@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:40:22+00:00",
+  "updated_at": "2026-10-07T16:29:13+00:00",
   "items": [
     {
       "category": "お金",
@@ -21,6 +21,13 @@
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事録について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijiroku/20260916.html",
       "date": "2026-10-07 11:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月7日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261007.pdf",
+      "date": "2026-10-07 08:40"
     },
     {
       "category": "お金",
@@ -384,13 +391,6 @@
       "title": "短観（9月）＜概要、要旨＞",
       "link": "http://www.boj.or.jp/statistics/tk/tankan09a.htm",
       "date": "2026-09-30 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（9月30日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260930.pdf",
-      "date": "2026-09-30 08:40"
     },
     {
       "category": "ゲーム・IT",
