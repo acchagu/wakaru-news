@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-07T01:33:14+00:00",
+  "updated_at": "2026-10-07T08:40:22+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "無登録で暗号資産交換業を行う者の名称等について公表しました。",
+      "link": "https://www.fsa.go.jp/ordinary/chuui/angoushisan_mutouroku.html",
+      "date": "2026-10-07 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,グローバル金融連携センターにおける海外当局職員の受入（第29期：保険監督当局職員15名）について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/glopac/20260825/20260825_29th.html",
+      "date": "2026-10-07 11:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事録について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijiroku/20260916.html",
+      "date": "2026-10-07 11:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "コール市場残高（9月）",
+      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "date": "2026-10-07 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "消費活動指数",
+      "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
+      "date": "2026-10-07 05:00"
+    },
     {
       "category": "お金",
       "source": "日本銀行",
@@ -165,14 +200,6 @@
     {
       "category": "お金",
       "source": "日本銀行",
-      "title": "【挨拶】内田副総裁「AI、ビッグデータと金融政策」（ECONDAT 2026 Fall Meetingにおける開会挨拶の邦訳）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261005a.htm",
-      "date": "2026-10-05 00:20",
-      "ai_explanation": "【何があった？】\n日本のお金の舵取りをする日本銀行の内田副総裁が、会議で挨拶をしました。\n国の景気や物価をコントロールする仕事（金融政策：きんゆうせいさく）に、最新のAI（人工知能）やビッグデータ（膨大な情報）をどう活かすかについて語った内容です。\n\n【たとえると？】\n『ドラゴンボール』でたとえます。\n戦士たちが戦うとき、自分の勘だけに頼るのではなく、「スカウター」というハイテク機器を使って相手の戦闘力などの膨大なデータを瞬時に集め、次の作戦を正確に決める状況に似ています。\n\n【つまり？】\n国のお金をコントロールする専門家たちが、世の中の景気や物の値段の動きをより正しく把握するために、AIなどの最新テクノロジーを分析に役立てようとしているということです。\n\n【ワイに関係ある？】\n「少しある」\nAIの活用で景気や金利の判断がより的確になれば、将来的に私たちが銀行から借りるお金の利息や、日々の物価の安定に間接的に関わってくるためです。"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
       "title": "日銀当座預金増減要因（10月見込み）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
       "date": "2026-10-04 23:50"
@@ -222,13 +249,6 @@
       "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
       "link": "https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d",
       "date": "2026-10-02 06:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "2026年10月20日から「Androidのマイナンバーカード」を開始予定です（デジタル庁ウェブサービス・アプリケーション）",
-      "link": "https://services.digital.go.jp/mynumbercard-android/news/fec690c52f9ffeb35d30f/",
-      "date": "2026-10-02 02:43"
     },
     {
       "category": "ゲーム・IT",
@@ -296,13 +316,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,バーゼル銀行監督委員会による「バーゼルⅢモニタリングレポート」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/bis/20261001/20261001.html",
-      "date": "2026-10-01 17:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月1日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261001.pdf",
@@ -367,7 +380,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "短観（9月）＜概要、要旨＞",
       "link": "http://www.boj.or.jp/statistics/tk/tankan09a.htm",
       "date": "2026-09-30 23:50"
@@ -378,13 +391,6 @@
       "title": "外国為替市況（9月30日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx260930.pdf",
       "date": "2026-09-30 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "決済動向（8月）",
-      "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2608.pdf",
-      "date": "2026-09-30 02:00"
     },
     {
       "category": "ゲーム・IT",
