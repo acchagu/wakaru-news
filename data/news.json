@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-10-08T01:56:46+00:00",
+  "updated_at": "2026-10-08T08:59:17+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261009.html",
+      "date": "2026-10-08 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年３月期における金融再生法開示債権の状況等（ポイント）を公表しました。",
+      "link": "https://www.fsa.go.jp/status/npl/20261008.html",
+      "date": "2026-10-08 16:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（金融モニタリング業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-09/ginnsyou-09.html",
+      "date": "2026-10-08 14:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月8日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261008.pdf",
+      "date": "2026-10-08 08:40"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "2028年度 プレエントリー受付を開始しました。理工系の採用イベントへのお申し込みも受付中です。",
+      "link": "https://www.nintendo.co.jp/jobs/recruit/index.html",
+      "date": "2026-10-08 07:03"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "松本デジタル大臣が米国を訪問しました",
+      "link": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2",
+      "date": "2026-10-08 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融経済調査および統計作成事務に関する「短期リサーチスタッフ」の募集について",
+      "link": "http://www.boj.or.jp/about/recruit/rec261008a.htm",
+      "date": "2026-10-08 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "各地域からみた景気の現状（2026年10月支店長会議における報告）",
+      "link": "http://www.boj.or.jp/research/brp/rer/rera261008.htm",
+      "date": "2026-10-08 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "地域経済報告（さくらレポート、2026年10月）",
+      "link": "http://www.boj.or.jp/research/brp/rer/rer261008.htm",
+      "date": "2026-10-08 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "東海地域業況判断DI（9月）",
+      "link": "http://www.boj.or.jp/statistics/other/toukai/toukai.xlsx",
+      "date": "2026-10-08 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "関東甲信越地域業況判断DI（9月）",
+      "link": "http://www.boj.or.jp/statistics/other/kantou/kantou.xlsx",
+      "date": "2026-10-08 05:00"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -242,14 +319,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "NISA口座の利用状況に関する調査結果（令和８年６月末時点）について公表しました。",
-      "link": "https://www.fsa.go.jp/policy/nisa/20261002.html",
-      "date": "2026-10-02 17:00",
-      "ai_explanation": "【何があった？】\n税金がかからずにお金を増やすための仕組み（NISA＝少額投資非課税制度）を、みんながどれくらい使っているかを調べた結果が発表されました。\n令和8年6月末時点の利用状況についてのデータが公表されています。\n\n【たとえると？】\n『ポケットモンスター』でたとえます。\nモンスターを預けておける便利なシステム（ポケモンボックス）を、世界中のトレーナーがどれくらい使っているのかを、ポケモン研究所が調査して集計結果を発表したような状況です。\n\n【つまり？】\n国などの機関が、「税金がかからない特別な口座（NISA）を、どれくらいの人が作って、どれくらいお金を入れているのか」という現状をまとめてみんなにお知らせした、ということです。\n\n【ワイに関係ある？】\n少しある\n発表されただけで生活が急に変わるわけではありませんが、投資を考えている人や利用中の人にとって、周りがどれくらい使っているかを知る目安になるからです。"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月2日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261002.pdf",
@@ -338,7 +407,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "短観（9月）＜調査全容＞",
       "link": "http://www.boj.or.jp/statistics/tk/tankan09b.htm",
       "date": "2026-10-01 23:50"
@@ -352,38 +421,10 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」の公表について",
-      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261001a.htm",
-      "date": "2026-10-01 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "気候変動対応を支援するための資金供給オペレーションの実施スケジュールについて",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261001a.pdf",
-      "date": "2026-10-01 07:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（神奈川県）",
-      "link": "http://www.boj.or.jp/about/bcp/fso/fso261001a.pdf",
-      "date": "2026-10-01 06:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日銀当座預金増減要因と金融調節（9月実績）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf09.xlsx",
       "date": "2026-10-01 04:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「日銀当座預金増減要因と金融調節」の様式変更について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261001a.pdf",
-      "date": "2026-10-01 01:30"
     },
     {
       "category": "ゲーム・IT",
