@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-07T21:59:06+00:00",
+  "updated_at": "2026-10-08T01:56:46+00:00",
   "items": [
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "ディズニーやピクサーの世界を舞台に、光と闇が織りなす物語。3つのパッケージをセットにした『KINGDOM HEARTS Collection [I～III]』が、Nintendo Switch 2 で本日発売。",
+      "link": "https://www.nintendo.com/jp/topics/article/4a70ddcf-0562-410c-9b0f-23cbe7817730",
+      "date": "2026-10-08 01:02"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』のCMを公開しました。",
+      "link": "https://www.nintendo.com/jp/games/switch2/aacha/index.html",
+      "date": "2026-10-08 01:01"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "業種別・地域別直接投資（2026年第2四半期）",
+      "link": "http://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
+      "date": "2026-10-07 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -379,21 +400,6 @@
       "date": "2026-10-01 01:04"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融政策決定会合における主な意見（9月17、18日開催分）",
-      "link": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-      "date": "2026-09-30 23:50",
-      "ai_explanation": "【何があった？】\n日本のお金のルールを決めている日本銀行が、9月17日と18日に「日本のお金の流れを今後どう調整するか」を話し合いました。\nその会議の中で、参加したメンバーたちからどのような考えや意見が出たのか、そのまとめが公表されました。\n\n【たとえると？】\n「ポケットモンスター」でたとえます。\nこれから挑む強いジムリーダー（今後の日本の景気）に勝つために、トレーナーたちが集まり、「手持ちのポケモンのレベル上げのペースをどうするか」「どんな作戦をとるべきか」をそれぞれ意見を出し合って作戦会議をしているような状態です。\n\n【つまり？】\nモノの値段（物価）や世の中の景気を見ながら、これから銀行の利息（金利：お金を貸し借りするときの利率）をどう動かしていくべきか、専門家たちが話し合った内容が明らかになったということです。\n\n【ワイに関係ある？】\n少しある\n銀行に預けたお金にもらえる利息や、住宅ローンなどのお金を借りるときの利息が将来どうなるかに影響する話し合いだからです。"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "短観（9月）＜概要、要旨＞",
-      "link": "http://www.boj.or.jp/statistics/tk/tankan09a.htm",
-      "date": "2026-09-30 23:50"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "『Star Fox』の無料アップデートは本日配信。『Nintendo Music』での楽曲配信や折り紙で作るアーウィンの情報も。",
@@ -562,13 +568,6 @@
       "title": "Experts of the Committee on Enforced Disappearances Welcome Belize’s Approach to Filing Missing Persons Reports, Raise Questions on the Domestication of the Convention and Training for Law Enforcement Officials on Enforced Disappearance",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/experts-committee-enforced-disappearances-welcome-belizes",
       "date": "2026-09-18 20:09"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! インディー」自分だけの英雄で強敵に挑む『Shape of Dreams』",
-      "link": "https://www.nintendo.com/jp/topics/article/32f759f8-b700-48d0-a457-3be20e4cb02a",
-      "date": "2026-09-18 01:02"
     },
     {
       "category": "国内",
