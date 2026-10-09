@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-09T02:11:11+00:00",
+  "updated_at": "2026-10-09T09:05:21+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「トランジション・ファイナンス環境整備検討会」（第14回）議事要旨について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/transition_finance/gijiyousi/20260821.html",
+      "date": "2026-10-09 16:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「トランジション・ファイナンス環境整備検討会」（第14回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/transition_finance/siryou/20260821.html",
+      "date": "2026-10-09 16:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "プルデンシャル生命保険株式会社、ジブラルタ生命保険株式会社及びプルデンシャル・ホールディング・オブ・ジャパン株式会社に対する行政処分について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20261009/20261009.html",
+      "date": "2026-10-09 15:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -14,6 +35,34 @@
       "title": "「熊本産業復興相談センター」の開設及び「令和８年熊本地震復興支援ファンド」の設立について（令和８年熊本地震による被災事業者の多重債務問題対応）公表しました。",
       "link": "https://www.fsa.go.jp/ordinary/earthquake202607/fund.html",
       "date": "2026-10-09 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月9日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261009.pdf",
+      "date": "2026-10-09 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "「適格担保の担保価格」の一部改正等について",
+      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261009a.pdf",
+      "date": "2026-10-09 07:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『マリオカート ワールド』のゲーム内イベント「オンラインチャレンジ サバイバルの秋」を10月17日（土）13:00～17:00に開催。",
+      "link": "https://www.nintendo.com/jp/topics/article/322e44dd-a061-46b5-8526-c53c1b860169",
+      "date": "2026-10-09 06:05"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "わが国短期金融市場の動向",
+      "link": "http://www.boj.or.jp/paym/market/market2610.htm",
+      "date": "2026-10-09 04:00"
     },
     {
       "category": "お金",
@@ -131,13 +180,6 @@
     {
       "category": "お金",
       "source": "日本銀行",
-      "title": "各地域からみた景気の現状（2026年10月支店長会議における報告）",
-      "link": "http://www.boj.or.jp/research/brp/rer/rera261008.htm",
-      "date": "2026-10-08 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
       "title": "地域経済報告（さくらレポート、2026年10月）",
       "link": "http://www.boj.or.jp/research/brp/rer/rer261008.htm",
       "date": "2026-10-08 05:00"
@@ -208,13 +250,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事録について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijiroku/20260916.html",
-      "date": "2026-10-07 11:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月7日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261007.pdf",
@@ -268,13 +303,6 @@
       "title": "Experts of the Committee on the Elimination of Discrimination against Women Welcome Commendable Efforts in Kazakhstan, Ask about Women’s Access to Justice and Legal Aid",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/experts-committee-elimination-discrimination-against-women",
       "date": "2026-10-06 19:36"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,バーゼル銀行監督委員会による議事要旨について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/bis/20261006/20261006.html",
-      "date": "2026-10-06 17:00"
     },
     {
       "category": "海外",
@@ -340,13 +368,6 @@
       "date": "2026-10-05 19:00"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "令和８年熊本地震に伴う在留期間の延長について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20261005-2/20261005-2.html",
-      "date": "2026-10-05 17:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on the Elimination of Discrimination against Women Opens Ninety-Third Session in Geneva",
@@ -359,13 +380,6 @@
       "title": "外国為替市況（10月5日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261005.pdf",
       "date": "2026-10-05 08:40"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
-      "link": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
-      "date": "2026-10-05 06:00"
     },
     {
       "category": "お金",
@@ -405,7 +419,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
       "date": "2026-10-02 08:00",
@@ -413,18 +427,11 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が受入れている担保の残高（9月末）",
       "link": "http://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
       "date": "2026-10-02 08:00",
       "ai_explanation": "【何があった？】\n日本銀行（国の中心となる銀行）が、一般の銀行などから「もしもの時の保証」として預かっている物（国債など）の合計額が、9月末時点でどれくらいあったかが公表されました。\n銀行が日銀からお金を借りる際、返せなくなった時の保険として預けておくものの集計データです。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険者たち（一般の銀行）が、お城の王様（日本銀行）から活動資金を借りるために、「万が一返せなかったら代わりにこれを差し上げます」と、手持ちの大事な強い武器や鎧（担保）を王様へ預けています。\n今回のニュースは、9月末の時点で「お城の倉庫に、冒険者たちから預かった武具が全部でどれくらい保管されているか」を用心深く確認して発表した、という状況です。\n\n【つまり？】\n世の中の銀行が日本銀行からお金"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
-      "link": "https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d",
-      "date": "2026-10-02 06:00"
     },
     {
       "category": "ゲーム・IT",
@@ -471,7 +478,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "貸出約定平均金利（8月）",
       "link": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf",
       "date": "2026-10-01 23:50"
@@ -498,13 +505,6 @@
       "date": "2026-10-01 08:50"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日銀当座預金増減要因と金融調節（9月実績）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf09.xlsx",
-      "date": "2026-10-01 04:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "『ゼノブレイド2 Nintendo Switch 2 Edition』のパッケージ版が本日より発売開始。アップグレードパス / ダウンロード版は配信中。 ※本作の対象年齢は「15歳以上」です。",
@@ -524,13 +524,6 @@
       "title": "『Star Fox』の無料アップデートは本日配信。『Nintendo Music』での楽曲配信や折り紙で作るアーウィンの情報も。",
       "link": "https://www.nintendo.com/jp/topics/article/397de170-5c61-4586-a937-e4e7127b3a4f",
       "date": "2026-09-30 01:23"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "『Minecraft』の世界で始まる新たな冒険。『Minecraft Dungeons II』がNintendo Switch 2 / Nintendo Switchで本日配信。",
-      "link": "https://www.nintendo.com/jp/topics/article/dff1fc71-a113-425b-8161-77573fdf210d",
-      "date": "2026-09-29 08:09"
     },
     {
       "category": "国内",
