@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-08T22:04:47+00:00",
+  "updated_at": "2026-10-09T02:11:11+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html",
+      "date": "2026-10-09 10:30"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「熊本産業復興相談センター」の開設及び「令和８年熊本地震復興支援ファンド」の設立について（令和８年熊本地震による被災事業者の多重債務問題対応）公表しました。",
+      "link": "https://www.fsa.go.jp/ordinary/earthquake202607/fund.html",
+      "date": "2026-10-09 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
+      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
+      "date": "2026-10-09 02:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『Nintendo Switch Sports Resort』の紹介映像とTVCMを公開。",
+      "link": "https://www.nintendo.com/jp/topics/article/9c619551-4244-4871-bc20-8d44f66a7904",
+      "date": "2026-10-09 01:04"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "誰も知らない英雄譚が、ここにある。王道ファンタジーの世界で自由な冒険を楽しむオープンワールドアクション『Dragon's Dogma 2: Dark Arisen』が、Nintendo Switch 2 で本日発売。",
+      "link": "https://www.nintendo.com/jp/topics/article/765035e5-1a1c-45c6-9e49-9980069c9150",
+      "date": "2026-10-09 01:02"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "ニンテンドーeショップ新作ソフト情報 10/9（金）号。",
+      "link": "https://www.nintendo.com/jp/topics/article/12b661be-9be3-45c9-aca9-0c9bdf3cb746",
+      "date": "2026-10-09 01:01"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "家計調査（二人以上の世帯：2026年（令和8年）8月分）",
+      "link": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/index.html",
+      "date": "2026-10-09"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "家計消費状況調査結果 支出関連項目：2026年（令和8年）8月分",
+      "link": "https://www.stat.go.jp/data/joukyou/12.html",
+      "date": "2026-10-09"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "2025年基準 消費動向指数（CTI）2026年（令和8年）8月分",
+      "link": "https://www.stat.go.jp/data/cti/index2.html",
+      "date": "2026-10-09"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -284,20 +347,6 @@
       "date": "2026-10-05 17:00"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「金融業界横断的なサイバーセキュリティ演習 （Delta Wall 2026）」の実施について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20261005/deltawall2026.html",
-      "date": "2026-10-05 15:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "第57回金融審議会総会・第45回金融分科会合同会合の議事録について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/gijiroku/20260831.html",
-      "date": "2026-10-05 15:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on the Elimination of Discrimination against Women Opens Ninety-Third Session in Geneva",
@@ -429,7 +478,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "マネタリーベース（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
       "date": "2026-10-01 23:50"
@@ -482,13 +531,6 @@
       "title": "『Minecraft』の世界で始まる新たな冒険。『Minecraft Dungeons II』がNintendo Switch 2 / Nintendo Switchで本日配信。",
       "link": "https://www.nintendo.com/jp/topics/article/dff1fc71-a113-425b-8161-77573fdf210d",
       "date": "2026-09-29 08:09"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "運命を導き、テト1を狙え。テト1カップ「ファイアーエムブレム 万紫千紅 コラボ祭！」開催。",
-      "link": "https://www.nintendo.com/jp/topics/article/e32c58f0-37f1-4958-9eb6-7ab3f021237e",
-      "date": "2026-09-29 01:05"
     },
     {
       "category": "国内",
@@ -545,20 +587,6 @@
       "title": "New Permanent Representative of Malaysia Presents Credentials to the Director-General of the United Nations Office at Geneva",
       "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/new-permanent-representative-malaysia-presents",
       "date": "2026-09-28 11:22"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "全国のアニメイトにて「ゼルダの伝説」オリジナル商品を発売。",
-      "link": "https://www.nintendo.com/jp/topics/article/568d0d19-99f8-4fd9-97f6-56b841a50fd7",
-      "date": "2026-09-25 03:07"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "スタジアムの外にも広がるサッカー体験を新たに。『EA SPORTS FC™ 27』がNintendo Switch 2 / Nintendo Switchで本日発売。",
-      "link": "https://www.nintendo.com/jp/topics/article/54116f00-894a-4a30-8229-5db013652894",
-      "date": "2026-09-25 01:06"
     },
     {
       "category": "国内",
@@ -626,25 +654,11 @@
       "date": "2026-09-18"
     },
     {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "小売物価統計調査 主要品目の都市別小売価格（2026年8月分）",
-      "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
-      "date": "2026-09-18"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
       "title": "iPhone 18 Proで撮影された「What Holds Us」を祝う",
       "link": "https://www.apple.com/jp/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
       "date": "2026-09-18"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "統計Today No.209 社会生活基本調査の実施に向けて（PDF：855KB）",
-      "link": "https://www.stat.go.jp/info/today/pdf/209.pdf",
-      "date": "2026-09-17"
     },
     {
       "category": "ゲーム・IT",
@@ -722,13 +736,6 @@
       "title": "インターネットで大人気の猫が「プシーンのおうち」でApple Arcadeに登場",
       "link": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
       "date": "2026-09-08"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "家計調査（二人以上の世帯：2026年（令和8年）7月分）",
-      "link": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/index.html",
-      "date": "2026-09-04"
     },
     {
       "category": "ゲーム・IT",
