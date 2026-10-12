@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-12T07:21:43+00:00",
+  "updated_at": "2026-10-12T17:55:11+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Nicaragua Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/10/new-permanent-representative-nicaragua-presents",
+      "date": "2026-10-12 17:39"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Thailand Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/10/new-permanent-representative-thailand-presents",
+      "date": "2026-10-12 17:11"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Hungary Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/10/new-permanent-representative-hungary-presents",
+      "date": "2026-10-12 14:27"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -381,13 +402,6 @@
       "date": "2026-10-05 19:00"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on the Elimination of Discrimination against Women Opens Ninety-Third Session in Geneva",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/le-comite-pour-lelimination-de-la-discrimination-legard-des",
-      "date": "2026-10-05 12:09"
-    },
-    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月5日）",
@@ -572,20 +586,6 @@
       "title": "Apple、家族が健全なデジタル習慣を身につけるのに役立つ新しいガイドを公開",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
       "date": "2026-09-29"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on the Rights of the Child Closes One Hundred and First Session after Adopting Concluding Observations on Reports of Kazakhstan, Lesotho, Slovenia, Tajikistan, Timor-Leste, Uganda and Tanzania",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/09/le-comite-des-droits-de-lenfant-acheve-les-travaux-de-sa-101e",
-      "date": "2026-09-28 18:19"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "New Permanent Representative of the United States of America Presents Credentials to the Director-General of the United Nations Office at Geneva",
-      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/09/le-nouveau-representant-permanent-des-etats-unis",
-      "date": "2026-09-28 12:22"
     },
     {
       "category": "国内",
