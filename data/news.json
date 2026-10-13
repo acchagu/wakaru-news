@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-13T07:42:57+00:00",
+  "updated_at": "2026-10-13T15:59:41+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律第十七条の規定に基づき金融機関を定める件」の一部改正について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261013/20261013.html",
+      "date": "2026-10-13 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "損害保険業界の信頼回復に向けた取組の適切な運用について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20261013/20261013.html",
+      "date": "2026-10-13 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,金融安定理事会による「グローバル・ステーブルコイン（GSC）：クロスボーダーの脆弱性と金融安定のモニタリング」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261013_3/20261013_3.html",
+      "date": "2026-10-13 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,金融安定理事会による「公的流動性バックストップに係るテーマ別レビュー」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261013_1/20261013_1.html",
+      "date": "2026-10-13 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,金融安定理事会によるG20財務大臣・中央銀行総裁へのレターについて公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261013_2/20261013_2.html",
+      "date": "2026-10-13 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月13日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261013.pdf",
+      "date": "2026-10-13 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融安定理事会による「グローバル・ステーブルコイン（GSC）：クロスボーダーの脆弱性と金融安定のモニタリング」の公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261013c.htm",
+      "date": "2026-10-13 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261013a.htm",
+      "date": "2026-10-13 08:00"
+    },
     {
       "category": "お金",
       "source": "日本銀行",
@@ -21,6 +77,34 @@
       "source": "総務省統計局",
       "title": "データサイエンス・オンライン講座「社会人のためのデータサイエンス演習」の開講",
       "link": "https://www.stat.go.jp/info/guide/public/houdou/pdf/ho261013.pdf",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "エンターテインメントを楽しみ、家を管理する新しい方法、Apple HomeViewが登場",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、新しいApple TV 4Kを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、次世代のHomePod miniを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "date": "2026-10-13"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "スマートホームアクセサリの新しいラインナップ、Apple Home Collectionを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
       "date": "2026-10-13"
     },
     {
@@ -206,27 +290,6 @@
       "ai_explanation": "【何があった？】\n女性差別をなくすための国際的な専門家たちが、ケニアで女性リーダーが増えている良い変化を褒めました。\nその一方で、女性を標的にした殺人や、10代の妊娠がとても多いことについて疑問や懸念を投げかけました。\n\n【たとえると？】\n「ポケモン」でたとえます。\nジムリーダーを倒してバッジをたくさん集めるなど、トレーナーとしての腕前が上がったことは博士に褒められたものの、一方で手持ちのポケモンの体調管理がボロボロで怪我ばかりさせている状態を厳しく注意されたような状況です。\n\n【つまり？】\nケニアは「女性が社会のリーダーとして活躍する」という前向きな成果を出した一方で、女性であることを理由に命が奪われる事件（フェミサイド）や、若すぎる年齢での妊娠といった、命や生活に関わる深刻な危険をまだまだ防ぎきれていないということです。\n\n【ワイに関係ある？】\n「ほぼない」\nアフリカのケニアにおける社会状況について国際機関がチェックしたニュースであり、日本で暮らす人の生活に直接の影響はありません。"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261009.html",
-      "date": "2026-10-08 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "令和８年３月期における金融再生法開示債権の状況等（ポイント）を公表しました。",
-      "link": "https://www.fsa.go.jp/status/npl/20261008.html",
-      "date": "2026-10-08 16:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（金融モニタリング業務に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-09/ginnsyou-09.html",
-      "date": "2026-10-08 14:30"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』の紹介映像を公開しました。",
@@ -304,26 +367,11 @@
       "date": "2026-10-07 19:38"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "無登録で暗号資産交換業を行う者の名称等について公表しました。",
-      "link": "https://www.fsa.go.jp/ordinary/chuui/angoushisan_mutouroku.html",
-      "date": "2026-10-07 17:00",
-      "ai_explanation": "【何があった？】\n国に正式な許可（登録）を取らずに、暗号資産（ビットコインなどのインターネット上で使えるお金）の両替や売買サービスを行っていた業者がいました。\n国が「ここは無許可の危ない業者です」と、注意を呼びかけるためにその名前などをみんなに知らせました。\n\n【たとえると？】\n『ポケットモンスター』でたとえます。\n町にある公認の「フレンドリィショップ」ではなく、ロケット団のような怪しい組織が許可なく裏道でポケモンの交換や売買を行っていたため、お巡りさんのジュンサーさんが町のみんなに向けて「この怪しい店を使ってはいけません」と注意看板を出したような状況です。\n\n【つまり？】\nルールを守っていない怪しい業者を使うとお金をだまし取られる危険があるため、国が「この名前の業者とは取引しないでください」と警告を出した、ということです。\n\n【ワイに関係ある？】\nほぼない\n暗号資産（仮想通貨）の取引をしていない人の普段の生活には直接影響はありませんが、SNSなどで怪しい儲け話に誘われたときは注意が必要です。"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Human Rights Council Concludes Sixty-Third Regular Session after Adopting 34 Resolutions, Two Decisions and One President’s Statement",
       "link": "https://www.ungeneva.org/en/news-media/press-release/2026/10/le-conseil-des-droits-de-lhomme-clos-les-travaux-de-sa-soixante",
       "date": "2026-10-07 16:53"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,グローバル金融連携センターにおける海外当局職員の受入（第29期：保険監督当局職員15名）について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/glopac/20260825/20260825_29th.html",
-      "date": "2026-10-07 11:00"
     },
     {
       "category": "お金",
@@ -362,14 +410,14 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行の対政府取引（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
       "date": "2026-10-06 23:50"
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "オペレーション（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
       "date": "2026-10-06 23:50"
@@ -459,14 +507,6 @@
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
       "date": "2026-10-02 08:00",
       "ai_explanation": "【何があった？】\n日本銀行（日本の中央銀行）が持っている「国債（国の借金用のチケット）」について、どの種類をどれくらいの金額分持っているのかという最新の内訳が示されました。\n\n【たとえると？】\n「ポケモン」でたとえます。\nあるスゴ腕のトレーナー（日本銀行）が、モンスターボールやスーパーボール、ハイパーボール（返済期限などの条件が違う国債）を、それぞれ自分のリュックの中に何個ずつキープしているのかを一覧で確認できる「どうぐポケットの一覧画面」のような状況です。\n\n【つまり？】\n現実のニュースでは、日本銀行が世の中に出回るお金の量を調節するために買い集めてきた「国の借金用チケット」について、種類ごとに今どれだけ手元に残っているかが数字として公開されたということです。\n\n【ワイに関係ある？】\n少しある\n理由：日本銀行がどの国債をどれくらい持っているかは世の中の「金利（利息の割合）」に影響するため、将来的に私たちの住宅ローンや銀行の預金金利がどう動くかの目安になるからです。"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行が受入れている担保の残高（9月末）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/col/col2609.xlsx",
-      "date": "2026-10-02 08:00",
-      "ai_explanation": "【何があった？】\n日本銀行（国の中心となる銀行）が、一般の銀行などから「もしもの時の保証」として預かっている物（国債など）の合計額が、9月末時点でどれくらいあったかが公表されました。\n銀行が日銀からお金を借りる際、返せなくなった時の保険として預けておくものの集計データです。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険者たち（一般の銀行）が、お城の王様（日本銀行）から活動資金を借りるために、「万が一返せなかったら代わりにこれを差し上げます」と、手持ちの大事な強い武器や鎧（担保）を王様へ預けています。\n今回のニュースは、9月末の時点で「お城の倉庫に、冒険者たちから預かった武具が全部でどれくらい保管されているか」を用心深く確認して発表した、という状況です。\n\n【つまり？】\n世の中の銀行が日本銀行からお金"
     },
     {
       "category": "ゲーム・IT",
@@ -694,34 +734,6 @@
       "title": "新しいヘルスセンシングシステムを搭載したApple Watch Series 12が登場",
       "link": "https://www.apple.com/jp/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
       "date": "2026-09-09"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、クラス最高のオープンイヤー型アクティブノイズキャンセリングを搭載したAirPods 5を発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "date": "2026-09-09"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "インターネットで大人気の猫が「プシーンのおうち」でApple Arcadeに登場",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/",
-      "date": "2026-09-08"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "「Sneaky Sasquatch」のエキサイティングなアップデートがApple Arcadeに登場",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
-      "date": "2026-08-27"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "date": "2026-08-25"
     }
   ],
   "errors": []
