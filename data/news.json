@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-12T17:55:11+00:00",
+  "updated_at": "2026-10-13T00:41:13+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "貸出・預金動向（9月）",
+      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
+      "date": "2026-10-12 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "企業物価指数（9月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf",
+      "date": "2026-10-12 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「貸出・預金動向」の訂正について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261013a.pdf",
+      "date": "2026-10-12 23:50"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Civil Society Organizations Brief the Committee on the Elimination of Discrimination against Women on the Situation of Women in Paraguay, Togo and Angola",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/civil-society-organizations-brief-committee-elimination-0",
+      "date": "2026-10-12 18:08"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -395,25 +423,11 @@
       "date": "2026-10-06 01:00"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Civil Society Organizations Brief the Committee on the Elimination of Discrimination against Women on the Situation of Women in Kazakhstan, the Cook Islands, Kenya and the Republic of Moldova",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/civil-society-organizations-brief-committee-elimination",
-      "date": "2026-10-05 19:00"
-    },
-    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月5日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261005.pdf",
       "date": "2026-10-05 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "需給ギャップ・潜在成長率および労働需給関連指標",
-      "link": "http://www.boj.or.jp/research/research_data/gap/index.htm",
-      "date": "2026-10-05 05:00"
     },
     {
       "category": "ゲーム・IT",
@@ -424,7 +438,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日銀当座預金増減要因（10月見込み）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
       "date": "2026-10-04 23:50"
@@ -509,27 +523,6 @@
       "title": "貸出約定平均金利（8月）",
       "link": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf",
       "date": "2026-10-01 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "マネタリーベース（9月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-      "date": "2026-10-01 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "短観（9月）＜調査全容＞",
-      "link": "http://www.boj.or.jp/statistics/tk/tankan09b.htm",
-      "date": "2026-10-01 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月1日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261001.pdf",
-      "date": "2026-10-01 08:50"
     },
     {
       "category": "ゲーム・IT",
