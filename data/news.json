@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-14T06:09:22+00:00",
+  "updated_at": "2026-10-14T11:53:19+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月14日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261014.pdf",
+      "date": "2026-10-14 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+      "date": "2026-10-14 08:00"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -29,6 +43,13 @@
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/experts-committee-elimination-discrimination-against-women-3",
       "date": "2026-10-13 18:54",
       "ai_explanation": "【何があった？】\n女性の権利を守る国連の専門家グループが、南米の国パラグアイの取り組みをチェックしました。\n女性が自分でお金を稼げるようにした政策は「よくやった」と褒められましたが、人身売買（人を売り買いする犯罪）への対策や、学校の教材から「ジェンダー（社会的な性別）」という言葉を消してしまったことについて疑問を投げかけられました。\n\n【たとえると？】\n「ドラゴンボール」でたとえると、\n武術の師匠（国連の専門家）が、弟子（パラグアイ）の稽古の成果をチェックしている場面です。\n弟子が「腕力をしっかり鍛えたこと（女性の稼ぐ力を伸ばす政策）」は褒められたものの、「悪党に連れ去られた人を助けられていないこと（人身売買）」や「教本から大事な基本用語を勝手に消してしまったこと」について、「おい、そこはどうなっているんだ？」と厳しく問い詰められているような状況です。\n\n【つまり？】\nパラグアイという国が、女性を経済的に助ける政策では合格点をもらったものの、別の重大な問題（人身売買の防止や教育内容）について、国際的な専門家から改善や説明を求められているということです。\n\n【ワイに関係ある？】\nほぼない\n南米パラグアイの国内の政策や教育方針に関するニュースであるため、日本で暮らす私たちの日常生活に直接影響することはまずありません。"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,Eurofiマガジン（2026年９月）への寄稿「Structural shifts in life insurance sector: IAIS insights」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/iai/20261013/20261013.html",
+      "date": "2026-10-13 17:35"
     },
     {
       "category": "お金",
@@ -411,14 +432,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "消費活動指数",
-      "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
-      "date": "2026-10-07 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "営業毎旬報告（9月30日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260930.htm",
       "date": "2026-10-07 01:00"
@@ -492,20 +506,6 @@
       "title": "『Nintendo Today!』の「ゼルダの伝説 コレクション・カード」で「ムジュラの仮面 パック」を配信中。『Nintendo Music』で「ムジュラの仮面」の楽曲も配信予定。アイコンパーツも登場。",
       "link": "https://www.nintendo.com/jp/topics/article/8c4941f0-c924-4d46-864d-967ea8338f42",
       "date": "2026-10-05 01:02"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日銀当座預金増減要因（10月見込み）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
-      "date": "2026-10-04 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "（統計の注釈）量的金融指標（市場規模・残高等）／金融機関の資産・負債等",
-      "link": "http://www.boj.or.jp/statistics/outline/note/notest32.htm",
-      "date": "2026-10-04 23:50"
     },
     {
       "category": "ゲーム・IT",
