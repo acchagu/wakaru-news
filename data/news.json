@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:55:30+00:00",
+  "updated_at": "2026-10-15T15:01:47+00:00",
   "items": [
     {
       "category": "お金",
@@ -86,6 +86,13 @@
       "title": "「市場調節に関する意見交換会」（2026年10月）の概要",
       "link": "http://www.boj.or.jp/paym/market/mkt261015a.pdf",
       "date": "2026-10-15 01:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "iPhone Duoで新しい可能性を開きましょう",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+      "date": "2026-10-15"
     },
     {
       "category": "海外",
@@ -747,13 +754,6 @@
       "source": "Apple Newsroom",
       "title": "Apple、Apple Watch Ultra 4を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "date": "2026-09-09"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "新しいヘルスセンシングシステムを搭載したApple Watch Series 12が登場",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
       "date": "2026-09-09"
     }
   ],
