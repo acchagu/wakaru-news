@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-16T07:10:36+00:00",
+  "updated_at": "2026-10-16T12:25:42+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
+      "date": "2026-10-16 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "保険会社等における障がい者等に配慮した取組に関するアンケート調査の結果について（令和８年３月末時点）公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20261016/20261016.html",
+      "date": "2026-10-16 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「監査基準の改訂について（公開草案）」について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261016-2/20261016.html",
+      "date": "2026-10-16 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261016/20261016.html",
+      "date": "2026-10-16 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月16日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
+      "date": "2026-10-16 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+      "date": "2026-10-16 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "業態別の日銀当座預金残高（9月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-10-16 08:00"
+    },
     {
       "category": "お金",
       "source": "日本銀行",
@@ -361,14 +410,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "「トランジション・ファイナンス環境整備検討会」（第14回）議事要旨について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/transition_finance/gijiyousi/20260821.html",
-      "date": "2026-10-09 16:00",
-      "ai_explanation": "【何があった？】\n「今すぐには二酸化炭素（CO2）をゼロにできない工場や企業」が、少しずつ減らしていくための資金（お金）を集めやすくするルールについて、専門家たちが話し合った内容のまとめが公開されました。\n※トランジション・ファイナンス：環境に優しい状態へ「移行（トランジション）」する途中の企業にお金を貸したり投資したりする仕組みのこと。\n\n【たとえると？】\n「ポケモン」でたとえます。\nいきなり最終進化系（最強の姿）になれないポケモンでも、次の段階へ少しずつ進化できるよう、中間形態のときから「けいけんち」やアイテムをしっかり与えて育てるためのルールを、ポケモントレーナーたちが集まって相談しているような状況です。\n\n【つまり？】\n太陽光発電などの「最初からクリーンな産業」だけでなく、鉄鋼や化学のように「すぐにはCO2をゼロにできないけれど、段階的に減らそうと努力している産業」にちゃんとお金が回るよう、国や専門家が環境を整えています。\n\n【ワイに関係ある？】\n少しある\n一般人が直接お金を出す話ではありませんが、将来的に日本全体の電気代や、普段買っている製品の値段・エコ基準に影響してくる可能性があるためです。"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月9日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261009.pdf",
@@ -387,20 +428,6 @@
       "title": "『マリオカート ワールド』のゲーム内イベント「オンラインチャレンジ サバイバルの秋」を10月17日（土）13:00～17:00に開催。",
       "link": "https://www.nintendo.com/jp/topics/article/322e44dd-a061-46b5-8526-c53c1b860169",
       "date": "2026-10-09 06:05"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "わが国短期金融市場の動向",
-      "link": "http://www.boj.or.jp/paym/market/market2610.htm",
-      "date": "2026-10-09 04:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
-      "date": "2026-10-09 02:00"
     },
     {
       "category": "ゲーム・IT",
@@ -534,20 +561,6 @@
       "source": "日本銀行 統計",
       "title": "マネタリーベースと日本銀行の取引（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2609.pdf",
-      "date": "2026-10-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行の対政府取引（9月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
-      "date": "2026-10-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "オペレーション（9月）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
       "date": "2026-10-06 23:50"
     },
     {
