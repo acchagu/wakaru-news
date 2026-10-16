@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-15T22:18:55+00:00",
+  "updated_at": "2026-10-16T01:21:22+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "長・短期プライムレート（主要行）の推移",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
+      "date": "2026-10-16 00:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -536,13 +543,6 @@
       "title": "オペレーション（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
       "date": "2026-10-06 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月6日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261006.pdf",
-      "date": "2026-10-06 08:40"
     },
     {
       "category": "ゲーム・IT",
