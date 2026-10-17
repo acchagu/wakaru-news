@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:22:01+00:00",
+  "updated_at": "2026-10-17T13:43:35+00:00",
   "items": [
     {
       "category": "お金",
@@ -30,13 +30,14 @@
       "source": "金融庁",
       "title": "国際関係,金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」について公表しました。",
       "link": "https://www.fsa.go.jp/inter/fsf/20261016/20261016.html",
-      "date": "2026-10-16 17:00"
+      "date": "2026-10-16 17:00",
+      "ai_explanation": "【何があった？】\n世界の金融（お金のやりとりの仕組み）の安全を見守る国際組織「金融安定理事会（FSB）」が、銀行などの金融業界でAI（人工知能）を安全に使うための注意点やおすすめのやり方をまとめた最終報告書を発表しました。AIを無責任に使って大事故が起きないよう、しっかり管理して活用するための手引書です。\n\n【たとえると？】\n「ポケットモンスター」でたとえます。\n非常に強くて便利な新しいポケモン（AI）が世界中でバトルに使われ始めたため、ポケモンリーグの運営本部（金融安定理事会）がトレーナーたちに向けて、「暴走させて街を壊したりしないよう、責任を持って正しく育てて指示を出すための公式マニュアル」を配ったような状況です。\n\n【つまり？】\n急速に普及するAIはとても便利ですが、銀行などのお金を扱う現場で暴走や判断ミスが起きると大混乱につながるため、世界のルールを決める組織が「金融業界はこれらを守って安全にAIを導入してください」と共通の指針を示したということです。\n\n【ワイに関係ある？】\n少しある\n一般の人がこの報告書を直接読む必要はありませんが、私たちが普段使っている銀行やクレジットカードなどのサービスがAIのトラブルで止まったり、不正な被害に遭ったりしないようにするための安全対策に関係しています。"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月16日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
       "date": "2026-10-16 08:40"
     },
     {
@@ -51,13 +52,6 @@
       "source": "日本銀行",
       "title": "業態別の日銀当座預金残高（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-10-16 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "業態別の日銀当座預金残高（9月）",
-      "link": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-10-16 08:00"
     },
     {
@@ -100,7 +94,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "長・短期プライムレート（主要行）の推移",
-      "link": "https://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
       "date": "2026-10-16 00:00"
     },
     {
@@ -123,7 +117,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月15日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261015.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261015.pdf",
       "date": "2026-10-15 08:40"
     },
     {
@@ -216,7 +210,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月14日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261014.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261014.pdf",
       "date": "2026-10-14 08:40"
     },
     {
@@ -224,13 +218,6 @@
       "source": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-      "date": "2026-10-14 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
       "date": "2026-10-14 08:00"
     },
     {
@@ -249,23 +236,9 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "営業毎旬報告（10月10日現在）",
-      "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm",
-      "date": "2026-10-14 01:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行",
       "title": "マネーストック（9月）",
       "link": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
-      "date": "2026-10-13 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "マネーストック（9月）",
-      "link": "https://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13 23:50"
     },
     {
@@ -322,7 +295,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月13日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261013.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261013.pdf",
       "date": "2026-10-13 08:40"
     },
     {
@@ -339,13 +312,6 @@
       "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
       "date": "2026-10-13 07:30",
       "ai_explanation": "【何があった？】\n金融取引において、約束した日までに国債などの受け渡しが間に合わなかったトラブル（これを「フェイル」と呼びます）が、9月にどれくらい起きたかという集計結果が公表されました。\n\n【たとえると？】\n「ポケモン」でたとえます。\n友達同士で「この日のこの時間に、お互いのポケモンを通信交換しよう」と約束していたのに、予定の時間にポケモンを用意できず、交換が予定通りに完了しなかった件数をポケモンセンターが集計して発表したような状況です。\n\n【つまり？】\n銀行や証券会社などのプロ同士が約束した期日に、取引する国債などの債券を相手に渡せなかった件数が、9月中にどのくらいあったのかを記録・発表したということです（後日きちんと渡されることが多いため、完全に取引が破談したわけではありません）。\n\n【ワイに関係ある？】\n「ほぼない」\n金融機関同士の専門的な取引の遅延に関する報告であり、一般の人の預金や普段の買い物に直接影響を与えるものではないためです。"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "フェイルの発生状況（9月）",
-      "link": "https://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
-      "date": "2026-10-13 07:30"
     },
     {
       "category": "お金",
@@ -406,22 +372,8 @@
     {
       "category": "お金",
       "source": "日本銀行 統計",
-      "title": "貸出・預金動向（9月）",
-      "link": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
-      "date": "2026-10-12 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "企業物価指数（9月）",
-      "link": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf",
-      "date": "2026-10-12 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
       "title": "「貸出・預金動向」の訂正について",
-      "link": "https://www.boj.or.jp/statistics/outline/notice_2026/not261013a.pdf",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261013a.pdf",
       "date": "2026-10-12 23:50"
     },
     {
@@ -464,7 +416,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月9日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261009.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261009.pdf",
       "date": "2026-10-09 08:40"
     },
     {
@@ -542,7 +494,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月8日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261008.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261008.pdf",
       "date": "2026-10-08 08:40"
     },
     {
@@ -570,7 +522,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "業種別・地域別直接投資（2026年第2四半期）",
-      "link": "https://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
+      "link": "http://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
       "date": "2026-10-07 23:50"
     },
     {
@@ -591,28 +543,28 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月7日）",
-      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261007.pdf",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261007.pdf",
       "date": "2026-10-07 08:40"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "コール市場残高（9月）",
-      "link": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
       "date": "2026-10-07 06:00"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "営業毎旬報告（9月30日現在）",
-      "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260930.htm",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260930.htm",
       "date": "2026-10-07 01:00"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "マネタリーベースと日本銀行の取引（9月）",
-      "link": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2609.pdf",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2609.pdf",
       "date": "2026-10-06 23:50"
     },
     {
