@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-21T23:20:10+00:00",
+  "updated_at": "2026-10-22T04:47:15+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "営業毎旬報告（10月20日現在）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "date": "2026-10-22 01:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "主要銀行貸出動向アンケート調査（10月）",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+      "date": "2026-10-21 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "FSBレポ統計の日本分集計結果",
+      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-10-21 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「FSBレポ統計の日本分集計結果」の訂正について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261022a.htm",
+      "date": "2026-10-21 23:50"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -398,7 +426,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "マネーストック（9月）",
       "link": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13 23:50"
@@ -420,14 +448,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261013a.htm",
-      "date": "2026-10-13 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "フェイルの発生状況（9月）",
       "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
       "date": "2026-10-13 07:30",
@@ -511,13 +532,6 @@
       "date": "2026-10-12 17:11"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月9日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261009.pdf",
-      "date": "2026-10-09 08:40"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "『マリオカート ワールド』のゲーム内イベント「オンラインチャレンジ サバイバルの秋」を10月17日（土）13:00～17:00に開催。",
@@ -574,13 +588,6 @@
       "date": "2026-10-08 13:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月8日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261008.pdf",
-      "date": "2026-10-08 08:40"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "2028年度 プレエントリー受付を開始しました。理工系の採用イベントへのお申し込みも受付中です。",
@@ -600,20 +607,6 @@
       "title": "Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』のCMを公開しました。",
       "link": "https://www.nintendo.com/jp/games/switch2/aacha/index.html",
       "date": "2026-10-08 01:01"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "業種別・地域別直接投資（2026年第2四半期）",
-      "link": "http://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm",
-      "date": "2026-10-07 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月7日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261007.pdf",
-      "date": "2026-10-07 08:40"
     },
     {
       "category": "ゲーム・IT",
