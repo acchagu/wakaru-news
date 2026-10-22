@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-22T10:11:37+00:00",
+  "updated_at": "2026-10-22T15:17:24+00:00",
   "items": [
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について",
+      "link": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "date": "2026-10-22 12:36"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -19,13 +26,6 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
-      "date": "2026-10-22 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
       "date": "2026-10-22 08:00"
     },
@@ -33,7 +33,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "実質輸出入の動向",
-      "link": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+      "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
       "date": "2026-10-22 07:00"
     },
     {
@@ -68,13 +68,6 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "営業毎旬報告（10月20日現在）",
-      "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
-      "date": "2026-10-22 01:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "営業毎旬報告（10月20日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
       "date": "2026-10-22 01:00"
     },
@@ -82,21 +75,14 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "主要銀行貸出動向アンケート調査（10月）",
-      "link": "https://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
       "date": "2026-10-21 23:50"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "FSBレポ統計の日本分集計結果",
-      "link": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
-      "date": "2026-10-21 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "主要銀行貸出動向アンケート調査（10月）",
-      "link": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
       "date": "2026-10-21 23:50"
     },
     {
@@ -104,13 +90,6 @@
       "source": "日本銀行 統計",
       "title": "「FSBレポ統計の日本分集計結果」の訂正について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261022a.htm",
-      "date": "2026-10-21 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "FSBレポ統計の日本分集計結果",
-      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
       "date": "2026-10-21 23:50"
     },
     {
@@ -174,21 +153,21 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」の公表について",
-      "link": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
       "date": "2026-10-20 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "【記者会見】植田総裁（G20、10月16日分）",
-      "link": "https://www.boj.or.jp/about/press/kaiken_2026/kk261020a.pdf",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261020a.pdf",
       "date": "2026-10-20 06:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "「金融研究」掲載論文（2026年収録分）",
-      "link": "https://www.boj.or.jp/research/imes/mes/mes26.htm",
+      "link": "http://www.boj.or.jp/research/imes/mes/mes26.htm",
       "date": "2026-10-20 02:00"
     },
     {
@@ -209,14 +188,14 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "報告省令レート（11月分）",
-      "link": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2611.htm",
+      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2611.htm",
       "date": "2026-10-20 00:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "基準外国為替相場及び裁定外国為替相場（11月分）",
-      "link": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2611.htm",
+      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2611.htm",
       "date": "2026-10-20 00:00"
     },
     {
@@ -273,7 +252,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」の公表について",
-      "link": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
+      "link": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
       "date": "2026-10-19 03:00"
     },
     {
@@ -340,19 +319,12 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
-      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
       "date": "2026-10-16 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
-      "title": "業態別の日銀当座預金残高（9月）",
-      "link": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-10-16 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
       "title": "業態別の日銀当座預金残高（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-10-16 08:00",
@@ -362,7 +334,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【挨拶】植田総裁（内田副総裁代読）（全国信用組合大会）",
-      "link": "https://www.boj.or.jp/about/press/koen_2026/ko261016a.htm",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261016a.htm",
       "date": "2026-10-16 06:30"
     },
     {
@@ -376,7 +348,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【記者会見】小枝審議委員（熊本、10月15日分）",
-      "link": "https://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
       "date": "2026-10-16 04:30"
     },
     {
@@ -418,21 +390,21 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による市中協議文書「規制・監督の現代化に係る原則」の公表について",
-      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261015b.htm",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015b.htm",
       "date": "2026-10-15 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による「G20金融規制改革の実施モニタリングレビュー：2026年報告書」の公表について",
-      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261015a.htm",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015a.htm",
       "date": "2026-10-15 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "【挨拶】小枝審議委員「わが国の経済・物価情勢と金融政策」（熊本）",
-      "link": "https://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
       "date": "2026-10-15 01:30"
     },
     {
@@ -460,7 +432,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "「市場調節に関する意見交換会」（2026年10月）の概要",
-      "link": "https://www.boj.or.jp/paym/market/mkt261015a.pdf",
+      "link": "http://www.boj.or.jp/paym/market/mkt261015a.pdf",
       "date": "2026-10-15 01:00"
     },
     {
