@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-10-22T04:47:15+00:00",
+  "updated_at": "2026-10-22T10:11:37+00:00",
   "items": [
     {
       "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（資産運用会社等の監督等に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/shiho-03/shiho-03.html",
+      "date": "2026-10-22 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月22日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261022.pdf",
+      "date": "2026-10-22 08:40"
+    },
+    {
+      "category": "お金",
       "source": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+      "date": "2026-10-22 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+      "date": "2026-10-22 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "実質輸出入の動向",
+      "link": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+      "date": "2026-10-22 07:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
+      "link": "https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a",
+      "date": "2026-10-22 06:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "子供から大人まで、世代を超えて、体感スポーツ。Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』は本日発売。",
+      "link": "https://www.nintendo.com/jp/topics/article/84999aa9-7844-4d76-970f-d7f8093edc03",
+      "date": "2026-10-22 01:03"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "麦わらの一味と、この海で一番の“おいしい”をお届け。『ONE PIECE 海のごちそうレストラン』がNintendo Switch 2 / Nintendo Switchで本日発売。",
+      "link": "https://www.nintendo.com/jp/topics/article/a5ec42eb-efb3-4c90-95b0-618e143da7e2",
+      "date": "2026-10-22 01:02"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "もし、「ファイナルファンタジー」がドットのまま進化を遂げていたら――。HD-2Dで描かれるシリーズ最新作『ファイナルファンタジー レゾナンス』がNintendo Switch 2 / Nintendo Switchで本日発売。 ※本作の対象年齢は「15歳以上」です。",
+      "link": "https://www.nintendo.com/jp/topics/article/9f8d849f-9379-4fc7-9c1b-a6ad18c82f35",
+      "date": "2026-10-22 01:01"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "営業毎旬報告（10月20日現在）",
+      "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "date": "2026-10-22 01:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
       "title": "営業毎旬報告（10月20日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
       "date": "2026-10-22 01:00"
@@ -12,14 +82,21 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "主要銀行貸出動向アンケート調査（10月）",
-      "link": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+      "link": "https://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
       "date": "2026-10-21 23:50"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "FSBレポ統計の日本分集計結果",
-      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "link": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-10-21 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "主要銀行貸出動向アンケート調査（10月）",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
       "date": "2026-10-21 23:50"
     },
     {
@@ -27,6 +104,13 @@
       "source": "日本銀行 統計",
       "title": "「FSBレポ統計の日本分集計結果」の訂正について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261022a.htm",
+      "date": "2026-10-21 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "FSBレポ統計の日本分集計結果",
+      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
       "date": "2026-10-21 23:50"
     },
     {
@@ -90,21 +174,21 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」の公表について",
-      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
+      "link": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
       "date": "2026-10-20 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "【記者会見】植田総裁（G20、10月16日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261020a.pdf",
+      "link": "https://www.boj.or.jp/about/press/kaiken_2026/kk261020a.pdf",
       "date": "2026-10-20 06:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "「金融研究」掲載論文（2026年収録分）",
-      "link": "http://www.boj.or.jp/research/imes/mes/mes26.htm",
+      "link": "https://www.boj.or.jp/research/imes/mes/mes26.htm",
       "date": "2026-10-20 02:00"
     },
     {
@@ -125,15 +209,14 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "報告省令レート（11月分）",
-      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2611.htm",
-      "date": "2026-10-20 00:00",
-      "ai_explanation": "【何があった？】\n国に海外との大きなお金のやり取りを報告するときに使う、「外国のお金を日本円に計算し直すための公式ルール（為替レート）」の11月分が発表されました。\n為替レートとは、外国のお金（ドルなど）を日本円に換算するときの交換比率のことです。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n旅の途中で手に入れた「小さなメダル」や「カジノのコイン」を王様やお城に報告する際、大臣から「今月の公式ルールでは、コイン1枚を〇〇ゴールドとして計算して書類を出してください」と月ごとの計算基準を指定されたような状況です。\n\n【つまり？】\n海外と大口の取引をしている企業や銀行が、国（日本銀行など）に提出する書類を書くための「11月専用の計算基準」が決まったということです。\n\n【ワイに関係ある？】\nほぼない\n国に特別な書類を出す大企業や金融機関向けのルールなので、一般の人が普段の生活や買い物で直接使うことはまずありません。"
+      "link": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2611.htm",
+      "date": "2026-10-20 00:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "基準外国為替相場及び裁定外国為替相場（11月分）",
-      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2611.htm",
+      "link": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2611.htm",
       "date": "2026-10-20 00:00"
     },
     {
@@ -190,7 +273,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」の公表について",
-      "link": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
+      "link": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261019a.htm",
       "date": "2026-10-19 03:00"
     },
     {
@@ -257,13 +340,19 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
-      "date": "2026-10-16 08:00",
-      "ai_explanation": "【何があった？】\n世界の金融（お金のやりとりの仕組み）の安全を見守る国際的な組織が、銀行などの金融機関に向けて「人工知能（AI）」をトラブルなく安全に使うための望ましいルールや注意点をまとめた報告書を出しました。\n\n【たとえると？】\n『ポケットモンスター』でたとえます。\n強力なポケモンはバトルで頼りになりますが、指示を無視して暴走すると街や人に大きな被害を出してしまいます。\nそこで、ポケモン協会のような偉い組織がトレーナーたちに向けて、「強いポケモンを暴走させずに安全に活躍させるための、正しい付き合い方マニュアル」を配ったような状況です。\n\n【つまり？】\nAIという非常に便利で強力な道具を金融機関が使うにあたって、予期せぬ失敗で人々の財産が脅かされないよう、世界基準の「安全運転の手引き」が正式にまとめられたということです。\n\n【ワイに関係ある？】\n少しある\n理由：私たちが普段使う銀行やアプリの裏側でAIが安全に使われるためのルールなので、今すぐ生活が変わるわけではありませんが、将来の金融トラブルを防ぐことにつながっています。"
+      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+      "date": "2026-10-16 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
+      "title": "業態別の日銀当座預金残高（9月）",
+      "link": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-10-16 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
       "title": "業態別の日銀当座預金残高（9月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-10-16 08:00",
@@ -273,7 +362,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【挨拶】植田総裁（内田副総裁代読）（全国信用組合大会）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261016a.htm",
+      "link": "https://www.boj.or.jp/about/press/koen_2026/ko261016a.htm",
       "date": "2026-10-16 06:30"
     },
     {
@@ -287,7 +376,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【記者会見】小枝審議委員（熊本、10月15日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
+      "link": "https://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
       "date": "2026-10-16 04:30"
     },
     {
@@ -329,21 +418,21 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による市中協議文書「規制・監督の現代化に係る原則」の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015b.htm",
+      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261015b.htm",
       "date": "2026-10-15 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による「G20金融規制改革の実施モニタリングレビュー：2026年報告書」の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015a.htm",
+      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261015a.htm",
       "date": "2026-10-15 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "【挨拶】小枝審議委員「わが国の経済・物価情勢と金融政策」（熊本）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
+      "link": "https://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
       "date": "2026-10-15 01:30"
     },
     {
@@ -371,7 +460,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "「市場調節に関する意見交換会」（2026年10月）の概要",
-      "link": "http://www.boj.or.jp/paym/market/mkt261015a.pdf",
+      "link": "https://www.boj.or.jp/paym/market/mkt261015a.pdf",
       "date": "2026-10-15 01:00"
     },
     {
@@ -405,7 +494,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
       "date": "2026-10-14 08:00"
@@ -419,7 +508,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "営業毎旬報告（10月10日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm",
       "date": "2026-10-14 01:00"
@@ -494,20 +583,6 @@
       "source": "日本銀行 統計",
       "title": "貸出・預金動向（9月）",
       "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
-      "date": "2026-10-12 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "企業物価指数（9月）",
-      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf",
-      "date": "2026-10-12 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「貸出・預金動向」の訂正について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261013a.pdf",
       "date": "2026-10-12 23:50"
     },
     {
@@ -600,27 +675,6 @@
       "title": "ディズニーやピクサーの世界を舞台に、光と闇が織りなす物語。3つのパッケージをセットにした『KINGDOM HEARTS Collection [I～III]』が、Nintendo Switch 2 で本日発売。",
       "link": "https://www.nintendo.com/jp/topics/article/4a70ddcf-0562-410c-9b0f-23cbe7817730",
       "date": "2026-10-08 01:02"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』のCMを公開しました。",
-      "link": "https://www.nintendo.com/jp/games/switch2/aacha/index.html",
-      "date": "2026-10-08 01:01"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "3本のソフトからお好きな1本を選択してダウンロードできるお得な「Nintendo Switch 2（日本語・国内専用） 選べるソフトセット」が登場。",
-      "link": "https://www.nintendo.com/jp/topics/article/965576b6-1e14-409c-8da6-515804839baf",
-      "date": "2026-10-06 01:08"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「マイマリオ」に「のせかえメロディーカー」が登場。「かおルイージ」「かおピーチ」の配信や、キャラクターのつみきを使った「かおあそび」、「コマどりマリオ」最新話もご紹介。",
-      "link": "https://www.nintendo.com/jp/topics/article/92bfdd2b-48b0-40bb-a1d9-5ebd6a5d451b",
-      "date": "2026-10-06 01:03"
     },
     {
       "category": "国内",
