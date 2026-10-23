@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-23T04:50:13+00:00",
+  "updated_at": "2026-10-23T10:04:42+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（金融モニタリング業務(市場リスク管理及び流動性リスク管理)に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
+      "date": "2026-10-23 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "企業会計審議会第57回監査部会議事録について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kigyou/gijiroku/kansa/20261023.html",
+      "date": "2026-10-23 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による「グローバルなシステム上重要な銀行（G-SIB）－ウィンドウ・ドレッシング行動に対処するための評価枠組みの改訂」及び市中協議文書「G-SIB評価手法のレビュー」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261023/20261023.html",
+      "date": "2026-10-23 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事録について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/gijiroku/20260904.html",
+      "date": "2026-10-23 13:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月23日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261023.pdf",
+      "date": "2026-10-23 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "バーゼル銀行監督委員会による「グローバルなシステム上重要な銀行（G-SIB）-ウィンドウ・ドレッシング行動に対処するための評価枠組みの改訂」及び市中協議文書「G-SIB評価手法のレビュー」の公表について",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261023a.htm",
+      "date": "2026-10-23 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年8・9月号）",
+      "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2609.htm",
+      "date": "2026-10-23 07:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融システムレポート（2026年10月号）",
+      "link": "http://www.boj.or.jp/research/brp/fsr/fsr261023.htm",
+      "date": "2026-10-23 06:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「デザイン系 社員懇談会&ポートフォリオ相談会 ハードウェア制作（プロダクトデザイン）」のお申し込み受付を開始しました。",
+      "link": "https://www.nintendo.co.jp/jobs/recruit/event/design_product.html",
+      "date": "2026-10-23 05:03"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -28,6 +91,13 @@
       "title": "ニンテンドーeショップ新作ソフト情報 10/23（金）号。",
       "link": "https://www.nintendo.com/jp/topics/article/461cdc7d-b50c-4e76-88fd-2eccc3d50336",
       "date": "2026-10-23 01:02"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "家計調査（貯蓄・負債編）2026年（令和8年）4～6月期分",
+      "link": "https://www.stat.go.jp/data/sav/1.html",
+      "date": "2026-10-23"
     },
     {
       "category": "国内",
@@ -228,13 +298,6 @@
       "date": "2026-10-20 01:40"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
-      "link": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
-      "date": "2026-10-20 00:31"
-    },
-    {
       "category": "お金",
       "source": "日本銀行",
       "title": "報告省令レート（11月分）",
@@ -263,33 +326,11 @@
       "date": "2026-10-20"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事録について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/ai_onchain/gijiroku/20260930.html",
-      "date": "2026-10-19 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,BIS決済・市場インフラ委員会及び証券監督者国際機構による最終報告書「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/ios/20261019/20261019.html",
-      "date": "2026-10-19 12:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "%AutoEntityLabel: 8e906bd5-3414-45d8-9ac5-04dc3cbc6853%",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/autoentitylabel-8e906bd5-3414-45d8-9ac5-04dc3cbc6853",
       "date": "2026-10-19 11:37"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（主に新形態銀行、資金移動業者や前払式支払手段発行者等に係るモニタリング等）に従事する職員【弁護士】)",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/shiho-02/shiho-02.html",
-      "date": "2026-10-19 10:00",
-      "ai_explanation": "【何があった？】\nネット銀行やスマホ決済、電子マネーなどを扱う会社が、きちんとルールを守っているかをチェックする係として、法律の専門家である「弁護士」を職員として募集しています。\n\n【たとえると？】\n「ポケモン」でたとえます。\nポケモンの世界で、最新の便利グッズや新しいサービスを扱うお店がインチキや危険なことをしていないか見張るために、街の治安を守る組織（ジュンサーさんたち）が、ルールにめちゃくちゃ詳しい専門家を新しい仲間としてスカウトしようとしている状況です。\n\n【つまり？】\nネット銀行や、お金を送るサービス（資金移動業者）、電子マネー（前払式支払手段）といった新しいタイプのお金の仕組みが増えているため、それらの会社が法律を守って安全に運営されているかを厳しく見守る（モニタリングする）プロを雇おうとしている、ということです。\n\n【ワイに関係ある？】\n少しある\n普段使っているスマホ決済やネット銀行の安全性がしっかり守られ、トラブルを防ぐことにつながるため、間接的に私たちの生活に関係しています。"
     },
     {
       "category": "お金",
@@ -318,38 +359,6 @@
       "title": "Experts of the Committee on the Elimination of Discrimination against Women Commend Cabo Verde on Parity Law, Raise Questions on Tackling Gender Stereotypes and the Situation of Women in the Informal Sector",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/examen-de-cabo-verde-au-cedaw-les-expertes-saluent-de-nombreux",
       "date": "2026-10-16 18:13"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
-      "date": "2026-10-16 17:00",
-      "ai_explanation": "【何があった？】\n銀行口座などから勝手にお金が別の口座へ送られてしまう犯罪（不正送金：ふせいそうきん）を防ぐために、いまどのような対策を行っているのか、その進み具合が発表されました。\n\n【たとえると？】\n「ポケットモンスター」でたとえます。\n悪の組織であるロケット団が、町の人たちの大事な預かり物やモンスターボールを勝手に盗み出して隠してしまう事件が起きています。\nこれに対し、ポケモンセンターや警察官（ジュンサーさん）たちが「いまどんな警備をして防ごうとしているか」を町のみんなに知らせた、という状況です。\n\n【つまり？】\nネットなどを通じて人のお金をだまし取って別の口座へ送ってしまう手口に対し、銀行や関係機関が「どんな対策をとって被害を防ごうとしているか」の現状をまとめた、ということです。\n\n【ワイに関係ある？】\nかなりある\n銀行口座を持っている人なら誰でもお金を勝手に盗まれる危険があり、今後はネットバンキングなどの使い方がより安全確認を重視したものに変わる可能性があるためです。"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "保険会社等における障がい者等に配慮した取組に関するアンケート調査の結果について（令和８年３月末時点）公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/hoken/20261016/20261016.html",
-      "date": "2026-10-16 17:00",
-      "ai_explanation": "【何があった？】\n保険会社などが、障がいのある人たちに向けてどのような配慮や工夫を行っているかを調べたアンケートの結果が公表されました。\n各社がどのようなサポート体制をとっているかの現状がまとめられています。\n\n【たとえると？】\n「ポケモン」でたとえます。\nさまざまな姿や特徴を持つポケモンやトレーナーが訪れる「ポケモンセンター」で、どんな人やポケモンでも困らずに回復や買いものができるよう、お店側がどんな工夫（段差をなくす、言葉以外の伝え方を用意するなど）をしているかを調査し、みんなに発表したような状況です。\n\n【つまり？】\n障がいがある人でもスムーズに保険の相談や契約ができるよう、保険会社がどのような対応や準備を進めているのかが明らかになったということです。\n\n【ワイに関係ある？】\n「少しある」\n自分自身や家族に配慮が必要なときはもちろん、将来ケガや病気になった際にも、保険会社の手続きが使いやすくなっているかを知る目安になるためです。"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「監査基準の改訂について（公開草案）」について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20261016-2/20261016.html",
-      "date": "2026-10-16 17:00",
-      "ai_explanation": "【何があった？】\n会社のお金の使い方にウソや間違いがないかチェックする「監査（かんさ）」という仕事があります。\nそのチェック方法のルールを新しく変えるための「下書きの案（公開草案）」が作られ、みんなに見える形で発表されました。\n\n【たとえると？】\n『ポケモン』でたとえます。\n公式大会で、トレーナーが不正な道具を使っていないかチェックする「審判の点検マニュアル」を新しく作り直すことになり、決定前のお試し案としてみんなに公開されたような状況です。\n\n【つまり？】\n会社のチェック役（公認会計士など）が使う仕事のルールを新しく変更するため、決定前の「検討中の案」が公表されたということです。\n\n【ワイに関係ある？】\nほぼない\n理由：会社をチェックする専門家向けのルールの見直し案なので、私たちの普段の生活に直接すぐ影響が出ることはありません。"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/fsf/20261016/20261016.html",
-      "date": "2026-10-16 17:00",
-      "ai_explanation": "【何があった？】\n世界の金融（お金のやりとりの仕組み）の安全を見守る国際組織「金融安定理事会（FSB）」が、銀行などの金融業界でAI（人工知能）を安全に使うための注意点やおすすめのやり方をまとめた最終報告書を発表しました。AIを無責任に使って大事故が起きないよう、しっかり管理して活用するための手引書です。\n\n【たとえると？】\n「ポケットモンスター」でたとえます。\n非常に強くて便利な新しいポケモン（AI）が世界中でバトルに使われ始めたため、ポケモンリーグの運営本部（金融安定理事会）がトレーナーたちに向けて、「暴走させて街を壊したりしないよう、責任を持って正しく育てて指示を出すための公式マニュアル」を配ったような状況です。\n\n【つまり？】\n急速に普及するAIはとても便利ですが、銀行などのお金を扱う現場で暴走や判断ミスが起きると大混乱につながるため、世界のルールを決める組織が「金融業界はこれらを守って安全にAIを導入してください」と共通の指針を示したということです。\n\n【ワイに関係ある？】\n少しある\n一般の人がこの報告書を直接読む必要はありませんが、私たちが普段使っている銀行やクレジットカードなどのサービスがAIのトラブルで止まったり、不正な被害に遭ったりしないようにするための安全対策に関係しています。"
     },
     {
       "category": "海外",
@@ -444,20 +453,6 @@
       "date": "2026-10-15 08:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融安定理事会による「G20金融規制改革の実施モニタリングレビュー：2026年報告書」の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015a.htm",
-      "date": "2026-10-15 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【挨拶】小枝審議委員「わが国の経済・物価情勢と金融政策」（熊本）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261015a.htm",
-      "date": "2026-10-15 01:30"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "Nintendo Switch 2『ゼルダの伝説 時のオカリナ』の紹介映像を公開。新要素「万魔殿」などもご紹介。",
@@ -477,13 +472,6 @@
       "title": "「Hello! インディー」リズムにノッて指揮してススメ『Ratatan』",
       "link": "https://www.nintendo.com/jp/topics/article/7c22bd96-d725-402e-84c2-fc27c6c13693",
       "date": "2026-10-15 01:03"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "「市場調節に関する意見交換会」（2026年10月）の概要",
-      "link": "http://www.boj.or.jp/paym/market/mkt261015a.pdf",
-      "date": "2026-10-15 01:00"
     },
     {
       "category": "ゲーム・IT",
@@ -601,13 +589,6 @@
       "date": "2026-10-13"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "貸出・預金動向（9月）",
-      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
-      "date": "2026-10-12 23:50"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Civil Society Organizations Brief the Committee on the Elimination of Discrimination against Women on the Situation of Women in Paraguay, Togo and Angola",
@@ -634,20 +615,6 @@
       "title": "『マリオカート ワールド』のゲーム内イベント「オンラインチャレンジ サバイバルの秋」を10月17日（土）13:00～17:00に開催。",
       "link": "https://www.nintendo.com/jp/topics/article/322e44dd-a061-46b5-8526-c53c1b860169",
       "date": "2026-10-09 06:05"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "『Nintendo Switch Sports Resort』の紹介映像とTVCMを公開。",
-      "link": "https://www.nintendo.com/jp/topics/article/9c619551-4244-4871-bc20-8d44f66a7904",
-      "date": "2026-10-09 01:04"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "誰も知らない英雄譚が、ここにある。王道ファンタジーの世界で自由な冒険を楽しむオープンワールドアクション『Dragon's Dogma 2: Dark Arisen』が、Nintendo Switch 2 で本日発売。",
-      "link": "https://www.nintendo.com/jp/topics/article/765035e5-1a1c-45c6-9e49-9980069c9150",
-      "date": "2026-10-09 01:02"
     },
     {
       "category": "国内",
@@ -696,13 +663,6 @@
       "source": "総務省統計局",
       "title": "令和7年国勢調査 人口等基本集計結果",
       "link": "https://www.stat.go.jp/data/kokusei/2025/kekka.html",
-      "date": "2026-09-29"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "住民基本台帳人口移動報告 2026年（令和8年）8月分",
-      "link": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
       "date": "2026-09-29"
     },
     {
