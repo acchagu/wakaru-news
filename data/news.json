@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:04:42+00:00",
+  "updated_at": "2026-10-23T15:04:36+00:00",
   "items": [
     {
       "category": "お金",
@@ -118,6 +118,13 @@
       "source": "総務省統計局",
       "title": "サービス産業動態統計調査（2026年（令和8年）8月分速報、2026年（令和8年）5月分確報）",
       "link": "https://www.stat.go.jp/data/mbss/kekka.html",
+      "date": "2026-10-23"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "デベロッパがiPhone Duoに驚異的な新しいアプリ体験をもたらします",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
       "date": "2026-10-23"
     },
     {
@@ -762,13 +769,6 @@
       "source": "Apple Newsroom",
       "title": "Apple、iPhone Duoを発表",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "date": "2026-09-09"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、Apple Watch Ultra 4を発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
       "date": "2026-09-09"
     }
   ],
