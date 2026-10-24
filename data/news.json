@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-10-24T11:01:58+00:00",
+  "updated_at": "2026-10-24T14:33:47+00:00",
   "items": [
     {
       "category": "お金",
       "source": "金融庁",
       "title": "採用,職員を募集しています。（金融モニタリング業務(市場リスク管理及び流動性リスク管理)に従事する職員）",
       "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-      "date": "2026-10-23 17:00"
+      "date": "2026-10-23 17:00",
+      "ai_explanation": "【何があった？】\n銀行などのお金を扱う会社が、相場の変化で損をしたり、手元の現金が足りなくなったりしないかを厳しく見守る（モニタリングする）専門の職員の募集が行われています。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n冒険の中で、道具屋の買い取り価格が急激に下がって大損したり、いざという時に手持ちのゴールドや「やくそう」が尽きて全滅したりしないよう、城やパーティの物資・資金のやりくりに危ない点がないかを専門にチェックする「見張り役の仲間」を募集しているような状態です。\n\n【つまり？】\n株価や金利の変動による損（市場リスク）や、支払いに必要な現金が足りなくなる危険（流動性リスク）を金融機関がしっかり防げているか、監視・調査するプロを採用しようとしています。\n\n【ワイに関係ある？】\n少しある\n銀行などが急にお金に困って混乱するのを防ぐための仕事なので、私たちが預けているお金の安全性や、経済の安定に間接的に関わっています。"
     },
     {
       "category": "お金",
@@ -40,7 +41,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月23日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261023.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261023.pdf",
       "date": "2026-10-23 08:40"
     },
     {
@@ -160,7 +161,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月22日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261022.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261022.pdf",
       "date": "2026-10-22 08:40"
     },
     {
@@ -168,6 +169,13 @@
       "source": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+      "date": "2026-10-22 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
       "date": "2026-10-22 08:00"
     },
     {
@@ -214,6 +222,13 @@
     },
     {
       "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "営業毎旬報告（10月20日現在）",
+      "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "date": "2026-10-22 01:00"
+    },
+    {
+      "category": "お金",
       "source": "日本銀行",
       "title": "主要銀行貸出動向アンケート調査（10月）",
       "link": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
@@ -229,8 +244,22 @@
     {
       "category": "お金",
       "source": "日本銀行 統計",
+      "title": "主要銀行貸出動向アンケート調査（10月）",
+      "link": "https://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+      "date": "2026-10-21 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
       "title": "「FSBレポ統計の日本分集計結果」の訂正について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261022a.htm",
+      "link": "https://www.boj.or.jp/statistics/outline/notice_2026/not261022a.htm",
+      "date": "2026-10-21 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "FSBレポ統計の日本分集計結果",
+      "link": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
       "date": "2026-10-21 23:50"
     },
     {
@@ -252,7 +281,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月21日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261021.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261021.pdf",
       "date": "2026-10-21 08:40"
     },
     {
@@ -287,7 +316,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月20日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261020.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261020.pdf",
       "date": "2026-10-20 08:40"
     },
     {
@@ -357,7 +386,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月19日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261019.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261019.pdf",
       "date": "2026-10-19 08:40"
     },
     {
@@ -392,7 +421,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月16日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
       "date": "2026-10-16 08:40"
     },
     {
@@ -409,6 +438,13 @@
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-10-16 08:00",
       "ai_explanation": "【何があった？】\nさまざまな銀行が、日本銀行（国の中心となる銀行）に預けているお金の「9月時点の残高」が、銀行の種類別に発表されました。\nどのグループの銀行が、どれくらいのお金を日銀に置いているのかが分かります。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n町にある巨大な「ゴールド銀行（お金の預かり所）」に、戦士ギルドや魔法使いギルドといった職業グループごとに、いまどれだけのゴールドを預けているかの最新リストが貼り出されたような状況です。\n\n【つまり？】\n大手銀行や地方銀行などのグループごとに、日本銀行という「銀行のための銀行」の金庫にいくらお金を預けているかが公開された、ということです。\n\n【ワイに関係ある？】\n「ほぼない」\n銀行同士や日本銀行の間にあるお金の記録が発表されただけなので、これによって私たちの普段の買い物や給料が明日すぐ変わるわけではありません。"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "業態別の日銀当座預金残高（9月）",
+      "link": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-10-16 08:00"
     },
     {
       "category": "お金",
@@ -449,7 +485,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "長・短期プライムレート（主要行）の推移",
-      "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
+      "link": "https://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
       "date": "2026-10-16 00:00"
     },
     {
@@ -463,7 +499,7 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月15日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261015.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261015.pdf",
       "date": "2026-10-15 08:40"
     },
     {
@@ -520,14 +556,14 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月14日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261014.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261014.pdf",
       "date": "2026-10-14 08:40"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+      "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
       "date": "2026-10-14 08:00"
     },
     {
@@ -541,14 +577,14 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "営業毎旬報告（10月10日現在）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm",
+      "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm",
       "date": "2026-10-14 01:00"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "マネーストック（9月）",
-      "link": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
+      "link": "https://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13 23:50"
     },
     {
@@ -563,16 +599,15 @@
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月13日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261013.pdf",
+      "link": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261013.pdf",
       "date": "2026-10-13 08:40"
     },
     {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "フェイルの発生状況（9月）",
-      "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
-      "date": "2026-10-13 07:30",
-      "ai_explanation": "【何があった？】\n金融取引において、約束した日までに国債などの受け渡しが間に合わなかったトラブル（これを「フェイル」と呼びます）が、9月にどれくらい起きたかという集計結果が公表されました。\n\n【たとえると？】\n「ポケモン」でたとえます。\n友達同士で「この日のこの時間に、お互いのポケモンを通信交換しよう」と約束していたのに、予定の時間にポケモンを用意できず、交換が予定通りに完了しなかった件数をポケモンセンターが集計して発表したような状況です。\n\n【つまり？】\n銀行や証券会社などのプロ同士が約束した期日に、取引する国債などの債券を相手に渡せなかった件数が、9月中にどのくらいあったのかを記録・発表したということです（後日きちんと渡されることが多いため、完全に取引が破談したわけではありません）。\n\n【ワイに関係ある？】\n「ほぼない」\n金融機関同士の専門的な取引の遅延に関する報告であり、一般の人の預金や普段の買い物に直接影響を与えるものではないためです。"
+      "link": "https://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
+      "date": "2026-10-13 07:30"
     },
     {
       "category": "国内",
