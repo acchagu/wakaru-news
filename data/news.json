@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-26T13:11:20+00:00",
+  "updated_at": "2026-10-26T19:20:16+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "%AutoEntityLabel: 13d47728-61c8-4444-ba44-46f04cedfebe%",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-discusses-draft-thematic",
+      "date": "2026-10-26 18:24"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Expert Mechanism on the Right to Development Opens Fourteenth Session, Begins General Debate",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-opens-fourteenth-session",
+      "date": "2026-10-26 14:20"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -28,6 +42,20 @@
       "title": "外国為替市況（10月26日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261026.pdf",
       "date": "2026-10-26 08:40"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Siri AI、日本語で提供開始",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/siri-ai-is-available-today-in-more-languages/",
+      "date": "2026-10-26"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、iPad miniに史上最大のアップデートを導入",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "date": "2026-10-26"
     },
     {
       "category": "ゲーム・IT",
@@ -370,8 +398,8 @@
     {
       "category": "海外",
       "source": "国連ジュネーブ",
-      "title": "%AutoEntityLabel: 8e906bd5-3414-45d8-9ac5-04dc3cbc6853%",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/autoentitylabel-8e906bd5-3414-45d8-9ac5-04dc3cbc6853",
+      "title": "Human Right Committee Opens One Hundred and Forty-Sixth Session",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/human-right-committee-opens-one-hundred-and-forty-sixth-session",
       "date": "2026-10-19 11:37"
     },
     {
@@ -523,14 +551,6 @@
       "date": "2026-10-15"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Elimination of Discrimination against Women Commend Togo’s Novissi Programme, Raise Questions on Services for Women in the Savanes Region and the Criminalisation of Prostitution",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/examen-du-togo-au-cedaw-les-expertes-saluent-des-avancees",
-      "date": "2026-10-14 18:06",
-      "ai_explanation": "【何があった？】\n女性への差別をなくす活動をしている専門家たちが、アフリカの国「トーゴ」の女性支援策（ノヴィシ・プログラム）を高く評価しました。\nその一方で、ある地方（サバナ州）の女性たちへの支援や、売春を法律で罪として罰することについて、疑問や改善すべき点を投げかけました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n国を治める王様が、国民を助けるための新しい魔法のような政策を行い、視察に訪れた賢者たちから「その政策は素晴らしい」と褒められました。\nしかし同時に賢者たちから、「お城から離れたサバナの村にはちゃんと支援が届いているのか？」「罪を取り締まる法律が厳しすぎて、かえって困っている村人を追い詰めていないか？」と問い詰められている状況です。\n\n【つまり？】\nトーゴ政府の良い取り組みは国際的に評価されたものの、「困っている一部の地域の女性に支援が行き届いているか」や「売春を犯罪として罰することが本当に女性のためになっているのか」といった課題について、専門家から詳しい説明や見直しを求められているということです。\n\n【ワイに関係ある？】\nほぼない\nアフリカの国トーゴの国内政策や法律に関する国際的な話し合いのニュースであり、日本で暮らす私たちの生活に直接影響することは考えにくいためです。"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "Nintendo Switch 2 ソフト『ゼルダの伝説 時のオカリナ』の紹介映像を公開しました。",
@@ -571,14 +591,6 @@
       "title": "マネーストック（9月）",
       "link": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13 23:50"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Elimination of Discrimination against Women Commend Paraguay on Policies Promoting the Economic Empowerment of Women, Raise Questions on Trafficking and Deletion of “Gender” from Educational Materials",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/experts-committee-elimination-discrimination-against-women-3",
-      "date": "2026-10-13 18:54",
-      "ai_explanation": "【何があった？】\n女性の権利を守る国連の専門家グループが、南米の国パラグアイの取り組みをチェックしました。\n女性が自分でお金を稼げるようにした政策は「よくやった」と褒められましたが、人身売買（人を売り買いする犯罪）への対策や、学校の教材から「ジェンダー（社会的な性別）」という言葉を消してしまったことについて疑問を投げかけられました。\n\n【たとえると？】\n「ドラゴンボール」でたとえると、\n武術の師匠（国連の専門家）が、弟子（パラグアイ）の稽古の成果をチェックしている場面です。\n弟子が「腕力をしっかり鍛えたこと（女性の稼ぐ力を伸ばす政策）」は褒められたものの、「悪党に連れ去られた人を助けられていないこと（人身売買）」や「教本から大事な基本用語を勝手に消してしまったこと」について、「おい、そこはどうなっているんだ？」と厳しく問い詰められているような状況です。\n\n【つまり？】\nパラグアイという国が、女性を経済的に助ける政策では合格点をもらったものの、別の重大な問題（人身売買の防止や教育内容）について、国際的な専門家から改善や説明を求められているということです。\n\n【ワイに関係ある？】\nほぼない\n南米パラグアイの国内の政策や教育方針に関するニュースであるため、日本で暮らす私たちの日常生活に直接影響することはまずありません。"
     },
     {
       "category": "お金",
@@ -755,20 +767,6 @@
       "title": "Apple、子どもの安全の新しい機能が利用可能に",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apples-new-child-safety-features-now-available/",
       "date": "2026-09-14"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "iPhone 18 Pro、Apple Watchの最新ラインナップ、AirPods 5の体験がまもなく始まります",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
-      "date": "2026-09-11"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、iPhone 18 ProとiPhone 18 Pro Maxを発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "date": "2026-09-10"
     }
   ],
   "errors": []
