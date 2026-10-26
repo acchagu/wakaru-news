@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-26T06:15:18+00:00",
+  "updated_at": "2026-10-26T13:11:20+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
+      "date": "2026-10-26 12:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-02/kokusai-02.html",
+      "date": "2026-10-26 12:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（国内金融に関する制度の企画及び立案等の業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kikaku-03/kikaku-03.html",
+      "date": "2026-10-26 12:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月26日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261026.pdf",
+      "date": "2026-10-26 08:40"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "iPhone Duoが世界中のApple Storeに登場",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "date": "2026-10-26"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -250,32 +285,10 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "金融庁広報誌アクセスＦＳＡ第278号（2026年10月号）を発行しました。",
-      "link": "https://www.fsa.go.jp/access/index.html",
-      "date": "2026-10-21 10:00",
-      "ai_explanation": "【何があった？】\n日本のお金のルールや銀行などを見守る国の役所「金融庁（きんゆうちょう）」が、自分たちの活動などを分かりやすくまとめた公式のお知らせ雑誌（広報誌）の最新号を出しました。\n\n【たとえると？】\nドラゴンクエストでたとえると、国を治める王様のお城が、町の人たちに向けて「今、お城ではどんな仕事をしているのか」をまとめた月刊の「お城だより」の最新版を町の掲示板に張り出したような状況です。\n\n【つまり？】\n国の役所である金融庁が、世の中の人に向けて自分たちの活動などを知らせる定期的な情報誌を作って公開した、ということです。\n\n【ワイに関係ある？】\nほぼない\n理由：役所が毎月出している情報誌が新しく発行されたというお知らせであり、これによって私たちの生活が今すぐ変わるわけではないためです。"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月21日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261021.pdf",
       "date": "2026-10-21 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第１回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261020.html",
-      "date": "2026-10-20 18:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/bis/20261020/20261020.html",
-      "date": "2026-10-20 17:00"
     },
     {
       "category": "国内",
@@ -575,13 +588,6 @@
       "date": "2026-10-13 08:40"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "フェイルの発生状況（9月）",
-      "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2609.pdf",
-      "date": "2026-10-13 07:30"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "データサイエンス・オンライン講座「社会人のためのデータサイエンス演習」の開講",
@@ -763,13 +769,6 @@
       "title": "Apple、iPhone 18 ProとiPhone 18 Pro Maxを発表",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
       "date": "2026-09-10"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、iPhone Duoを発表",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
-      "date": "2026-09-09"
     }
   ],
   "errors": []
