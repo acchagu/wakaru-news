@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-26T19:20:16+00:00",
+  "updated_at": "2026-10-26T23:53:56+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "企業向けサービス価格指数（9月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
+      "date": "2026-10-26 23:50"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -14,27 +21,6 @@
       "title": "Expert Mechanism on the Right to Development Opens Fourteenth Session, Begins General Debate",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-opens-fourteenth-session",
       "date": "2026-10-26 14:20"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
-      "date": "2026-10-26 12:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-02/kokusai-02.html",
-      "date": "2026-10-26 12:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（国内金融に関する制度の企画及び立案等の業務に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/kikaku-03/kikaku-03.html",
-      "date": "2026-10-26 12:00"
     },
     {
       "category": "お金",
@@ -313,10 +299,31 @@
     },
     {
       "category": "お金",
+      "source": "金融庁",
+      "title": "金融庁広報誌アクセスＦＳＡ第278号（2026年10月号）を発行しました。",
+      "link": "https://www.fsa.go.jp/access/index.html",
+      "date": "2026-10-21 10:00"
+    },
+    {
+      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月21日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261021.pdf",
       "date": "2026-10-21 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第１回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261020.html",
+      "date": "2026-10-20 18:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261020/20261020.html",
+      "date": "2026-10-20 17:00"
     },
     {
       "category": "国内",
@@ -516,13 +523,6 @@
       "date": "2026-10-15 08:40"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融安定理事会による市中協議文書「規制・監督の現代化に係る原則」の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261015b.htm",
-      "date": "2026-10-15 08:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "Nintendo Switch 2『ゼルダの伝説 時のオカリナ』の紹介映像を公開。新要素「万魔殿」などもご紹介。",
@@ -591,13 +591,6 @@
       "title": "マネーストック（9月）",
       "link": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
       "date": "2026-10-13 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月13日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261013.pdf",
-      "date": "2026-10-13 08:40"
     },
     {
       "category": "国内",
