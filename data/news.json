@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-26T23:53:56+00:00",
+  "updated_at": "2026-10-27T05:06:05+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "多重債務問題対策推進懇談会の議事次第等について公表しました。",
+      "link": "https://www.fsa.go.jp/policy/kashikin/tajusaimukondankai/20261028/20261028.html",
+      "date": "2026-10-27 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "消費者物価のコア指標",
+      "link": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "date": "2026-10-27 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "情報セキュリティ・セミナー「AIエージェント時代に求められるセキュリティ戦略と課題」開催のお知らせ",
+      "link": "http://www.boj.or.jp/about/release_2026/rel261027a.htm",
+      "date": "2026-10-27 04:00"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "住民基本台帳人口移動報告 2026年（令和8年）9月分",
+      "link": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
+      "date": "2026-10-27"
+    },
     {
       "category": "お金",
       "source": "日本銀行",
@@ -21,6 +49,27 @@
       "title": "Expert Mechanism on the Right to Development Opens Fourteenth Session, Begins General Debate",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-opens-fourteenth-session",
       "date": "2026-10-26 14:20"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
+      "date": "2026-10-26 12:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-02/kokusai-02.html",
+      "date": "2026-10-26 12:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（国内金融に関する制度の企画及び立案等の業務に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kikaku-03/kikaku-03.html",
+      "date": "2026-10-26 12:00"
     },
     {
       "category": "お金",
@@ -208,13 +257,6 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（資産運用会社等の監督等に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/shiho-03/shiho-03.html",
-      "date": "2026-10-22 10:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月22日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261022.pdf",
@@ -299,45 +341,10 @@
     },
     {
       "category": "お金",
-      "source": "金融庁",
-      "title": "金融庁広報誌アクセスＦＳＡ第278号（2026年10月号）を発行しました。",
-      "link": "https://www.fsa.go.jp/access/index.html",
-      "date": "2026-10-21 10:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月21日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261021.pdf",
       "date": "2026-10-21 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第１回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261020.html",
-      "date": "2026-10-20 18:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/bis/20261020/20261020.html",
-      "date": "2026-10-20 17:00"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
-      "link": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
-      "date": "2026-10-20 10:51"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
-      "link": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
-      "date": "2026-10-20 08:59"
     },
     {
       "category": "お金",
@@ -467,25 +474,11 @@
       "ai_explanation": "【何があった？】\nさまざまな銀行が、日本銀行（国の中心となる銀行）に預けているお金の「9月時点の残高」が、銀行の種類別に発表されました。\nどのグループの銀行が、どれくらいのお金を日銀に置いているのかが分かります。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n町にある巨大な「ゴールド銀行（お金の預かり所）」に、戦士ギルドや魔法使いギルドといった職業グループごとに、いまどれだけのゴールドを預けているかの最新リストが貼り出されたような状況です。\n\n【つまり？】\n大手銀行や地方銀行などのグループごとに、日本銀行という「銀行のための銀行」の金庫にいくらお金を預けているかが公開された、ということです。\n\n【ワイに関係ある？】\n「ほぼない」\n銀行同士や日本銀行の間にあるお金の記録が発表されただけなので、これによって私たちの普段の買い物や給料が明日すぐ変わるわけではありません。"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【挨拶】植田総裁（内田副総裁代読）（全国信用組合大会）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261016a.htm",
-      "date": "2026-10-16 06:30"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "理工系・デザイン系・サウンド系の各採用イベントへのお申し込み受付を開始しました。",
       "link": "https://www.nintendo.co.jp/jobs/recruit/event/index.html",
       "date": "2026-10-16 05:56"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【記者会見】小枝審議委員（熊本、10月15日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261016a.pdf",
-      "date": "2026-10-16 04:30"
     },
     {
       "category": "ゲーム・IT",
@@ -675,13 +668,6 @@
       "title": "小売物価統計調査 主要品目の東京都区部小売価格及び全国統一価格品目の価格（2026年9月分）",
       "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
       "date": "2026-10-02"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "令和7年国勢調査 人口等基本集計結果",
-      "link": "https://www.stat.go.jp/data/kokusei/2025/kekka.html",
-      "date": "2026-09-29"
     },
     {
       "category": "ゲーム・IT",
