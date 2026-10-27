@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-10-27T10:35:05+00:00",
+  "updated_at": "2026-10-27T16:40:17+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Expert Mechanism on the Right to Development Holds Two Panel Discussions on the Role of Business in Realising the Right to Development, and on Access to Food and the Right to Development",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-holds-two-panel-discussions",
+      "date": "2026-10-27 15:19"
+    },
     {
       "category": "お金",
       "source": "金融庁",
       "title": "信用格付業者の登録について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20261027/20261027.html",
       "date": "2026-10-27 15:00"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Bangladesh Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/10/new-permanent-representative-bangladesh-presents",
+      "date": "2026-10-27 14:41"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "In Dialogue with Jamaica, Experts of the Human Rights Committee Commend Measures to Combat Corruption, Raise Issues Concerning Fatal Police Shootings and Legislation on Homosexual Relations",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/dialogue-jamaica-experts-human-rights-committee-commend-measures",
+      "date": "2026-10-27 14:24"
     },
     {
       "category": "お金",
@@ -55,6 +76,27 @@
       "source": "総務省統計局",
       "title": "住民基本台帳人口移動報告 2026年（令和8年）9月分",
       "link": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、M6を搭載した新しい14インチMacBook Proを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "date": "2026-10-27"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、M6を搭載した新しいiMacを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "date": "2026-10-27"
     },
     {
@@ -445,20 +487,6 @@
       "date": "2026-10-19"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Elimination of Discrimination against Women Commend Cabo Verde on Parity Law, Raise Questions on Tackling Gender Stereotypes and the Situation of Women in the Informal Sector",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/examen-de-cabo-verde-au-cedaw-les-expertes-saluent-de-nombreux",
-      "date": "2026-10-16 18:13"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "New Permanent Representative of Kyrgyzstan Presents Credentials to the Director-General of the United Nations Office at Geneva",
-      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/10/new-permanent-representative-kyrgyzstan-presents",
-      "date": "2026-10-16 11:57"
-    },
-    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（10月16日）",
@@ -507,13 +535,6 @@
       "title": "長・短期プライムレート（主要行）の推移",
       "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
       "date": "2026-10-16 00:00"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Committee on the Elimination of Discrimination against Women Applaud Angola’s Efforts to Extend Economic, Social and Recreational Opportunities to Women, Raise Questions on the Criminalisation of Abortion and Child Marriage",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/examen-de-langola-au-cedaw-la-creation-dun-observatoire-du-genre",
-      "date": "2026-10-15 18:22"
     },
     {
       "category": "お金",
@@ -725,27 +746,6 @@
       "title": "「ウィドウズ・ベイ」が初年度のコメディシリーズとして、エミー賞史上最多の受賞という快挙を達成",
       "link": "https://www.apple.com/jp/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
       "date": "2026-09-17"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "次世代のApple Intelligenceを提供開始",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/the-next-generation-of-apple-intelligence-is-available-today/",
-      "date": "2026-09-15"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Appleのソフトウェアプラットフォームのメジャーアップデートが利用可能に",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "date": "2026-09-15"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、子どもの安全の新しい機能が利用可能に",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/apples-new-child-safety-features-now-available/",
-      "date": "2026-09-14"
     }
   ],
   "errors": []
