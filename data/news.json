@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:03:38+00:00",
+  "updated_at": "2026-10-28T21:05:24+00:00",
   "items": [
     {
       "category": "お金",
@@ -7,6 +7,13 @@
       "title": "企業会計審議会第３回サステナビリティ情報保証部会の議事次第について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20261029.html",
       "date": "2026-10-28 17:00"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Expert Mechanism on the Right to Development Holds Panel Discussion on Indigenous Peoples and the Right to Development",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-holds-panel-discussion",
+      "date": "2026-10-28 13:34"
     },
     {
       "category": "お金",
@@ -39,7 +46,7 @@
     {
       "category": "海外",
       "source": "国連ジュネーブ",
-      "title": "%AutoEntityLabel: 605e2419-8764-422a-9eb1-6dae1359fe52%",
+      "title": "Expert Mechanism on the Right to Development Discusses Draft Thematic Study on Illicit Financial Flows and the Right to Development",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-discusses-draft-thematic-0",
       "date": "2026-10-28 09:49"
     },
@@ -76,6 +83,13 @@
       "source": "総務省統計局",
       "title": "「2025年経済構造実態調査」三次集計結果 産業横断調査（事業所に関する集計）",
       "link": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+      "date": "2026-10-28"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "Apple、PROLED XDRディスプレイを搭載した画期的なMacBook Proを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
       "date": "2026-10-28"
     },
     {
@@ -186,7 +200,7 @@
     {
       "category": "海外",
       "source": "国連ジュネーブ",
-      "title": "%AutoEntityLabel: 13d47728-61c8-4444-ba44-46f04cedfebe%",
+      "title": "Expert Mechanism on the Right to Development Discusses Draft Thematic Study on Peace and Security and the Right to Development",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-discusses-draft-thematic",
       "date": "2026-10-26 18:24"
     },
@@ -427,13 +441,6 @@
       "title": "「FSBレポ統計の日本分集計結果」の訂正について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261022a.htm",
       "date": "2026-10-21 23:50"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Human Rights Committee Praise Austria’s Efforts to Identify Victims of Trafficking, Raise Questions on Dealing with Extreme Heat and the High Proportion of Women in Part-Time Work",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/experts-human-rights-committee-praise-austrias-efforts-identify",
-      "date": "2026-10-21 15:10"
     },
     {
       "category": "お金",
@@ -750,13 +757,6 @@
       "title": "iPhone 18 Proで撮影された「What Holds Us」を祝う",
       "link": "https://www.apple.com/jp/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
       "date": "2026-09-18"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "「ウィドウズ・ベイ」が初年度のコメディシリーズとして、エミー賞史上最多の受賞という快挙を達成",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/",
-      "date": "2026-09-17"
     }
   ],
   "errors": []
