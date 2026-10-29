@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-28T21:05:24+00:00",
+  "updated_at": "2026-10-29T00:58:07+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "%AutoEntityLabel: 3db1f38d-e3b4-4bae-bdc6-5dbc6b7b3a9b%",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-concludes-fourteenth-session",
+      "date": "2026-10-28 18:12"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -364,13 +371,6 @@
       "title": "デベロッパがiPhone Duoに驚異的な新しいアプリ体験をもたらします",
       "link": "https://www.apple.com/jp/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
       "date": "2026-10-23"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Experts of the Human Rights Committee Welcome Rwanda’s Decriminalisation of Defamation, Raise Questions on Discrimination Based on Sexual Orientation and the Closure of Thousands of Places of Worship",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/experts-human-rights-committee-welcome-rwandas-decriminalisation",
-      "date": "2026-10-22 14:50"
     },
     {
       "category": "お金",
