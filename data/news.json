@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-29T07:06:43+00:00",
+  "updated_at": "2026-10-29T14:20:36+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事録について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijiroku/20261001.html",
+      "date": "2026-10-29 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「保険制度ワーキング・グループ」（第２回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030.html",
+      "date": "2026-10-29 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月29日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261029.pdf",
+      "date": "2026-10-29 08:40"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -287,20 +308,6 @@
       "title": "Expert Mechanism on the Right to Development Opens Fourteenth Session, Begins General Debate",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-opens-fourteenth-session",
       "date": "2026-10-26 14:20"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
-      "date": "2026-10-26 12:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（国際関連業務に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/kokusai-02/kokusai-02.html",
-      "date": "2026-10-26 12:00"
     },
     {
       "category": "お金",
@@ -637,13 +644,6 @@
       "title": "外国為替市況（10月14日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261014.pdf",
       "date": "2026-10-14 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-      "date": "2026-10-14 08:00"
     },
     {
       "category": "国内",
