@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-30T07:07:39+00:00",
+  "updated_at": "2026-10-30T14:09:44+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,国際会計基準（IFRS）財団モニタリング・ボードのプレスリリースについて公表しました。",
+      "link": "https://www.fsa.go.jp/inter/etc/20261030/20261030.html",
+      "date": "2026-10-30 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/etc/20261030-3/20261030-3.html",
+      "date": "2026-10-30 17:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -16,6 +30,34 @@
       "date": "2026-10-30 15:00"
     },
     {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（10月30日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261030.pdf",
+      "date": "2026-10-30 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
+      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "date": "2026-10-30 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
+      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "date": "2026-10-30 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "総裁記者会見（10月30日）動画の配信開始",
+      "link": "http://www.boj.or.jp/about/release/sousaidouga.htm",
+      "date": "2026-10-30 07:50"
+    },
+    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「制作企画系 オンラインセミナー」のお申し込み受付を開始しました。",
@@ -28,13 +70,6 @@
       "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
       "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
       "date": "2026-10-30 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "総裁記者会見ライブ配信（10月30日15時30分予定）",
-      "link": "http://www.boj.or.jp/about/release/sousailive.htm",
-      "date": "2026-10-30 04:30"
     },
     {
       "category": "お金",
@@ -289,13 +324,6 @@
       "date": "2026-10-28 11:00"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（資金移動業者や暗号資産交換業者等の法令等遵守態勢、関連法令の解釈等）に従事する職員)",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/shiho-01/shiho-01.html",
-      "date": "2026-10-28 10:10"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Expert Mechanism on the Right to Development Discusses Draft Thematic Study on Illicit Financial Flows and the Right to Development",
@@ -352,13 +380,6 @@
       "date": "2026-10-27 15:19"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "信用格付業者の登録について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/shouken/20261027/20261027.html",
-      "date": "2026-10-27 15:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "New Permanent Representative of Bangladesh Presents Credentials to the Director-General of the United Nations Office at Geneva",
@@ -371,13 +392,6 @@
       "title": "In Dialogue with Jamaica, Experts of the Human Rights Committee Commend Measures to Combat Corruption, Raise Issues Concerning Fatal Police Shootings and Legislation on Homosexual Relations",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/dialogue-jamaica-experts-human-rights-committee-commend-measures",
       "date": "2026-10-27 14:24"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "その他,「第２回 気候変動関連データの活用と適応に関する実践パネル」の発表資料及び議事要旨について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
-      "date": "2026-10-27 14:00"
     },
     {
       "category": "お金",
@@ -604,13 +618,6 @@
       "date": "2026-10-22 08:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "実質輸出入の動向",
-      "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
-      "date": "2026-10-22 07:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "子供から大人まで、世代を超えて、体感スポーツ。Nintendo Switch 2 ソフト『Nintendo Switch Sports Resort』は本日発売。",
@@ -619,7 +626,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "営業毎旬報告（10月20日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
       "date": "2026-10-22 01:00"
@@ -693,13 +700,6 @@
       "title": "外国為替市況（10月16日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
       "date": "2026-10-16 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "業態別の日銀当座預金残高（9月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
-      "date": "2026-10-16 08:00"
     },
     {
       "category": "ゲーム・IT",
