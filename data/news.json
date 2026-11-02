@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-11-01T23:37:20+00:00",
+  "updated_at": "2026-11-02T06:04:46+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【記者会見】植田総裁（10月30日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+      "date": "2026-11-02 05:10"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "経済・物価情勢の展望（10月、全文）",
+      "link": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "date": "2026-11-02 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日銀当座預金増減要因と金融調節（10月実績）",
+      "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+      "date": "2026-11-02 04:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』の体験版が配信開始。「Pikmin Day Direct」で公開した情報もご紹介。",
+      "link": "https://www.nintendo.com/jp/topics/article/8a0fad53-c589-4304-98b2-f86bd3d5764f",
+      "date": "2026-11-02 02:42"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -240,13 +268,6 @@
       "date": "2026-10-29 06:08"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました",
-      "link": "https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4",
-      "date": "2026-10-29 06:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "『あつまれ どうぶつの森』で「ゼルダの伝説」のマイデザインを配布中。",
@@ -331,20 +352,6 @@
       "date": "2026-10-28 11:00"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ｂ区分】）について公表しました。",
-      "link": "https://www.fsa.go.jp/common/recruit/index-general-b.html",
-      "date": "2026-10-28 11:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,バーゼル銀行監督委員会による「AML/CFTに関する監督ニューズレター」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/bis/20261028/20261028.html",
-      "date": "2026-10-28 11:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Expert Mechanism on the Right to Development Discusses Draft Thematic Study on Illicit Financial Flows and the Right to Development",
@@ -357,13 +364,6 @@
       "title": "外国為替市況（10月28日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261028.pdf",
       "date": "2026-10-28 08:40"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
-      "link": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
-      "date": "2026-10-28 06:04"
     },
     {
       "category": "お金",
@@ -548,13 +548,6 @@
       "date": "2026-10-23 07:30"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融システムレポート（2026年10月号）",
-      "link": "http://www.boj.or.jp/research/brp/fsr/fsr261023.htm",
-      "date": "2026-10-23 06:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「デザイン系 社員懇談会&ポートフォリオ相談会 ハードウェア制作（プロダクトデザイン）」のお申し込み受付を開始しました。",
@@ -574,13 +567,6 @@
       "title": "『オバケイドロ２』が10月26日から期間限定で遊び放題。Nintendo Switch Online加入者限定イベント「いっせいトライアル」開催。",
       "link": "https://www.nintendo.com/jp/topics/article/cf86eecc-833d-4291-a473-a1b60ff9f9e5",
       "date": "2026-10-23 01:06"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "限界なき戦場。『Call of Duty®: Modern Warfare® 4』がNintendo Switch 2 で本日発売。 ※本作の対象年齢は「18歳以上」です。",
-      "link": "https://www.nintendo.com/jp/topics/article/66e77dbe-a23e-4e33-8ddb-fe0bf34098d5",
-      "date": "2026-10-23 01:04"
     },
     {
       "category": "国内",
@@ -626,7 +612,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
       "date": "2026-10-22 08:00"
@@ -700,13 +686,6 @@
       "title": "「Data StaRt Award ～第11回地方公共団体における統計データ利活用表彰～」の受賞団体及び「統計データ分析コンペティション 2026」の受賞者の決定",
       "link": "https://www.stat.go.jp/info/guide/public/houdou/pdf/ho261019.pdf",
       "date": "2026-10-19"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月16日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261016.pdf",
-      "date": "2026-10-16 08:40"
     },
     {
       "category": "ゲーム・IT",
