@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-03T20:59:40+00:00",
+  "updated_at": "2026-11-04T01:21:44+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
+      "date": "2026-11-04 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "営業毎旬報告（10月31日現在）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+      "date": "2026-11-04 01:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "マネタリーベース（10月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "date": "2026-11-03 23:50"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -422,13 +443,6 @@
       "date": "2026-10-28 18:12"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "企業会計審議会第３回サステナビリティ情報保証部会の議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20261029.html",
-      "date": "2026-10-28 17:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Expert Mechanism on the Right to Development Holds Panel Discussion on Indigenous Peoples and the Right to Development",
@@ -506,13 +520,6 @@
       "date": "2026-10-27 05:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "情報セキュリティ・セミナー「AIエージェント時代に求められるセキュリティ戦略と課題」開催のお知らせ",
-      "link": "http://www.boj.or.jp/about/release_2026/rel261027a.htm",
-      "date": "2026-10-27 04:00"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "住民基本台帳人口移動報告 2026年（令和8年）9月分",
@@ -542,7 +549,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "企業向けサービス価格指数（9月）",
       "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
       "date": "2026-10-26 23:50"
@@ -658,20 +665,6 @@
       "title": "FSBレポ統計の日本分集計結果",
       "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
       "date": "2026-10-21 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月21日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261021.pdf",
-      "date": "2026-10-21 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月20日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261020.pdf",
-      "date": "2026-10-20 08:40"
     },
     {
       "category": "国内",
