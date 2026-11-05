@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-05T03:30:28+00:00",
+  "updated_at": "2026-11-05T12:22:07+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月5日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261105.pdf",
+      "date": "2026-11-05 08:40"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
+      "link": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
+      "date": "2026-11-05 06:00"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -339,13 +353,6 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
-      "date": "2026-10-30 03:02"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "決済動向（9月）",
       "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
@@ -455,27 +462,6 @@
       "title": "『あつまれ どうぶつの森』で「ゼルダの伝説」のマイデザインを配布中。",
       "link": "https://www.nintendo.com/jp/topics/article/72628ca2-91a6-42e6-8041-82df388b3f0c",
       "date": "2026-10-29 02:14"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「ゼルダの伝説 40周年 アニバーサリーエディション」のNintendo Switch 2 や周辺機器は本日発売。「ゼルダの伝説」に関するさまざまな取り組みもご紹介。",
-      "link": "https://www.nintendo.com/jp/topics/article/f4df5c50-0d01-4cc9-bcfc-489eb36274bf",
-      "date": "2026-10-29 01:08"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "み～んなあつまれ、サンリオキャラクターの世界へ。『サンリオ パーティランド』がNintendo Switch 2 / Nintendo Switchで本日発売。",
-      "link": "https://www.nintendo.com/jp/topics/article/535d4142-2649-4eeb-b0c2-00c801c95fd4",
-      "date": "2026-10-29 01:06"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Indie World 2026.10.28」を公開しました。 ※本記事には、対象年齢「16歳以上」のタイトルも含まれます。",
-      "link": "https://www.nintendo.com/jp/topics/article/d3010ec2-7658-4ad8-b25d-5bf54abf6849",
-      "date": "2026-10-29 01:05"
     },
     {
       "category": "海外",
@@ -644,13 +630,6 @@
       "title": "外国為替市況（10月22日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261022.pdf",
       "date": "2026-10-22 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261020.xlsx",
-      "date": "2026-10-22 08:00"
     },
     {
       "category": "国内",
