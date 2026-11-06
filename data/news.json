@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-06T17:30:30+00:00",
+  "updated_at": "2026-11-06T23:09:22+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Human Rights Committee and Committee on Economic, Social and Cultural Rights Celebrate Sixtieth Anniversaries of their Covenants",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-et-le",
+      "date": "2026-11-06 19:02"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -477,13 +484,6 @@
       "title": "外国為替市況（10月29日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261029.pdf",
       "date": "2026-10-29 08:40"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Expert Mechanism on the Right to Development Concludes Fourteenth Session",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-concludes-fourteenth-session",
-      "date": "2026-10-28 18:12"
     },
     {
       "category": "お金",
