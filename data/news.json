@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-06T01:33:50+00:00",
+  "updated_at": "2026-11-06T09:25:12+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "現下の情勢を踏まえた金融機関利用者へのお願いについて公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261106/20261106.html",
+      "date": "2026-11-06 18:15"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261109.html",
+      "date": "2026-11-06 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html",
+      "date": "2026-11-06 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月6日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261106.pdf",
+      "date": "2026-11-06 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "（金研ニュースレター）2026年カナダ銀行・フィラデルフィア連銀・日本銀行共催ワークショップ",
+      "link": "http://www.boj.or.jp/about/release_2026/rel261106b.htm",
+      "date": "2026-11-06 07:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「デザイン系 オンラインセミナー アートワーク制作」「デザイン系 オンラインセミナー ソフトウェア制作」のお申し込み受付を開始しました。",
+      "link": "https://www.nintendo.co.jp/jobs/recruit/event/index.html",
+      "date": "2026-11-06 05:17"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行金融研究所 ファイナンス・ワークショップの開催",
+      "link": "http://www.boj.or.jp/about/release_2026/rel261106a.htm",
+      "date": "2026-11-06 04:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
+      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
+      "date": "2026-11-06 02:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融研究所ディスカッション・ペーパー・シリーズ（2026年収録分）",
+      "link": "http://www.boj.or.jp/research/imes/dps/dps26.htm",
+      "date": "2026-11-06 02:00"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -171,13 +234,6 @@
       "date": "2026-11-04 08:00"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について",
-      "link": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
-      "date": "2026-11-04 06:00"
-    },
-    {
       "category": "お金",
       "source": "日本銀行",
       "title": "訓練目的の共通担保資金供給オペの実施について",
@@ -318,48 +374,6 @@
       "date": "2026-11-01 14:00"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! Pikmin #01 カエル」を公開しました。",
-      "link": "https://www.nintendo.com/jp/character/pikmin/hello-pikmin/index.html",
-      "date": "2026-10-31 15:05"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Pikmin Day Direct」を公開しました。",
-      "link": "https://www.nintendo.com/jp/nintendo-direct/20261031/index.html",
-      "date": "2026-10-31 14:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,国際会計基準（IFRS）財団モニタリング・ボードのプレスリリースについて公表しました。",
-      "link": "https://www.fsa.go.jp/inter/etc/20261030/20261030.html",
-      "date": "2026-10-30 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/etc/20261030-3/20261030-3.html",
-      "date": "2026-10-30 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,金融庁及びClimate Data Steering CommitteeによるClimate Data Utilityに関するデータ連携の開始について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/etc/20261030.html",
-      "date": "2026-10-30 16:30"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "その他,「諸外国における金融制度の概要に関する調査」報告書について公表しました。",
-      "link": "https://www.fsa.go.jp/common/about/research/20261030/20261030.html",
-      "date": "2026-10-30 16:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on the Elimination of Discrimination against Women Closes Ninety-Third Session in Geneva",
@@ -386,41 +400,6 @@
       "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
       "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
       "date": "2026-10-30 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "総裁記者会見（10月30日）動画の配信開始",
-      "link": "http://www.boj.or.jp/about/release/sousaidouga.htm",
-      "date": "2026-10-30 07:50"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「制作企画系 オンラインセミナー」のお申し込み受付を開始しました。",
-      "link": "https://www.nintendo.co.jp/jobs/recruit/event/planning_online.html",
-      "date": "2026-10-30 05:03"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
-      "date": "2026-10-30 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "当面の金融政策運営について",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
-      "date": "2026-10-30 04:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "経済・物価情勢の展望（10月、基本的見解）",
-      "link": "http://www.boj.or.jp/mopo/outlook/gor2610a.pdf",
-      "date": "2026-10-30 04:00"
     },
     {
       "category": "お金",
@@ -568,13 +547,6 @@
       "title": "Apple、M6を搭載した新しいiMacを発表",
       "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "date": "2026-10-27"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "企業向けサービス価格指数（9月）",
-      "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2609.pdf",
-      "date": "2026-10-26 23:50"
     },
     {
       "category": "ゲーム・IT",
