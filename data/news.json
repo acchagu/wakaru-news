@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T09:25:12+00:00",
+  "updated_at": "2026-11-06T17:30:30+00:00",
   "items": [
     {
       "category": "お金",
@@ -17,10 +17,24 @@
     },
     {
       "category": "お金",
+      "source": "日本銀行",
+      "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261107a.htm",
+      "date": "2026-11-06 16:00"
+    },
+    {
+      "category": "お金",
       "source": "金融庁",
       "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html",
       "date": "2026-11-06 15:00"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee on Economic, Social and Cultural Rights Welcome Austria’s Expansion of Housing First Services, Raise Questions on Access to the Labour Market for Asylum Seekers and the Education of Minority Children",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-lautriche-au-comite-des-droits-economiques-sociaux-et",
+      "date": "2026-11-06 14:29"
     },
     {
       "category": "お金",
@@ -367,13 +381,6 @@
       "date": "2026-11-02 02:42"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! Pikmin #02 あこがれ」を公開しました。",
-      "link": "https://www.nintendo.com/jp/character/pikmin/hello-pikmin/index.html",
-      "date": "2026-11-01 14:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on the Elimination of Discrimination against Women Closes Ninety-Third Session in Geneva",
@@ -392,13 +399,6 @@
       "source": "日本銀行",
       "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
       "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
-      "date": "2026-10-30 08:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
       "date": "2026-10-30 08:00"
     },
     {
@@ -484,13 +484,6 @@
       "title": "Expert Mechanism on the Right to Development Concludes Fourteenth Session",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-concludes-fourteenth-session",
       "date": "2026-10-28 18:12"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Expert Mechanism on the Right to Development Holds Panel Discussion on Indigenous Peoples and the Right to Development",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/expert-mechanism-right-development-holds-panel-discussion",
-      "date": "2026-10-28 13:34"
     },
     {
       "category": "お金",
