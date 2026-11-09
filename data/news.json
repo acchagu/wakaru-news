@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-08T23:43:34+00:00",
+  "updated_at": "2026-11-09T06:30:34+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "コール市場残高（10月）",
+      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "date": "2026-11-09 06:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "消費活動指数",
+      "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
+      "date": "2026-11-09 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
+      "date": "2026-11-09 05:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "マネタリーベースと日本銀行の取引（10月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
+      "date": "2026-11-08 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行の対政府取引（10月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+      "date": "2026-11-08 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "オペレーション（10月）",
+      "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+      "date": "2026-11-08 23:50"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -109,13 +151,6 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "学生向けコンテスト「第22回 日銀グランプリ」決勝大会の実施について",
-      "link": "http://www.boj.or.jp/about/nichigin_gp/ngp_release/ngp261106.htm",
-      "date": "2026-11-06 01:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "資金循環統計のFAQ",
       "link": "http://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
@@ -169,13 +204,6 @@
       "title": "外国為替市況（11月5日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261105.pdf",
       "date": "2026-11-05 08:40"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "大臣・副大臣・大臣政務官の交代式を行いました",
-      "link": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
-      "date": "2026-11-05 06:00"
     },
     {
       "category": "ゲーム・IT",
@@ -361,21 +389,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "【記者会見】植田総裁（10月30日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
-      "date": "2026-11-02 05:10"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "経済・物価情勢の展望（10月、全文）",
-      "link": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
-      "date": "2026-11-02 05:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日銀当座預金増減要因と金融調節（10月実績）",
       "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
       "date": "2026-11-02 04:00"
@@ -403,31 +417,10 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
-      "date": "2026-10-30 08:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "決済動向（9月）",
       "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
       "date": "2026-10-30 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "資金循環（その他金融法人調査）（2026年第2四半期）",
-      "link": "http://www.boj.or.jp/statistics/sj/sjfs.xlsx",
-      "date": "2026-10-30 01:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "資金循環（債務証券）（2026年第2四半期）",
-      "link": "http://www.boj.or.jp/statistics/sj/sjds.xlsx",
-      "date": "2026-10-30 01:00"
     },
     {
       "category": "国内",
@@ -479,20 +472,6 @@
       "date": "2026-10-29 10:47"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月29日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261029.pdf",
-      "date": "2026-10-29 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月28日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261028.pdf",
-      "date": "2026-10-28 08:40"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "「2025年経済構造実態調査」三次集計結果 産業横断調査（事業所に関する集計）",
@@ -505,13 +484,6 @@
       "title": "Apple、PROLED XDRディスプレイを搭載した画期的なMacBook Proを発表",
       "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
       "date": "2026-10-28"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（10月27日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261027.pdf",
-      "date": "2026-10-27 08:40"
     },
     {
       "category": "国内",
