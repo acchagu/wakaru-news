@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-09T06:30:34+00:00",
+  "updated_at": "2026-11-09T17:30:20+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
+      "date": "2026-11-09 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月9日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261109.pdf",
+      "date": "2026-11-09 08:40"
+    },
     {
       "category": "お金",
       "source": "日本銀行",
@@ -21,6 +35,13 @@
       "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
       "date": "2026-11-09 05:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "オリヴィア・ディーンがApple Musicアーティスト・オブ・ザ・イヤー2026を受賞",
+      "link": "https://www.apple.com/jp/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "date": "2026-11-09"
     },
     {
       "category": "お金",
@@ -49,13 +70,6 @@
       "title": "Human Rights Committee and Committee on Economic, Social and Cultural Rights Celebrate Sixtieth Anniversaries of their Covenants",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-et-le",
       "date": "2026-11-06 19:02"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "現下の情勢を踏まえた金融機関利用者へのお願いについて公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/sonota/20261106/20261106.html",
-      "date": "2026-11-06 18:15"
     },
     {
       "category": "お金",
@@ -416,13 +430,6 @@
       "date": "2026-10-30 08:40"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "決済動向（9月）",
-      "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
-      "date": "2026-10-30 02:00"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "令和6年全国家計構造調査 年間収入・資産分布等に関する結果（ジニ係数、貧困率等を除く）",
@@ -651,13 +658,6 @@
       "source": "Apple Newsroom",
       "title": "Apple、ロンドンに最先端のライブ音楽会場Apple Music Hallをオープン",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "date": "2026-09-24"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "最新のiPhone、Apple Watch、AirPodsのラインナップが世界中の店舗で販売開始",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
       "date": "2026-09-24"
     }
   ],
