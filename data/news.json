@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-10T09:51:47+00:00",
+  "updated_at": "2026-11-10T17:50:59+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Malawi Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-malawi-presents",
+      "date": "2026-11-10 11:59"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Le nouveau Représentant permanent d’El Salvador présente ses lettres de créance",
+      "link": "https://www.ungeneva.org/fr/news-media/presentation-of-credentials/2026/11/le-nouveau-representant-permanent-del-salvador",
+      "date": "2026-11-10 11:42"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -458,13 +472,6 @@
       "date": "2026-11-02 10:56"
     },
     {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on the Elimination of Discrimination against Women Closes Ninety-Third Session in Geneva",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/10/le-comite-pour-lelimination-de-la-discrimination-legard-des-0",
-      "date": "2026-10-30 12:53"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "令和6年全国家計構造調査 年間収入・資産分布等に関する結果（ジニ係数、貧困率等を除く）",
@@ -505,13 +512,6 @@
       "title": "小売物価統計調査 主要品目の東京都区部小売価格及び全国統一価格品目の価格（2026年10月分）",
       "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
       "date": "2026-10-30"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "UN Geneva unveils sustainable new uniforms for tour guides through partnership with Italy",
-      "link": "https://www.ungeneva.org/en/news-media/press-release/2026/10/un-geneva-unveils-sustainable-new-uniforms-tour-guides-through",
-      "date": "2026-10-29 10:47"
     },
     {
       "category": "国内",
