@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:31:47+00:00",
+  "updated_at": "2026-11-10T09:51:47+00:00",
   "items": [
     {
       "category": "お金",
@@ -9,11 +9,53 @@
       "date": "2026-11-10 10:00"
     },
     {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月10日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261110.pdf",
+      "date": "2026-11-10 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「短観（全国企業短期経済観測調査）」調査表および記入要領・記入例",
+      "link": "http://www.boj.or.jp/statistics/outline/exp/tk/extk01.htm",
+      "date": "2026-11-10 05:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。",
+      "link": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
+      "date": "2026-11-10 01:20"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『スーパー マリオパーティ ジャンボリー Nintendo Switch 2 Edition ＋ ジャンボリーTV』が無料アップデート。ソフトが1本あれば、オンラインで、みんなでスゴロクができるように。",
+      "link": "https://www.nintendo.com/jp/topics/article/1f0dba7a-c553-4ae7-bb75-a6586db1d824",
+      "date": "2026-11-10 01:19"
+    },
+    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「Hello! インディー」遊べるテーブルゲームは40種類以上『テーブルゲームワールド CCFOLIA for Nintendo Switch 2』",
       "link": "https://www.nintendo.com/jp/topics/article/e77acfd6-fdd4-4265-9d2f-d682b85430d9",
       "date": "2026-11-10 01:03"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "労働力調査（詳細集計）2026年（令和8年）7～9月期平均",
+      "link": "https://www.stat.go.jp/data/roudou/2.html#latest",
+      "date": "2026-11-10"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "データサイエンス・オンライン講座 「“わかる・使える”統計解析プログラミング」の受講者募集開始 ―令和9年1月12日新規開講―（PDF:725KB）",
+      "link": "https://www.stat.go.jp/info/guide/public/houdou/pdf/ho261110.pdf",
+      "date": "2026-11-10"
     },
     {
       "category": "国内",
@@ -241,13 +283,6 @@
       "date": "2026-11-06 01:00"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "デジタルサービスの利用者体験を示す「国民向け行政サービスロードマップ」の最新版を公表しました（PDF形式）",
-      "link": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/5ecac8cc-50f1-4168-b989-2bcaabffe870/fe8bbfde/20261106_policies_priority_outline_01.pdf",
-      "date": "2026-11-05 23:38"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on Economic, Social and Cultural Rights Commends Mexico for Progress in Reducing Poverty, Asks about Measures to Protect Human Rights Defenders and Reduce the Gender Wage Gap",
@@ -402,32 +437,11 @@
       "date": "2026-11-03"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 ソフト『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』の紹介映像とゲーム画面CMを公開しました。",
-      "link": "https://www.nintendo.com/jp/games/switch2/ampyc/index.html",
-      "date": "2026-11-02 23:03"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 ソフト『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』のCMを公開しました。 小芝風花さんが、ダンドリ力を試す「ダンドリ検定」に挑戦します。",
-      "link": "https://www.nintendo.com/jp/games/switch2/ampyc/special/index.html",
-      "date": "2026-11-02 23:00"
-    },
-    {
       "category": "お金",
       "source": "金融庁",
       "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第２回）議事次第について公表しました。",
       "link": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261102.html",
       "date": "2026-11-02 17:00"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「開発者に訊きました：ゼルダの伝説 時のオカリナ」のChapter1、2を公開しました。 NINTENDO 64版から受け継いできたこと、原作の体験を大切にした開発、今作を象徴するアートのこだわりなど、開発者みずからの言葉でお届けします。 ※Chapter3、4は明日公開予定です。",
-      "link": "https://www.nintendo.com/jp/interview/aa9ja/index.html",
-      "date": "2026-11-02 13:00"
     },
     {
       "category": "海外",
@@ -442,20 +456,6 @@
       "title": "New Permanent Representative of Namibia Presents Credentials to the Director-General of the United Nations Office at Geneva",
       "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-namibia-presents",
       "date": "2026-11-02 10:56"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（11月2日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261102.pdf",
-      "date": "2026-11-02 08:45"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "日銀当座預金増減要因と金融調節（10月実績）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
-      "date": "2026-11-02 04:00"
     },
     {
       "category": "海外",
@@ -581,20 +581,6 @@
       "source": "総務省統計局",
       "title": "家計調査（貯蓄・負債編）2026年（令和8年）4～6月期分",
       "link": "https://www.stat.go.jp/data/sav/1.html",
-      "date": "2026-10-23"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "消費者物価指数（全国－2026年（令和8年）9月分）（2025年基準）",
-      "link": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
-      "date": "2026-10-23"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "小売物価統計調査 主要品目の都市別小売価格（2026年9月分）",
-      "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
       "date": "2026-10-23"
     },
     {
