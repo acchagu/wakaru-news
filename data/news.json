@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:50:59+00:00",
+  "updated_at": "2026-11-10T23:22:49+00:00",
   "items": [
     {
       "category": "海外",
@@ -147,13 +147,6 @@
       "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
       "date": "2026-11-09 05:00"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "オリヴィア・ディーンがApple Musicアーティスト・オブ・ザ・イヤー2026を受賞",
-      "link": "https://www.apple.com/jp/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
-      "date": "2026-11-09"
     },
     {
       "category": "お金",
@@ -651,6 +644,13 @@
       "source": "Apple Newsroom",
       "title": "Apple、ロンドンに最先端のライブ音楽会場Apple Music Hallをオープン",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
+      "date": "2026-09-24"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "最新のiPhone、Apple Watch、AirPodsのラインナップが世界中の店舗で販売開始",
+      "link": "https://www.apple.com/jp/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
       "date": "2026-09-24"
     }
   ],
