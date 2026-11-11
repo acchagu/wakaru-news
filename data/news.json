@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-10T23:22:49+00:00",
+  "updated_at": "2026-11-11T06:22:20+00:00",
   "items": [
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「Hello! インディー」特殊コインを投入し、効率よくコインを集める『RACCOIN: Chaos Max Edition』",
+      "link": "https://www.nintendo.com/jp/topics/article/98f912b6-f33b-4dfa-940c-a6681bb2ea9e",
+      "date": "2026-11-11 01:02"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「Hello! インディー」タヌキがBMXで郵便配達！？『TANUKI: Pon's Summer - タヌキ：ポンの夏』",
+      "link": "https://www.nintendo.com/jp/topics/article/11a5acfe-42af-4294-b421-1504a2a8cf45",
+      "date": "2026-11-11 01:01"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "マネーストック（10月）",
+      "link": "http://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
+      "date": "2026-11-10 23:50"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
@@ -147,6 +168,13 @@
       "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
       "date": "2026-11-09 05:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "オリヴィア・ディーンがApple Musicアーティスト・オブ・ザ・イヤー2026を受賞",
+      "link": "https://www.apple.com/jp/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+      "date": "2026-11-09"
     },
     {
       "category": "お金",
@@ -339,13 +367,6 @@
       "date": "2026-11-05 01:22"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 ソフト『ゼルダの伝説 時のオカリナ』の映像を公開しました。 目黒蓮さんが「ドドンゴの洞窟」に挑みます。",
-      "link": "https://www.nintendo.com/jp/games/switch2/aa9ja/special/index.html",
-      "date": "2026-11-05 01:00"
-    },
-    {
       "category": "お金",
       "source": "日本銀行",
       "title": "日銀当座預金増減要因（11月見込み）",
@@ -409,25 +430,11 @@
       "date": "2026-11-04 01:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "マネタリーベース（10月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
-      "date": "2026-11-03 23:50"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on Economic, Social and Cultural Rights Commends Eswatini’s HIV Response, Raises Questions on the 2021 Civil Unrest and High Rates of Youth Unemployment",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/committee-economic-social-and-cultural-rights-commends-eswatinis",
       "date": "2026-11-03 15:26"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「開発者に訊きました：ゼルダの伝説 時のオカリナ」のChapter3、4を公開しました。 今の時代のゲームとして再構築されたアクションやダンジョン、ハイラルをより豊かにするサウンドのこだわりなど、くわしいお話をお届けします。",
-      "link": "https://www.nintendo.com/jp/interview/aa9ja/03.html",
-      "date": "2026-11-03 13:00"
     },
     {
       "category": "ゲーム・IT",
@@ -644,13 +651,6 @@
       "source": "Apple Newsroom",
       "title": "Apple、ロンドンに最先端のライブ音楽会場Apple Music Hallをオープン",
       "link": "https://www.apple.com/jp/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/",
-      "date": "2026-09-24"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "最新のiPhone、Apple Watch、AirPodsのラインナップが世界中の店舗で販売開始",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
       "date": "2026-09-24"
     }
   ],
