@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-13T16:24:44+00:00",
+  "updated_at": "2026-11-13T22:38:52+00:00",
   "items": [
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee on Economic, Social and Cultural Rights Concludes Eightieth Session after Adopting Concluding Observations on Reports of Austria, Eswatini, Mexico and Pakistan",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-acheve-sa",
+      "date": "2026-11-13 17:48"
+    },
     {
       "category": "お金",
       "source": "日本銀行 統計",
@@ -483,13 +490,6 @@
       "title": "Apple、第4四半期の業績を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/11/apple-reports-fourth-quarter-results/",
       "date": "2026-11-03"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on Economic, Social and Cultural Rights Opens Eightieth Session",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-ouvre-sa",
-      "date": "2026-11-02 11:10"
     },
     {
       "category": "国内",
