@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-11-13T00:25:25+00:00",
+  "updated_at": "2026-11-13T07:59:11+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
+      "date": "2026-11-13 07:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
+      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
+      "date": "2026-11-13 07:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "マイクロソフト社の障害によりメール不着等となる事象について",
+      "link": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "date": "2026-11-13 06:46"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "民間事業者向けマイナンバーカード活用情報のページを刷新しました",
+      "link": "https://www.digital.go.jp/policies/mynumber/private-business",
+      "date": "2026-11-13 06:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「Hello! インディー」ソニックたちと力を合わせてゴールを目指せ『SONIC PICO PARK』",
+      "link": "https://www.nintendo.com/jp/topics/article/5280ccbd-f23c-4820-8cbb-6f1e9bdf5998",
+      "date": "2026-11-13 01:03"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "ニンテンドーeショップ新作ソフト情報 11/13（金）号。",
+      "link": "https://www.nintendo.com/jp/topics/article/f5182976-316a-4bc7-9d99-8278bcc0c497",
+      "date": "2026-11-13 01:02"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261112/20261112.html",
+      "date": "2026-11-12 17:00"
+    },
     {
       "category": "お金",
       "source": "日本銀行 統計",
@@ -338,20 +387,6 @@
       "date": "2026-11-06 19:02"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261109.html",
-      "date": "2026-11-06 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html",
-      "date": "2026-11-06 15:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Experts of the Committee on Economic, Social and Cultural Rights Welcome Austria’s Expansion of Housing First Services, Raise Questions on Access to the Labour Market for Asylum Seekers and the Education of Minority Children",
@@ -392,21 +427,6 @@
       "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
       "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
       "date": "2026-11-06 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融研究所ディスカッション・ペーパー・シリーズ（2026年収録分）",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps26.htm",
-      "date": "2026-11-06 02:00"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "美しくも苛烈な地球奪還の戦いへ。SFアクション・アドベンチャー『Stellar Blade™ コンプリートエディション』がNintendo Switch 2 で本日発売。 ※本作の対象年齢は「17歳以上」です。",
-      "link": "https://www.nintendo.com/jp/topics/article/b1972348-4cb5-4c66-994c-0f78076f1e24",
-      "date": "2026-11-06 01:03",
-      "ai_explanation": "【何があった？】\n奪われた地球を取り戻すために戦う、17歳以上向けのゲーム『Stellar Blade（ステラーブレイド）』の決定版（過去の追加内容なども含んだ完全版）が、ゲーム機「Nintendo Switch 2」で本日発売されました。\n\n【たとえると？】\n「ドラゴンクエスト」でたとえます。\n魔王に奪われてしまった世界を取り戻すため、主人公が過酷な戦いに挑む「少し大人向けのハードな冒険」が、新しいゲーム機で遊べるようになった状態です。\n\n【つまり？】\n地球を取り戻すための本格的な戦いを描いたゲームの完全版が、「Nintendo Switch 2」という機械で本日すぐに遊べるようになった、ということです。\n\n【ワイに関係ある？】\nほぼない\n理由：このゲームやゲーム機自体に関心がある人向けのニュースであり、普段ゲームを遊ばない人の日常生活には直接の影響がないためです。"
     },
     {
       "category": "お金",
