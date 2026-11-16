@@ -1,12 +1,61 @@
 {
-  "updated_at": "2026-11-16T02:09:05+00:00",
+  "updated_at": "2026-11-16T09:45:10+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第２の柱ガイダンス」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261116/20261116.html",
+      "date": "2026-11-16 17:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
       "title": "採用,職員を募集しています。（自動車運転手）",
       "link": "https://www.fsa.go.jp/common/recruit/r8/kanri-01/kanri-01.html",
       "date": "2026-11-16 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月16日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261116.pdf",
+      "date": "2026-11-16 08:45"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第2の柱ガイダンス」の公表について",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
+      "date": "2026-11-16 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "展望レポートのハイライト （2026年10月）",
+      "link": "http://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
+      "date": "2026-11-16 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "業態別の日銀当座預金残高（10月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-11-16 08:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「スプラトゥーン レイダース イカすアートブック」発売決定＆予約開始。Nintendo Storeの数量限定特典もご紹介。",
+      "link": "https://www.nintendo.com/jp/topics/article/c73c1b54-c93c-4895-aaaa-8ced4b6508cb",
+      "date": "2026-11-16 06:03"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
+      "date": "2026-11-16 04:00"
     },
     {
       "category": "お金",
@@ -401,13 +450,6 @@
       "date": "2026-11-08 23:50"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "オペレーション（10月）",
-      "link": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
-      "date": "2026-11-08 23:50"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Human Rights Committee and Committee on Economic, Social and Cultural Rights Celebrate Sixtieth Anniversaries of their Covenants",
@@ -422,39 +464,11 @@
       "date": "2026-11-06 14:29"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（11月6日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261106.pdf",
-      "date": "2026-11-06 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（金研ニュースレター）2026年カナダ銀行・フィラデルフィア連銀・日本銀行共催ワークショップ",
-      "link": "http://www.boj.or.jp/about/release_2026/rel261106b.htm",
-      "date": "2026-11-06 07:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「デザイン系 オンラインセミナー アートワーク制作」「デザイン系 オンラインセミナー ソフトウェア制作」のお申し込み受付を開始しました。",
       "link": "https://www.nintendo.co.jp/jobs/recruit/event/index.html",
       "date": "2026-11-06 05:17"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "日本銀行金融研究所 ファイナンス・ワークショップの開催",
-      "link": "http://www.boj.or.jp/about/release_2026/rel261106a.htm",
-      "date": "2026-11-06 04:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-      "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
-      "date": "2026-11-06 02:00"
     },
     {
       "category": "海外",
