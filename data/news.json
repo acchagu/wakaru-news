@@ -1,12 +1,40 @@
 {
-  "updated_at": "2026-11-15T21:50:18+00:00",
+  "updated_at": "2026-11-16T02:09:05+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（自動車運転手）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/kanri-01/kanri-01.html",
+      "date": "2026-11-16 10:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "長・短期プライムレート（主要行）の推移",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
+      "date": "2026-11-16 00:00"
+    },
     {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Committee on Economic, Social and Cultural Rights Concludes Eightieth Session after Adopting Concluding Observations on Reports of Austria, Eswatini, Mexico and Pakistan",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-acheve-sa",
       "date": "2026-11-13 17:48"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年金融商品取引法等改正に係る政令・内閣府令案等（サステナビリティ情報の開示・保証、スタートアップ企業への資金供給の促進関係）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/shouken/20261113/20261113.html",
+      "date": "2026-11-13 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「株式市場構造の在り方に関する有識者会議」（第１回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/kabushikishijoukouzou/shiryou/20261113.html",
+      "date": "2026-11-13 17:00"
     },
     {
       "category": "お金",
@@ -226,13 +254,6 @@
       "date": "2026-11-10 11:42"
     },
     {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員【弁護士】）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/shiho-05/shiho-05.html",
-      "date": "2026-11-10 10:00"
-    },
-    {
       "category": "海外",
       "source": "国連ジュネーブ",
       "title": "Seventh Review Conference of the High Contracting Parties to the Convention on Certain Conventional Weapons (CCW)",
@@ -329,13 +350,6 @@
       "title": "金融政策決定会合における主な意見（10月29、30日開催分）",
       "link": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
       "date": "2026-11-09 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
-      "date": "2026-11-09 17:00"
     },
     {
       "category": "お金",
@@ -441,13 +455,6 @@
       "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
       "link": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
       "date": "2026-11-06 02:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "資金循環統計のFAQ",
-      "link": "http://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
-      "date": "2026-11-06 01:00"
     },
     {
       "category": "海外",
