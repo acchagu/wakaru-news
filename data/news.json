@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T09:45:10+00:00",
+  "updated_at": "2026-11-16T20:29:43+00:00",
   "items": [
     {
       "category": "お金",
@@ -9,11 +9,25 @@
       "date": "2026-11-16 17:00"
     },
     {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Committee against Torture Opens Eighty-Fifth Session in Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-contre-la-torture-ouvre-les-travaux-de-sa-85e-session",
+      "date": "2026-11-16 11:46"
+    },
+    {
       "category": "お金",
       "source": "金融庁",
       "title": "採用,職員を募集しています。（自動車運転手）",
       "link": "https://www.fsa.go.jp/common/recruit/r8/kanri-01/kanri-01.html",
       "date": "2026-11-16 10:00"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "New Permanent Representative of Israel Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "link": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-israel-presents",
+      "date": "2026-11-16 08:48"
     },
     {
       "category": "お金",
@@ -483,20 +497,6 @@
       "title": "Human Rights Committee Adopts Reports on Follow-Up to Concluding Observations Concerning Bolivia, Iraq, Luxembourg, Togo and Uruguay",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/human-rights-committee-adopts-reports-follow-concluding",
       "date": "2026-11-05 17:20"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "In Dialogue with Pakistan, Experts of the Committee on Economic, Social and Cultural Rights Welcome Law Raising the Age of Marriage to 18, Ask about Bonded Labour and Rebuilding Efforts after the 2022 and 2025 Floods",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/dialogue-pakistan-experts-committee-economic-social-and-cultural",
-      "date": "2026-11-04 14:52"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on Economic, Social and Cultural Rights Commends Eswatini’s HIV Response, Raises Questions on the 2021 Civil Unrest and High Rates of Youth Unemployment",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/committee-economic-social-and-cultural-rights-commends-eswatinis",
-      "date": "2026-11-03 15:26"
     },
     {
       "category": "ゲーム・IT",
