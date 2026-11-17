@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-17T03:54:11+00:00",
+  "updated_at": "2026-11-17T13:27:21+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
+      "date": "2026-11-17 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
+      "date": "2026-11-17 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
+      "date": "2026-11-17 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
+      "date": "2026-11-17 14:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "採用,職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
+      "date": "2026-11-17 14:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月17日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261117.pdf",
+      "date": "2026-11-17 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」の公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
+      "date": "2026-11-17 08:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "マイクロソフト社の障害によりメール不着等となる事象について解消しましたのでお知らせします",
+      "link": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "date": "2026-11-17 06:00"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -143,13 +199,6 @@
       "date": "2026-11-13 06:46"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "民間事業者向けマイナンバーカード活用情報のページを刷新しました",
-      "link": "https://www.digital.go.jp/policies/mynumber/private-business",
-      "date": "2026-11-13 06:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「Hello! インディー」ソニックたちと力を合わせてゴールを目指せ『SONIC PICO PARK』",
@@ -162,13 +211,6 @@
       "title": "ニンテンドーeショップ新作ソフト情報 11/13（金）号。",
       "link": "https://www.nintendo.com/jp/topics/article/f5182976-316a-4bc7-9d99-8278bcc0c497",
       "date": "2026-11-13 01:02"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/bis/20261112/20261112.html",
-      "date": "2026-11-12 17:00"
     },
     {
       "category": "お金",
@@ -267,13 +309,6 @@
       "title": "「預金者別預金」（2026年9月）等の公表について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
       "date": "2026-11-11 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（令和８事務年度第１回）議事要旨について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/digital_2026/gizi/261020.html",
-      "date": "2026-11-11 17:00"
     },
     {
       "category": "ゲーム・IT",
@@ -463,13 +498,6 @@
       "title": "オリヴィア・ディーンがApple Musicアーティスト・オブ・ザ・イヤー2026を受賞",
       "link": "https://www.apple.com/jp/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
       "date": "2026-11-09"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "マネタリーベースと日本銀行の取引（10月）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
-      "date": "2026-11-08 23:50"
     },
     {
       "category": "海外",
