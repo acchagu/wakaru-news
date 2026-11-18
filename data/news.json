@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:58:55+00:00",
+  "updated_at": "2026-11-18T21:57:45+00:00",
   "items": [
     {
       "category": "お金",
@@ -35,6 +35,13 @@
       "title": "市場レベルBCP・3市場合同訓練を実施",
       "link": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
       "date": "2026-11-18 01:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "Apple Newsroom",
+      "title": "2026年のApp Store Awardsのファイナリストを紹介します",
+      "link": "https://www.apple.com/jp/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+      "date": "2026-11-18"
     },
     {
       "category": "お金",
@@ -721,13 +728,6 @@
       "source": "Apple Newsroom",
       "title": "Apple Creator Studioに新たなアップデート",
       "link": "https://www.apple.com/jp/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/",
-      "date": "2026-09-29"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "Apple Newsroom",
-      "title": "Apple、家族が健全なデジタル習慣を身につけるのに役立つ新しいガイドを公開",
-      "link": "https://www.apple.com/jp/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/",
       "date": "2026-09-29"
     }
   ],
