@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-17T22:25:14+00:00",
+  "updated_at": "2026-11-18T04:21:39+00:00",
   "items": [
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『スプラトゥーン3』の更新データVer.12.0.0を本日配信。さまざまなアイテムが手に入るゲームニュースも配信中。",
+      "link": "https://www.nintendo.com/jp/topics/article/405b3f79-3dfb-4336-baae-5256a086eb35",
+      "date": "2026-11-18 03:01"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "市場レベルBCP・3市場合同訓練を実施",
+      "link": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
+      "date": "2026-11-18 01:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -477,13 +491,6 @@
       "title": "コール市場残高（10月）",
       "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
       "date": "2026-11-09 06:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "消費活動指数",
-      "link": "http://www.boj.or.jp/research/research_data/cai/index.htm",
-      "date": "2026-11-09 05:00"
     },
     {
       "category": "お金",
