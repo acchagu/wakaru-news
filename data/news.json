@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-18T04:21:39+00:00",
+  "updated_at": "2026-11-18T13:58:55+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月18日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261118.pdf",
+      "date": "2026-11-18 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "金融安定理事会による本会合議事要旨の公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
+      "date": "2026-11-18 08:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "「サウンド系 ワークショップ」のお申し込み受付を開始しました。",
+      "link": "https://www.nintendo.co.jp/jobs/recruit/event/sound_workshop.html",
+      "date": "2026-11-18 05:12"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -416,13 +437,6 @@
       "date": "2026-11-10 01:19"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! インディー」遊べるテーブルゲームは40種類以上『テーブルゲームワールド CCFOLIA for Nintendo Switch 2』",
-      "link": "https://www.nintendo.com/jp/topics/article/e77acfd6-fdd4-4265-9d2f-d682b85430d9",
-      "date": "2026-11-10 01:03"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "労働力調査（詳細集計）2026年（令和8年）7～9月期平均",
@@ -487,17 +501,10 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "コール市場残高（10月）",
       "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
       "date": "2026-11-09 06:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
-      "date": "2026-11-09 05:00"
     },
     {
       "category": "ゲーム・IT",
