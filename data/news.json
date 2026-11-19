@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-18T21:57:45+00:00",
+  "updated_at": "2026-11-19T03:28:47+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
+      "link": "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
+      "date": "2026-11-19 01:13"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『カラオケJOYSOUND for Nintendo Switch』のNintendo Switch 2 向け無料アップデートを本日より配信。本体の内蔵マイクで、別売のマイクがなくてもカラオケが楽しめる。",
+      "link": "https://www.nintendo.com/jp/topics/article/9e9fce02-b4d6-4f31-a6ad-efced93a24d7",
+      "date": "2026-11-19 01:13"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "Nintendo Storeでホリデーキャンペーンを開催中。ダウンロードソフトを手渡しでプレゼントできる「ダウンロード版ギフトセット」も。",
+      "link": "https://www.nintendo.com/jp/topics/article/4a65892c-ff07-4760-aae5-36c23f24b7dd",
+      "date": "2026-11-19 01:02"
+    },
     {
       "category": "お金",
       "source": "日本銀行 統計",
@@ -430,20 +451,6 @@
       "date": "2026-11-10 05:00"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。",
-      "link": "https://www.nintendo.com/jp/topics/article/31e57164-941c-4103-bd30-f04744073cc3",
-      "date": "2026-11-10 01:20"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "『スーパー マリオパーティ ジャンボリー Nintendo Switch 2 Edition ＋ ジャンボリーTV』が無料アップデート。ソフトが1本あれば、オンラインで、みんなでスゴロクができるように。",
-      "link": "https://www.nintendo.com/jp/topics/article/1f0dba7a-c553-4ae7-bb75-a6586db1d824",
-      "date": "2026-11-10 01:19"
-    },
-    {
       "category": "国内",
       "source": "総務省統計局",
       "title": "労働力調査（詳細集計）2026年（令和8年）7～9月期平均",
@@ -490,13 +497,6 @@
       "source": "日本銀行",
       "title": "貸出・預金動向（10月）",
       "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2610.pdf",
-      "date": "2026-11-09 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融政策決定会合における主な意見（10月29、30日開催分）",
-      "link": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
       "date": "2026-11-09 23:50"
     },
     {
