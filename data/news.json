@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T11:50:16+00:00",
+  "updated_at": "2026-11-20T20:21:31+00:00",
   "items": [
     {
       "category": "お金",
@@ -26,21 +26,21 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
-      "link": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
+      "link": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
       "date": "2026-11-20 07:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "情報セキュリティ・セミナー「モノをどう見分け、どう認証するか」開催のお知らせ",
-      "link": "http://www.boj.or.jp/about/release_2026/rel261120a.htm",
+      "link": "https://www.boj.or.jp/about/release_2026/rel261120a.htm",
       "date": "2026-11-20 04:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
-      "link": "http://www.boj.or.jp/research/imes/mes/mes_261120.htm",
+      "link": "https://www.boj.or.jp/research/imes/mes/mes_261120.htm",
       "date": "2026-11-20 02:00"
     },
     {
@@ -54,14 +54,14 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "報告省令レート（12月分）",
-      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2612.htm",
+      "link": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2612.htm",
       "date": "2026-11-20 00:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "基準外国為替相場及び裁定外国為替相場（12月分）",
-      "link": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2612.htm",
+      "link": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2612.htm",
       "date": "2026-11-20 00:00"
     },
     {
@@ -152,7 +152,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "実質輸出入の動向",
-      "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
+      "link": "https://www.boj.or.jp/research/research_data/reri/index.htm",
       "date": "2026-11-19 07:00"
     },
     {
@@ -166,7 +166,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
-      "link": "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
+      "link": "https://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
       "date": "2026-11-19 01:13"
     },
     {
@@ -222,7 +222,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による本会合議事要旨の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
+      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
       "date": "2026-11-18 08:00"
     },
     {
@@ -243,7 +243,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "市場レベルBCP・3市場合同訓練を実施",
-      "link": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
+      "link": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
       "date": "2026-11-18 01:00"
     },
     {
@@ -299,7 +299,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
+      "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
       "date": "2026-11-17 08:00"
     },
     {
@@ -313,6 +313,13 @@
     {
       "category": "お金",
       "source": "日本銀行",
+      "title": "「貸出先別貸出金」（2026年9月）等の公表について",
+      "link": "https://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
+      "date": "2026-11-16 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
       "title": "「貸出先別貸出金」（2026年9月）等の公表について",
       "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
       "date": "2026-11-16 23:50"
@@ -342,19 +349,26 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第2の柱ガイダンス」の公表について",
-      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
+      "link": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
       "date": "2026-11-16 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "展望レポートのハイライト （2026年10月）",
-      "link": "http://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
+      "link": "https://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
       "date": "2026-11-16 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
+      "title": "業態別の日銀当座預金残高（10月）",
+      "link": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "date": "2026-11-16 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
       "title": "業態別の日銀当座預金残高（10月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-11-16 08:00"
@@ -370,7 +384,7 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
+      "link": "https://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
       "date": "2026-11-16 04:00"
     },
     {
@@ -398,14 +412,14 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
+      "link": "https://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
       "date": "2026-11-13 07:30"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
+      "link": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
       "date": "2026-11-13 07:00"
     },
     {
@@ -433,19 +447,33 @@
       "category": "お金",
       "source": "日本銀行",
       "title": "日本銀行が保有する国債の銘柄別残高",
-      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+      "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
       "date": "2026-11-12 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
       "title": "バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」の公表について",
-      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261112a.htm",
+      "link": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261112a.htm",
+      "date": "2026-11-12 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
       "date": "2026-11-12 08:00"
     },
     {
       "category": "お金",
       "source": "日本銀行",
+      "title": "フェイルの発生状況（10月）",
+      "link": "https://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
+      "date": "2026-11-12 07:30"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
       "title": "フェイルの発生状況（10月）",
       "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
       "date": "2026-11-12 07:30"
