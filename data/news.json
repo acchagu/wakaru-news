@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-23T00:54:29+00:00",
+  "updated_at": "2026-11-23T09:06:33+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "その他,令和８年９月に開催された業界団体との意見交換会において、金融庁が提起した主な論点を公表しました。",
+      "link": "https://www.fsa.go.jp/common/ronten/index.html",
+      "date": "2026-11-20 17:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -112,6 +119,13 @@
       "title": "小売物価統計調査 主要品目の都市別小売価格（2026年10月分）",
       "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
       "date": "2026-11-20"
+    },
+    {
+      "category": "海外",
+      "source": "国連ジュネーブ",
+      "title": "Experts of the Committee against Torture Commend Norway’s Ban on Conversion Therapy, Raise Questions on the Identification of Torture Survivors in the Asylum Process and the Use of Mechanical Restraints in Psychiatric Institutions",
+      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-la-norvege-au-comite-contre-la-torture-les-experts-du",
+      "date": "2026-11-19 20:09"
     },
     {
       "category": "お金",
@@ -279,13 +293,6 @@
       "source": "金融庁",
       "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
       "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-      "date": "2026-11-17 14:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
       "date": "2026-11-17 14:00"
     },
     {
@@ -659,13 +666,6 @@
       "title": "Experts of the Committee on Economic, Social and Cultural Rights Welcome Austria’s Expansion of Housing First Services, Raise Questions on Access to the Labour Market for Asylum Seekers and the Education of Minority Children",
       "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-lautriche-au-comite-des-droits-economiques-sociaux-et",
       "date": "2026-11-06 14:29"
-    },
-    {
-      "category": "海外",
-      "source": "国連ジュネーブ",
-      "title": "Committee on Economic, Social and Cultural Rights Commends Mexico for Progress in Reducing Poverty, Asks about Measures to Protect Human Rights Defenders and Reduce the Gender Wage Gap",
-      "link": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-du-mexique-au-comite-des-droits-economiques-sociaux-et",
-      "date": "2026-11-05 19:29"
     },
     {
       "category": "ゲーム・IT",
