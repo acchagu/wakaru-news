@@ -1,12 +1,61 @@
 {
-  "updated_at": "2026-11-24T06:03:49+00:00",
+  "updated_at": "2026-11-24T17:45:42+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
+      "date": "2026-11-24 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261124/20261124.html",
+      "date": "2026-11-24 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "国際関係,バーゼル銀行監督委員会による議事要旨について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/bis/20261124/20261124.html",
+      "date": "2026-11-24 17:00"
+    },
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "令和８年11月20日からの大雪に係る災害等に対する金融上の措置について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261124.html",
+      "date": "2026-11-24 16:00"
+    },
     {
       "category": "お金",
       "source": "金融庁",
       "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20261124/20261124.html",
       "date": "2026-11-24 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月24日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261124.pdf",
+      "date": "2026-11-24 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "バーゼル銀行監督委員会による議事要旨の公表について",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261124a.htm",
+      "date": "2026-11-24 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行政策委員会月報（令和8年10月号）",
+      "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2610.htm",
+      "date": "2026-11-24 07:30"
     },
     {
       "category": "お金",
@@ -191,13 +240,6 @@
       "date": "2026-11-19 15:00"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
-      "link": "https://www.digital.go.jp/news/2026-0911-01",
-      "date": "2026-11-19 10:29"
-    },
-    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "外国為替市況（11月19日）",
@@ -210,13 +252,6 @@
       "title": "実質輸出入の動向",
       "link": "http://www.boj.or.jp/research/research_data/reri/index.htm",
       "date": "2026-11-19 07:00"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
-      "link": "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
-      "date": "2026-11-19 01:13"
     },
     {
       "category": "ゲーム・IT",
@@ -245,20 +280,6 @@
       "title": "国際関係,証券監督者国際機構（IOSCO）による「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」について公表しました。",
       "link": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html",
       "date": "2026-11-18 18:14"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,金融安定理事会による本会合議事要旨について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/fsf/20261118/20261118.html",
-      "date": "2026-11-18 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "「銀行法施行規則」等、「自己資本比率規制（第１の柱・第３の柱）に関する告示」等及び「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
-      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
-      "date": "2026-11-18 15:00"
     },
     {
       "category": "お金",
@@ -452,13 +473,6 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」の公表について",
-      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261112a.htm",
-      "date": "2026-11-12 08:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "フェイルの発生状況（10月）",
       "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
@@ -582,13 +596,6 @@
       "title": "外国為替市況（11月10日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261110.pdf",
       "date": "2026-11-10 08:40"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「短観（全国企業短期経済観測調査）」調査表および記入要領・記入例",
-      "link": "http://www.boj.or.jp/statistics/outline/exp/tk/extk01.htm",
-      "date": "2026-11-10 05:00"
     },
     {
       "category": "国内",
