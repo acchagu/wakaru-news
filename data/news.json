@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-11-23T21:26:21+00:00",
+  "updated_at": "2026-11-24T06:03:49+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "金融庁",
+      "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/shouken/20261124/20261124.html",
+      "date": "2026-11-24 15:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "令和8年11月20日からの大雪に係る災害等に対する金融上の措置について（福島県）",
+      "link": "http://www.boj.or.jp/about/bcp/fso/fso261124a.pdf",
+      "date": "2026-11-24 04:30"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "【11月24日追加】「ニンテンドー ゲームキューブ Nintendo Classics」に『ウェーブレース ブルーストーム』を追加。",
+      "link": "https://www.nintendo.com/jp/topics/article/8cf1e987-b681-4b53-a68e-483b8d455ee7",
+      "date": "2026-11-24 01:14"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "ダンドリよくテトリミノを消してテト1を目指せ。テト1カップ「ピクミン4 ダンドリ検定 コラボ祭！」開催。",
+      "link": "https://www.nintendo.com/jp/topics/article/50c12352-5a94-4241-b91b-968a01aab5b2",
+      "date": "2026-11-24 01:03"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "古川デジタル大臣がアリベルティ次期駐日欧州連合大使の表敬を受けました",
+      "link": "https://www.digital.go.jp/press/58c00de5-c13a-4fd9-8df9-e4b5ea345ba1",
+      "date": "2026-11-24 00:26"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "サービス産業動態統計調査（2026年（令和8年）9月分速報、2026年（令和8年）6月分確報）",
+      "link": "https://www.stat.go.jp/data/mbss/kekka.html",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "FSBレポ統計の日本分集計結果",
+      "link": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "date": "2026-11-23 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -28,13 +77,6 @@
       "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
       "link": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986",
       "date": "2026-11-20 07:59"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
-      "link": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
-      "date": "2026-11-20 07:00"
     },
     {
       "category": "お金",
@@ -170,13 +212,6 @@
       "date": "2026-11-19 07:00"
     },
     {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当）の予約方法を公開しました",
-      "link": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
-      "date": "2026-11-19 06:00"
-    },
-    {
       "category": "お金",
       "source": "日本銀行",
       "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
@@ -266,34 +301,6 @@
       "title": "2026年のApp Store Awardsのファイナリストを紹介します",
       "link": "https://www.apple.com/jp/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
       "date": "2026-11-18"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
-      "date": "2026-11-17 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
-      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
-      "date": "2026-11-17 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "国際関係,IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
-      "link": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
-      "date": "2026-11-17 17:00"
-    },
-    {
-      "category": "お金",
-      "source": "金融庁",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
-      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-      "date": "2026-11-17 14:00"
     },
     {
       "category": "お金",
@@ -452,7 +459,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "フェイルの発生状況（10月）",
       "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
       "date": "2026-11-12 07:30"
@@ -542,20 +549,6 @@
       "date": "2026-11-11 06:30"
     },
     {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! インディー」特殊コインを投入し、効率よくコインを集める『RACCOIN: Chaos Max Edition』",
-      "link": "https://www.nintendo.com/jp/topics/article/98f912b6-f33b-4dfa-940c-a6681bb2ea9e",
-      "date": "2026-11-11 01:02"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! インディー」タヌキがBMXで郵便配達！？『TANUKI: Pon's Summer - タヌキ：ポンの夏』",
-      "link": "https://www.nintendo.com/jp/topics/article/11a5acfe-42af-4294-b421-1504a2a8cf45",
-      "date": "2026-11-11 01:01"
-    },
-    {
       "category": "お金",
       "source": "日本銀行 統計",
       "title": "マネーストック（10月）",
@@ -640,13 +633,6 @@
       "date": "2026-11-10"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "貸出・預金動向（10月）",
-      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2610.pdf",
-      "date": "2026-11-09 23:50"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
       "title": "オリヴィア・ディーンがApple Musicアーティスト・オブ・ザ・イヤー2026を受賞",
@@ -686,13 +672,6 @@
       "source": "総務省統計局",
       "title": "令和6年全国家計構造調査 年間収入・資産分布等に関する結果（ジニ係数、貧困率等を除く）",
       "link": "https://www.stat.go.jp/data/zenkokukakei/2024/kekka.html",
-      "date": "2026-10-30"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "統計Today No.210 社会生活基本調査から分かること（PDF：795KB）",
-      "link": "https://www.stat.go.jp/info/today/pdf/210.pdf",
       "date": "2026-10-30"
     },
     {
