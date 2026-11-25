@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-25T02:30:03+00:00",
+  "updated_at": "2026-11-25T12:56:36+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月25日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261125.pdf",
+      "date": "2026-11-25 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+      "date": "2026-11-25 08:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "消費者物価のコア指標",
+      "link": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "date": "2026-11-25 05:00"
+    },
     {
       "category": "ゲーム・IT",
       "source": "任天堂",
@@ -417,7 +438,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "業態別の日銀当座預金残高（10月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "date": "2026-11-16 08:00"
@@ -428,13 +449,6 @@
       "title": "「スプラトゥーン レイダース イカすアートブック」発売決定＆予約開始。Nintendo Storeの数量限定特典もご紹介。",
       "link": "https://www.nintendo.com/jp/topics/article/c73c1b54-c93c-4895-aaaa-8ced4b6508cb",
       "date": "2026-11-16 06:03"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
-      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
-      "date": "2026-11-16 04:00"
     },
     {
       "category": "お金",
@@ -540,20 +554,6 @@
       "title": "Apple、2026 Designers of Tomorrowの開催を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
       "date": "2026-11-12"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "企業物価指数（10月）",
-      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
-      "date": "2026-11-11 23:50"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "「預金者別預金」（2026年9月）等の公表について",
-      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
-      "date": "2026-11-11 23:50"
     },
     {
       "category": "ゲーム・IT",
