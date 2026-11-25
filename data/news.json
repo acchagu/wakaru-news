@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-11-24T17:45:42+00:00",
+  "updated_at": "2026-11-25T02:30:03+00:00",
   "items": [
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『マリオカート ワールド』の無料アップデートが本日配信。いつものコースをアレンジした8つの新コースや、サバイバルの新ルートを追加。",
+      "link": "https://www.nintendo.com/jp/topics/article/8ec3b6ba-2029-401f-bdf5-c4822e96db09",
+      "date": "2026-11-25 01:09"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "営業毎旬報告（11月20日現在）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261120.htm",
+      "date": "2026-11-25 01:00"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "貸出約定平均金利（9月）",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2609.pdf",
+      "date": "2026-11-24 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "企業向けサービス価格指数（10月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2610.pdf",
+      "date": "2026-11-24 23:50"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -430,20 +458,6 @@
       "date": "2026-11-13 08:50"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
-      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
-      "date": "2026-11-13 07:30"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
-      "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
-      "date": "2026-11-13 07:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「Hello! インディー」ソニックたちと力を合わせてゴールを目指せ『SONIC PICO PARK』",
@@ -466,7 +480,7 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "title": "日本銀行が保有する国債の銘柄別残高",
       "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
       "date": "2026-11-12 08:00"
@@ -549,25 +563,11 @@
       "date": "2026-11-11 14:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（11月11日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261111.pdf",
-      "date": "2026-11-11 08:40"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "ニュースリリース「Nintendo Switch 2 ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が発売後4日間で520万本を突破」を公開しました。",
       "link": "https://www.nintendo.co.jp/corporate/release/2026/261111.html",
       "date": "2026-11-11 06:30"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "マネーストック（10月）",
-      "link": "http://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
-      "date": "2026-11-10 23:50"
     },
     {
       "category": "海外",
@@ -589,13 +589,6 @@
       "title": "Seventh Review Conference of the High Contracting Parties to the Convention on Certain Conventional Weapons (CCW)",
       "link": "https://www.ungeneva.org/en/news-media/press-release/2026/11/seventh-review-conference-high-contracting-parties-convention",
       "date": "2026-11-10 09:29"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（11月10日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261110.pdf",
-      "date": "2026-11-10 08:40"
     },
     {
       "category": "国内",
