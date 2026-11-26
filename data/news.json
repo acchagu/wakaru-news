@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-25T22:33:43+00:00",
+  "updated_at": "2026-11-26T05:05:31+00:00",
   "items": [
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "2026冬『Nintendo Switch Sports Resort』・『トモダチコレクション わくわく生活／リズム天国 ミラクルスターズ』のCMを公開しました。 ミラクルスターズ",
+      "link": "https://www.nintendo.com/jp/hardware/2026-winter/index.html",
+      "date": "2026-11-26 01:10"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "Nintendo Switch 2 ソフト『ゼノブレイド3 Nintendo Switch 2 Edition』の紹介映像を公開しました。 ※本作の対象年齢は「15歳以上」です。",
+      "link": "https://www.nintendo.com/jp/games/switch2/az3hg/index.html",
+      "date": "2026-11-26 01:01"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【挨拶】田村審議委員「わが国の経済・物価情勢と金融政策」（山梨）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261126a.htm",
+      "date": "2026-11-26 01:00"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "住民基本台帳人口移動報告 2026年（令和8年）10月分",
+      "link": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "「民間金融機関の資産・負債」の訂正について",
+      "link": "http://www.boj.or.jp/statistics/outline/notice_2026/not261126a.htm",
+      "date": "2026-11-25 23:50"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "（統計の注釈）量的金融指標（市場規模・残高等）／金融機関の資産・負債等",
+      "link": "http://www.boj.or.jp/statistics/outline/note/notest32.htm",
+      "date": "2026-11-25 23:50"
+    },
     {
       "category": "お金",
       "source": "日本銀行 統計",
@@ -431,13 +473,6 @@
     },
     {
       "category": "お金",
-      "source": "日本銀行",
-      "title": "展望レポートのハイライト （2026年10月）",
-      "link": "http://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
-      "date": "2026-11-16 08:00"
-    },
-    {
-      "category": "お金",
       "source": "日本銀行 統計",
       "title": "業態別の日銀当座預金残高（10月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
@@ -500,13 +535,6 @@
       "date": "2026-11-12 08:00"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "フェイルの発生状況（10月）",
-      "link": "http://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
-      "date": "2026-11-12 07:30"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "タブレット・スマートフォン向けアプリ「かおルイージ」、「かおピーチ」を配信開始。そのほか、「マイマリオ」の最新情報もご紹介。",
@@ -542,32 +570,11 @@
       "date": "2026-11-12 01:07"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "営業毎旬報告（11月10日現在）",
-      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
-      "date": "2026-11-12 01:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "Apple Newsroom",
       "title": "Apple、2026 Designers of Tomorrowの開催を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
       "date": "2026-11-12"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「Hello! Pikmin 03 ボウリング」を公開しました。",
-      "link": "https://www.nintendo.com/jp/character/pikmin/hello-pikmin/index.html",
-      "date": "2026-11-11 14:00"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "ニュースリリース「Nintendo Switch 2 ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が発売後4日間で520万本を突破」を公開しました。",
-      "link": "https://www.nintendo.co.jp/corporate/release/2026/261111.html",
-      "date": "2026-11-11 06:30"
     },
     {
       "category": "海外",
@@ -666,13 +673,6 @@
       "title": "Apple、第4四半期の業績を発表",
       "link": "https://www.apple.com/jp/newsroom/2026/11/apple-reports-fourth-quarter-results/",
       "date": "2026-11-03"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "令和6年全国家計構造調査 年間収入・資産分布等に関する結果（ジニ係数、貧困率等を除く）",
-      "link": "https://www.stat.go.jp/data/zenkokukakei/2024/kekka.html",
-      "date": "2026-10-30"
     },
     {
       "category": "ゲーム・IT",
