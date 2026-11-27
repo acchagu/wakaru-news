@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-11-27T00:35:39+00:00",
+  "updated_at": "2026-11-27T09:41:18+00:00",
   "items": [
+    {
+      "category": "お金",
+      "source": "日本銀行 統計",
+      "title": "外国為替市況（11月27日）",
+      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261127.pdf",
+      "date": "2026-11-27 08:40"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【記者会見】田村審議委員（山梨、11月26日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261127a.pdf",
+      "date": "2026-11-27 07:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "共創PFキャンプin南東北～EBPM・データ利活用編～を開催しました",
+      "link": "https://www.digital.go.jp/get-involved/co-creation-platform/4c08dbd0-efe0-4734-a589-b2426dea961e",
+      "date": "2026-11-27 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "ガバメントAI 源内の公式ロゴをリリースしました",
+      "link": "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df",
+      "date": "2026-11-27 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "ガバメントAI 源内をOSS（オープンソースソフトウェア）として公開しました",
+      "link": "https://www.digital.go.jp/news/907c8e5d-2f4f-4bd7-9400-37c9f4221d7d",
+      "date": "2026-11-27 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI 源内の大規模実証を開始します",
+      "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
+      "date": "2026-11-27 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI 源内の大規模実証を開始しました",
+      "link": "https://www.digital.go.jp/news/fc155eba-e83d-4ecf-9c6a-a3c855e2e7b3",
+      "date": "2026-11-27 06:00"
+    },
+    {
+      "category": "国内",
+      "source": "デジタル庁",
+      "title": "ガバメントAI 源内での「PLaMo翻訳」利用開始について",
+      "link": "https://www.digital.go.jp/news/b27d1af7-c231-4ab3-ad78-fc5408d44504",
+      "date": "2026-11-27 06:00"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "家族や友達と楽しむ冬。Nintendo Switch 2・Nintendo Switchの新CMを公開。関連ニュースもご紹介。",
+      "link": "https://www.nintendo.com/jp/topics/article/1ac5b2e5-d11e-48b2-b35d-463eaf741917",
+      "date": "2026-11-27 01:17"
+    },
+    {
+      "category": "お金",
+      "source": "日本銀行",
+      "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261127a.htm",
+      "date": "2026-11-27 01:15"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "『ピクロスS』が11月30日から期間限定で遊び放題。Nintendo Switch Online加入者限定イベント「いっせいトライアル」開催。",
+      "link": "https://www.nintendo.com/jp/topics/article/024e9a9d-e9ce-44fa-a550-ae721c9cdab2",
+      "date": "2026-11-27 01:06"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "12月1日から、Nintendo Storeで「あと払い（ペイディ）キャッシュバックキャンペーン」を開催。",
+      "link": "https://www.nintendo.com/jp/topics/article/027dcc35-0d60-4d44-a563-0177f606476a",
+      "date": "2026-11-27 01:03"
+    },
+    {
+      "category": "ゲーム・IT",
+      "source": "任天堂",
+      "title": "ニンテンドーeショップ新作ソフト情報 11/27（金）号。",
+      "link": "https://www.nintendo.com/jp/topics/article/07035a63-2a12-40c4-8277-f15abee4f966",
+      "date": "2026-11-27 01:02"
+    },
     {
       "category": "国内",
       "source": "総務省統計局",
@@ -220,13 +311,6 @@
     },
     {
       "category": "国内",
-      "source": "デジタル庁",
-      "title": "古川デジタル大臣がアリベルティ次期駐日欧州連合大使の表敬を受けました",
-      "link": "https://www.digital.go.jp/press/58c00de5-c13a-4fd9-8df9-e4b5ea345ba1",
-      "date": "2026-11-24 00:26"
-    },
-    {
-      "category": "国内",
       "source": "総務省統計局",
       "title": "サービス産業動態統計調査（2026年（令和8年）9月分速報、2026年（令和8年）6月分確報）",
       "link": "https://www.stat.go.jp/data/mbss/kekka.html",
@@ -252,13 +336,6 @@
       "title": "外国為替市況（11月20日）",
       "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261120.pdf",
       "date": "2026-11-20 08:40"
-    },
-    {
-      "category": "国内",
-      "source": "デジタル庁",
-      "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
-      "link": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986",
-      "date": "2026-11-20 07:59"
     },
     {
       "category": "お金",
@@ -394,13 +471,6 @@
       "date": "2026-11-18 08:40"
     },
     {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "金融安定理事会による本会合議事要旨の公表について",
-      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
-      "date": "2026-11-18 08:00"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「サウンド系 ワークショップ」のお申し込み受付を開始しました。",
@@ -413,13 +483,6 @@
       "title": "『スプラトゥーン3』の更新データVer.12.0.0を本日配信。さまざまなアイテムが手に入るゲームニュースも配信中。",
       "link": "https://www.nintendo.com/jp/topics/article/405b3f79-3dfb-4336-baae-5256a086eb35",
       "date": "2026-11-18 03:01"
-    },
-    {
-      "category": "お金",
-      "source": "日本銀行",
-      "title": "市場レベルBCP・3市場合同訓練を実施",
-      "link": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
-      "date": "2026-11-18 01:00"
     },
     {
       "category": "ゲーム・IT",
@@ -500,13 +563,6 @@
       "date": "2026-11-13 17:48"
     },
     {
-      "category": "お金",
-      "source": "日本銀行 統計",
-      "title": "外国為替市況（11月13日）",
-      "link": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261113.pdf",
-      "date": "2026-11-13 08:50"
-    },
-    {
       "category": "ゲーム・IT",
       "source": "任天堂",
       "title": "「Hello! インディー」ソニックたちと力を合わせてゴールを目指せ『SONIC PICO PARK』",
@@ -526,34 +582,6 @@
       "title": "タブレット・スマートフォン向けアプリ「かおルイージ」、「かおピーチ」を配信開始。そのほか、「マイマリオ」の最新情報もご紹介。",
       "link": "https://www.nintendo.com/jp/topics/article/482f5918-f83f-453f-90c1-78c1cc02065c",
       "date": "2026-11-12 05:06"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "『ピクミン4 Nintendo Switch 2 Edition + だれでもチャレンジ! ダンドリ検定』は本日発売。小芝風花さんがダンドリ検定に挑む長編映像も公開中。",
-      "link": "https://www.nintendo.com/jp/topics/article/b852fe50-71bf-4c1a-a338-5b75951d040d",
-      "date": "2026-11-12 01:14"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "「ソードカービィ&ドラグーン」「ノワールデデデ&ハイドラ」のamiiboは本日発売。ゲーム内イベントも近日開催予定。",
-      "link": "https://www.nintendo.com/jp/topics/article/13827716-39ef-4435-911e-ab6583921da4",
-      "date": "2026-11-12 01:13"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "プレゼントにおすすめのグッズをご紹介。『マリオカート ワールド』のラッピンググッズは本日発売。",
-      "link": "https://www.nintendo.com/jp/topics/article/680e0eda-8dd6-4533-9f42-ef26376f111f",
-      "date": "2026-11-12 01:08"
-    },
-    {
-      "category": "ゲーム・IT",
-      "source": "任天堂",
-      "title": "幻想を超える旅が始まる。ファンタジーRPG『メタファー：リファンタジオ』がNintendo Switch 2 で本日発売。 ※本作の対象年齢は「15歳以上」です。",
-      "link": "https://www.nintendo.com/jp/topics/article/ca36364e-5117-4881-9688-ea2d023a7b45",
-      "date": "2026-11-12 01:07"
     },
     {
       "category": "ゲーム・IT",
