@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-26T15:18:11+00:00",
+  "updated_at": "2026-11-27T00:35:39+00:00",
   "items": [
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "消費者物価指数（東京都区部－2026年（令和8年）11月分中旬速報値）（2025年基準）",
+      "link": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "国内",
+      "source": "総務省統計局",
+      "title": "小売物価統計調査 主要品目の東京都区部小売価格及び全国統一価格品目の価格（2026年11月分）",
+      "link": "https://www.stat.go.jp/data/kouri/doukou/3.html",
+      "date": "2026-11-27"
+    },
     {
       "category": "お金",
       "source": "金融庁",
@@ -595,20 +609,6 @@
       "source": "総務省統計局",
       "title": "家計調査（2026年（令和8年）7～9月期分）",
       "link": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/index.html#shihanki",
-      "date": "2026-11-10"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "家計消費状況調査結果 支出関連項目：2026年（令和8年）9月分、7～9月期平均 ICT関連項目 ：2026年（令和8年）7～9月期平均",
-      "link": "https://www.stat.go.jp/data/joukyou/12.html",
-      "date": "2026-11-10"
-    },
-    {
-      "category": "国内",
-      "source": "総務省統計局",
-      "title": "2025年基準 消費動向指数（CTI）2026年（令和8年）9月分 及び 7～9月期平均",
-      "link": "https://www.stat.go.jp/data/cti/index2.html",
       "date": "2026-11-10"
     },
     {
